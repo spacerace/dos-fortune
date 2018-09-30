@@ -1,5 +1,5 @@
-/* DOS FORTUNE 
- * 
+/* DOS FORTUNE
+ *
  *  (c) 2018 <stecdose@gmail.com>
  *  license: GPLv2
  */
