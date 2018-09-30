@@ -5,10 +5,11 @@
  */
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
-#include <dos.h>
+#include <time.h>
 
-#define uint16_t    int
+#define uint16_t    unsigned
 
 #define DEFAULT_FOLDER  "C:\\GAMES\\FORTUNE\\"
 #define DEFAULT_CONFIG  "FORTUNE.CFG"
@@ -17,7 +18,7 @@ static char folder[128];
 char cfg[128];
 
 int main(int argc, char *argv[]) {
-    int f;
+    FILE *f;
 
     char str[129];
     char tmp[129];
