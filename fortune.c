@@ -31,6 +31,7 @@ int main(int argc, char *argv[]) {
         sprintf(folder, "%s", argv[1]);
     } else {
         printf("too much arguments!\r\n");
+        exit(-1);
     }
     sprintf(cfg, "%s\\%s", folder, DEFAULT_CONFIG);
 
