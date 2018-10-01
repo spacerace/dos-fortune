@@ -1,0 +1,205 @@
+Wie fängt man einen Löwen in der Wüste?
+1. mathematische Methode:
+Man baut sich einen Käfig, setzt sich hinein und definiert:
+"Hier ist außen."
+%
+Wie fängt man einen Löwen in der Wüste?
+2. mathematische Methode: Die Hilbert'sche oder axiomatische Methode
+
+Man stellt einen Käfig in die Wüste und führt folgendes Axiomensystem ein:
+Axiom 1: Die Menge der Löwen in der Wüste ist nicht leer.
+Axiom 2: Sind Löwen in der Wüste, so ist auch ein Löwe im Käfig.
+Schlußregel: Ist p ein richtiger Satz und gilt "wenn p, so q", so ist 
+             auch q ein richtiger Satz.
+Satz: Es ist ein Löwe im Käfig.
+%
+Wie fängt man einen Löwen in der Wüste?
+3. mathematische Methode: Die geometrische Methode
+
+Man stelle einen zylindrischen Käfig in die Wüste.
+1. Fall: Der Löwe ist im Käfig. Dieser Fall ist trivial.
+2. Fall: Der Löwe ist außerhalb des Käfigs. 
+Dann stelle man sich in den Käfig und mache eine Inversion an den
+Käfigwänden. Auf diese Weise gelangt der Löwe in den Käfig, und man
+selbst nach draußen.
+Achtung! Bei Anwendung dieser Methode ist dringend darauf zu achten, daß
+man sich nicht auf den Mittelpunkt des Käfigbodens stellt, da man sonst 
+im Unendlichen verschwindet.
+%
+Wie fängt man einen Löwen in der Wüste?
+4. mathematische Methode: Die Projektionsmethode
+
+Ohne Einschränkung der Allgemeinheit nehmen wir an, daß die Wüste eine 
+Ebene ist. Wir projizieren sie auf ein Gerade durch den Käfig, und die 
+Gerade auf einen Punkt im Käfig. Damit gelangt der Löwe in den Käfig.
+%
+Wie fängt man einen Löwen in der Wüste?
+5. mathematische Methode: 4. Die Bolzano-Weierstraß-Methode
+
+Wir halbieren die Wüste in Nord-Süd-Richtung durch einen Zaun. Dann ist
+der Löwe entweder in der westlichen oder östlichen Hälfte. Wir wollen
+annehmen, daß er in der westlichen Hälfte ist. Daraufhin halbieren wir
+diesen westlichen Teil durch einen Zaun in Ost-West-Richtung. Der Löwe
+ist entweder im nördlichen oder im südlichen Teil. Wir nehmen an, er 
+ist im nördlichen. Auf diese Weise fahren wir fort. Der Durchmesser der
+Teile, die bei dieser Halbiererei entstehen, strebt gegen Null. Auf diese
+Weise wird der Löwe schließlich von einem Zaun beliebig kleiner Länge
+eingegrenzt.
+
+Achtung: Bei dieser Methode achte man darauf, daß das schöne Fell
+des Löwen nicht beschädigt wird.
+%
+Wie fängt man einen Löwen in der Wüste?
+6. mathematische Methode: Die mengentheoretische Methode
+
+Die Punkte der Wüste lassen sich wohlordnen. Ausgehend vom kleinsten 
+Element erwischt man den Löwen durch transfinite Induktion.
+Bemerkung: Diese Methode ist in Fachkreisen umstritten wegen der
+Verwendung des Wohlordnungssatzes bzw. des Auswahlaxioms. Wie so oft,
+hat auch die vorliegende Fragestellung zu einer fruchtbaren Entwicklung 
+geführt. Dabei wurde schließlich eine sehr viel einfachere Methode
+entdeckt, die den genannten Mangel nicht aufweist:
+Man betrachte alle Teilmengen der Wüste, die den Löwen enthalten, und
+bilde ihren Durchschnitt. Er enthält als einziges Element den Löwen.
+(Bei dieser Durchschneiderei ist lediglich darauf zu achten, daß das
+schöne Fell des Löwen nicht zerschnitten wird.)
+%
+Wie fängt man einen Löwen in der Wüste?
+7. mathematische Methode: Die funktionalanalytische Methode
+
+Die Wüste ist ein separabler Raum. Er enthält daher eine abzählbare
+dichte Menge, aus der eine Folge ausgewählt werden kann, die gegen den
+Löwen konvergiert. Mit einem Käfig auf dem Rücken springen wir von
+Punkt zu Punkt dieser Folge und nähern uns so dem Löwen beliebig genau.
+%
+Wie fängt man einen Löwen in der Wüste?
+8. mathematische Methode: Die Peano-Methode
+
+Man konstruiere eine Peano-Kurve durch die Wüste, also eine stetige
+Kurve, die durch jeden Punkt der Wüste geht. Es ist gezeigt worden,
+daß man eine solche Kurve in beliebig kurzer Zeit durchlaufen kann.
+Mit dem Käfig unter'm Arm durchlaufe man die Kurve in kürzerer Zeit,
+als der Löwe benötigt, um sich um seine eigene Länge fortzubewegen.
+%
+Wie fängt man einen Löwen in der Wüste?
+9. mathematische Methode: Die topologische Methode
+
+Der Löwe kann topologisch als Torus aufgefaßt werden. Man
+transportiere die Wüste in den vierdimensionalen Raum. Es ist nun
+möglich, die Wüste so zu deformieren, daß beim Rücktransport in den
+dreidimensionalen Raum der Löwe verknotet ist. Dann ist er hilflos.
+%
+Wie fängt man einen Löwen in der Wüste?
+10. mathematische Methode: Die Cauchy'sche oder funktionentheoretische Methode
+
+Wir betrachten eine reguläre löwenwertige Funktion f auf der Wüste. 
+Der Käfig stehe im Punkt z der Wüste. Man bilde dann das Integral
+    (1/2*Pi*i)*(Integral über C)(f(My)/(My-z)*dMy) , 
+wobei C der Rand der Wüste ist. Der Wert des Integrals ist f(z),
+d.h. es ist ein Löwe im Käfig.
+%
+Wie fängt man einen Löwen in der Wüste?
+11. mathematische Methode: Die  Banach'sche oder iterative Methode
+
+Es sei f eine Kontraktion der Wüste in sich. x(0) sei ihr Fixpunkt. Auf
+diesen Fixpunkt stellen wir den Käfig. Durch sukzessive Iteration
+    W(n+1)=f(W(n)), n= 0, 1, 2, ... ( W(0)= Wüste) 
+wird die Wüste auf den Fixpunkt zusammengezogen. So gelangt der Löwe
+in den Käfig.
+%
+Wie fängt man einen Löwen in der Wüste?
+12. mathematische Methode: Die Kompaktionsmethode
+
+Die Wüste wird ohne Beschränkung der Allgemeinheit als kompakt
+vorrausgesetzt. Man überdecke sie mit einer Familie von Käfigen
+K(i) (i aus I).  Dann gibt es unter ihnen endlich viele Käfige
+K(11), ..., K(1n) die bereits die ganze Wüste überdecken. Die
+Durchmusterung dieser Käfige auf darin befindliche Löwen wird
+als Diplomarbeit vergeben.
+%
+Wie fängt man einen Löwen in der Wüste?
+13. mathematische Methode: Die logische Methode oder Methode des
+                          "Tertium non datur"
+
+Man stelle einen offenen Käfig in die Wüste und lege ein Brett mit 
+Leim daneben. Beides biete man dem Löwen zum Betreten an. Der Löwe 
+sagt dann: "Nein, auf den Leim gehe ich nicht!" Nach dem "Tertium non
+datur" muß er in den Käfig gehen. Danach schlägt man die Tür zu.
+%
+Wie fängt man einen Löwen in der Wüste?
+14. mathematische Methode: Die stochastische Methode
+
+Man benötigt dazu ein Laplace-Rad, einige Würfel und eine Gauss'sche
+Glocke. Mit dem Laplace-Rad fährt man in die Wüste und wirft mit den
+Würfeln nach dem Löwen. Kommt er dann wutschnaubend angerannt, so
+stülpt man die Gauss'sche Glocke über ihn. Unter ihr ist er mit der
+Wahrscheinlichkeit eins gefangen.
+%
+Wie fängt man einen Löwen in der Wüste?
+15. mathematische Methode: Die didaktische Methode
+
+Man nähere sich dem Löwen auf der Bruner'schen Spirale. Dann 
+elementarisiere man den Löwen zu einer Katze und fange ihn mit
+einer Schale Milch.
+%
+Wie fängt man einen Löwen in der Wüste?
+1. physikalische Methode: Die Newton'sche Methode
+
+Käfig und Löwe ziehen sich durch die Gravitationskraft an. Wir
+vernachlässigen die Reibung. Auf diese Weise muß der Löwe früher
+oder später im Käfig landen.
+%
+Wie fängt man einen Löwen in der Wüste?
+2. physikalische Methode: Die Heisenberg-Methode
+
+Ort und Geschwindigkeit eines bewegten Löwen lassen sich nicht
+gleichzeitig bestimmen. Da bewegte Löwen also keinen physikalisch
+sinnvollen Ort in der Wüste einnehmen, kommen sie für die Jagd
+auch nicht in Frage.  Die Löwenjagd kann sich daher nur auf ruhende
+Löwen beschränken. Das Einfangen eines ruhenden, bewegungslosen
+Löwen wird dem Leser als Übungsaufgabe überlassen.
+
+(Dämliche Bemerkung eines Physikers zur Heisenberg-Methode:
+ Ort und Geschwindigkeit eines ruhenden, bewegungslosen Löwen
+ lassen sich schon gleich überhaupt nicht gleichzeitig bestimmen,
+ so daß selbiger erst recht nicht für die Jagd in Frage kommt.
+ Schade eigentlich...)
+%
+Wie fängt man einen Löwen in der Wüste?
+3. physikalische Methode: Die Schrödinger-Methode
+
+Die Wahrscheinlichkeit dafür, daß sich ein Löwe zu einem beliebigen
+Zeitpunkt im Käfig befindet, ist größer als Null. Man setze sich vor
+den Käfig und warte. 
+Bemerkung: Hierbei wird üblicherweise vorausgesetzt, daß der Käfig 
+offen ist und man ihn zuschlagen muß, wenn der Löwe drin ist. 
+H. Schubert wies aber darauf hin, daß man den Käfig wegen des
+Tunneleffekts auch zulassen kann. Auf diese Weise kann man bei der
+elenden Warterei auch mal weggehen und ein Bierchen trinken. Aber
+nicht zu lange! Denn kluge Löwen, die den Tunneleffekt begriffen haben,
+verschwinden auch wieder.
+%
+Wie fängt man einen Löwen in der Wüste?
+4. physikalische Methode: Die Einstein'sche oder relativistische Methode
+
+Man überfliege die Wüste nahezu mit Lichtgeschwindigkeit. Durch die
+relativistische Längenkontraktion wird der Löwe flach wie Papier.
+Man greife ihn, rolle ihn auf und mache ein Gummiband herum.
+%
+Wie fängt man einen Löwen in der Wüste?
+Die dialektische Methode
+
+Man zäunt die Wüste ein, bewässert sie, sät Gras und setzt Kaninchen
+aus. Die Kaninchen vermehren sich schnell. Nach Hegel kommt daher bald 
+der Zeitpunkt, bei dem Quantität in Qualität umschlägt, und dann hat
+man einen Löwen.
+%
+Wie fängt man einen Löwen in der Wüste?
+5. physikalische Methode: Petard, H.: A Contribution to the
+   Mathematical Theory of Big Game Hunting. American Math Monthly 45,
+   446-447. 1938
+
+Mit einer halbdurchlässigen Membran, die alles außer Löwen
+durchläßt, siebt man die Wüste durch.
+
+%

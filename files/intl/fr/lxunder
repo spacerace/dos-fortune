@@ -1,0 +1,504 @@
+%
+
+<closeman> J'ai refais toute la configuration de mon firewall avec iptables
+<closeman> Et tout marche impec sauf => Partage de connexion
+<closeman> Ca marchait tres bien avt
+<closeman> Depuis que j'ai fais tte mes regles
+<closeman> Donc ce qui fo faire c carrement se pencher sur ces regles :)
+<Firebird> ah ? t'es arrivé à la ménopause ?
+<closeman> monopause ?
+<Firebird> ménopause !
+<closeman> Heu bien a vrai dire
+<closeman> je sais pas tres bien si ca fait partie de iptables ca 
+
+%
+
+<Socrate> a hate de nettoyer son hd des produits micro$oft
+<Mike32> socrate a tort; Bilou a révolutionné l'infirmatique
+<Socrate> mais ses os plantent!!!
+<Mike32> ils plantent mais ils sont tellement simples!!
+<Flyoc> bah Bilou c juste un bon commercial : il arrive à refourger ses merdes partout
+<Mike32> non sorry: je ne veux pas qu'on dise du mal de Bilou. Sans lui l'Internet moderne n'existerait pas.
+<Mike32> Je suis heureux de voir qu'aujourd'hui on achète un PC comme on achète une botte de poireaux
+<Mike32> Bill gates a fait descendre l'ordinateur de son piédestal et c'est heureux 
+
+%
+
+<Mike32> Okki : tant qu'ilk n'existe pas de desktop convivial, humain sous Linux, oui, je préfère Windows pour les desktops.
+<Okki> Mike32: ca sert à quoi, un desktop ?
+<Mike32> ça sert à envoyer des emails, à échanger des documents Word et Excel etc..
+
+%
+
+<moogly> Par contre je trouve vraiment mais vraiment intolerable que des administrateur reseau install du windows comme serveur
+<Mike32> moogly : sorry mais il te manque des trucs. Windows comme serveur est cool, quand on connait et qu'on applique les recommendations de Microsoft. 
+
+%
+
+<vim> Tsuna: tu parle de quel troll au juste ?
+<vim> et que veut tu dire par troll ?
+<vim> un genre de lutin ou quoi 
+
+%
+
+<Mikmak> iptables -I INPUT -p tcp --dport 25 -j DROP par exemple
+<Djo> [root@dhcp-sitel-4 /root]# iptables -I INPUT -p tcp --dport 25 -j DROP par exemple
+<Djo> Bad argument `par' 
+
+%
+
+<WildZeck> MERDE CHMOD -R 777 * dans le REP / !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<kwisatz> WildZeck: perdu :)
+<melmoth> te voila avec une distrib mono utiliateur :)
+<kwisatz> mdr
+<kwisatz> WildZeck: je te conseille un init 1 :-)
+<kwisatz> voire un rm -rf /
+
+%
+
+<Nicklas> purée j'aurais dû le faire en C mon script plutôt qu'en perl
+
+%
+
+<Jupiterie> j'ai pas besoin de shell je tape en console banane
+
+%
+
+...
+<rv_> et Ctrl alt F2 pour aller sous console
+<rv_> mais c koi pour passer d'un bureau a un autre !
+<rv_> au fait c koi le raccourci pour passer d'un bureau a un autre 'question stupide"
+<cycyx> ça dépend du window manager et de ta conf
+<Firebird> ce qui fonctionne toujours c'est CTRL-ALT-BCKSP
+
+-:- SignOff rv_: #linuxfr (Read error: EOF from client)
+-:- rv_ [~rv@217.11.166.169] has joined #linuxfr
+
+<rv_> Firebird: MEURT...
+
+%
+
+<woof_> bon, j'en suis a -ac12
+<woof_> encore 10 patches
+<Okki> woof_: ?
+<Okki> woof_: prends direct l'ac22
+<woof_> Okki: je dl les patches ac
+<woof_> Okki: ah?
+<woof_> ARGGGGGGGGGGGGGGGGGGGGGG
+<Okki> woof_: ah, parce que t'appliques les 22 patchs les uns après les autres ?
+<woof_> ouai
+<woof_> Okki: non?
+<woof_> Okki: y'a tt de le ac22?
+<woof_> kewl
+<woof_> ca va m'épargner qques heures de dl
+
+%
+
+<kwisatz> moi j'ai hésité a devenir canadien
+<kwisatz> mais rien que de penser qu'il fallait faire une ablation du cerveau, ca m'a refroidi
+
+%
+
+<Erik> hacyran: tu dis: "vi,....." tu parles tu du prog VI ???? Je le deteste.... tu entres la dedans et t'es pogne pour appeler le 911 pour savoir
+
+%
+
+<Qui_Gon> je veux pinger ma machine qui est en ip 192.215.235.1 sur mon réseau local
+<Jayge> Qui_Gon> pourquoi tu les as pas appellée 192.168.* comme tout le monde ???
+<Qui_Gon> ok je change alors
+<Jayge> Ouais, les classes A je connais c'est les modems ADSL surtout, les classes C c'est utilisé dans les reseaux mais les B?
+<lc_> Jayge: les classes A ont ete invente avant les modems ADSL
+<Jayge> Lc_> j'ai pas dit le contraire
+<Jayge> Lc_> j'ai dit que l'utilisation la plus courante était POUR les modems ADSL !
+<Jayge> nuance
+
+%
+
+<melmoth> that->question=(to($be) | ! to($be));
+<Gluon> Ton poeme n'est pas fonctionnel
+<melmoth> non, mais il est pas de moi mais de Sh7keSP3eR
+
+%
+
+<harobed> hacyran : chmod avec quoi derière ?
+<kwisatz> avec man devant
+
+%
+
+<Channels> tous: comment on f pour modif un fichier ki se trouve dans /proc ????
+<Channels> moi je veut modif la ligne sur la puissanse de mon cpu dans /proc/cpu
+<Obelix_> Channels: pour koi faire ?
+<Channels> pour changer la vitesse de mon cpu
+
+%
+
+<banana_> qqn veut bien prendre 5 min pour aider un pov'newbie Linux en me faisant profiter de son incommensurable et immense science oh venerables linuxiens votre corps n'est qu'un ecrin pour l'enorme joyau qu'est votre cerveau ...
+
+%
+
+<Alakazou_> Obelix_: c ou tu trouve ca /etc/environment ?
+
+%
+
+<aude20> personne a les dns de wanadoo cable pour atteindre des debits de 90ko/S ?
+
+%
+
+<skilla> mac_ au fait ,comment je pourait fair marcher un hp 710c sous linux ?
+<mac_> skilla y a quoi comme processeur sur cette bete ?
+<skilla> mac_ hp 710 C c une imprimante ;
+
+%
+
+<Jik2k> sinon vous auriez pas un crack pour redhat 7.0 ?
+<Jik2k> voire un serial pour mandrake
+<Mikmak> n'importe quoi
+<Jik2k> huh?
+<Jik2k> bah quand je le demarre il me demande un mot de passe
+
+%
+
+<Olaf2001> J'ai marquer x comme tu me la dit pis sa me donne:
+<Olaf2001> bash: x: Command not found
+<falken> t'as pas de lien dessus
+<falken> quand tu configure xfree
+<falken> il te demande a la fin si tu veux un lien symbolique dessus
+<falken> faut mettre oui
+<Olaf2001> jpeut rien faire. chu en mode test
+<Olaf2001> oups
+<Olaf2001> texte
+<Olaf2001> j'ai pas les icome pis le ptit K en bas
+
+%
+
+<Olaf2001> j'ai hate d'etre capable de toute faire cque jveux avec linux. Mais pour l'instant, mettons que j'ai un GRAND bout de chemin a faire
+<guijemont> Olaf2001: pour t'aider dans ton granc bout de chemin, si tu connais pas déjà, je te recommande tout ce qu'il y a sur www.linux-france.org/article
+<Olaf2001> genre mettre dla transparance, changer les icone, etc
+<guijemont> Olaf2001: si t'as installé linux pour "mettre dla transparance, changer les icone, etc" je crains que tu ne te sois trompé
+<guijemont> ah, nan, c vrai
+<guijemont> t'as pas installé linux
+<guijemont> t'as installé Mandrake
+<Olaf2001> guijemont: bin non! T ti fou? JLai installer pcq je suis écoeuré des erreur fatale pis de l'empire monopolistique du mal
+<guijemont> oulalah
+<guijemont> un rebelle...
+<Olaf2001> lol
+<Olaf2001> c la réplique de Pascal Forget. C pas de moi ;P
+<Olaf2001> Pour ceux qui savent pas c qui, c un des animateur de la "Revanche des Nerdz" au canal Z
+<guijemont> c qui ce con-là ?
+<Olaf2001> cpas un con ok
+<Olaf2001> ctun hot
+<Olaf2001> sa rien d'un héro, rien d'un rebelle, juste un nerdz ;P
+
+%
+
+<braider> je veux trouver le c: de windows par linux , quel ligne dois-je inserez dans le root vue que j'ai un repertoire racine "c" la ligne de commande ?
+<braider> sa sais ma question !
+
+%
+
+<hoax-AW-> c possible de definir une imprimante en tant que imprimante // et de rediriger les impressions vers /dev/ttyS1 ?
+
+%
+
+<qazx> Salut tlm je voudrais installer redhat mais je ne sais pas commen, j'ai déja fais une partition et j'ai télécharger redhat (rpms, base, instimage)
+<Cybuzz_33> pike: bien ouvre un fichier configure et tu va voir ...
+<qazx> cybuz: si le fichier configure s'apelle configure je l'ai pas
+<qazx> cybuz: c'est quoi le repertoire où est la confiqguration dans red hat
+
+%
+
+<bloudiou> kelkun peut me dire comment je fais pour installer red hat linux 6.2 alpha sous windows 98 quand ya po dinstall avec le linux ses juste des fichier
+
+%
+
+<flynux> argh ya tellement d'interférences dans cette chambre que les disquettes tiennent pas 10 minutes sans faire des CRC errors...
+<clac2> flynux: tu dois pouvoir trouver une cage de faraday sur Ebay ou ibazar
+<hacyran> mdr
+<hacyran> remarque, c'est pas dur à faire sinon..
+<flynux> clac2: ben voui, mais passer les mains a travers un grillage pour taper au clavier ca me branche pas trop en fait
+<clac2> flynux: une cage de faraday ca a la taille d une piece
+<hacyran> flynux : nan, tu fais juste une cage à disk8 :)
+<hacyran> clac2 : ah bon, forcément ?
+<hacyran> me souvenait pas de ça..
+<flynux> ben voui, mais les interférences elles viennent des pc en fait...
+<clac2> pas forcement mais bon c'est mieux
+<clac2> ca fait un mini bunker dans ta chambre
+
+%
+
+--> _______ (~curieux@modemcable051.129-202-24.nowhere.mc.videotron.ca) has joined #linuxfr
+--- Queen sets ban on _*!*@*
+<-- Queen has kicked _______ from #linuxfr (Pas de caracteres spéciaux en début de nick)
+
+%
+
+<SpyKe> si g installé Linux sur une partition Windows, je peux le jeter comme ca ? (sous win) parce que je veux le reinstallé sur partition Linux
+<Okki> Quelle idée d'installer Linux sur du vfat aussi :)
+<SpyKe> mais je peux le mettre dans la corbeille ou pas ?
+<SpyKe> nan serieux si je le jete Linux ?
+<SpyKe> ca fait rien ?
+
+%
+
+<Wolf18> quelqu'un a redhat 6.2?
+<Mikmak> Wolf18: pose ta question :)
+<Wolf18> j'me suis fait un cd a parti d'un image cd de linux d'la version alpha de redhat 6.2 ... y'é pas suposer avoir un auto run su l'cd?
+<Okki> mdr
+<Okki> Wolf18: rassures moi, t'as une Station Alpha au moins ?
+<Wolf18> j'peut tu ne pas te rassurer pis te demander c quoi une station alpha?
+<WildZeck> mdr
+<Okki> ptdr que je suis, je m'en vais modifier la page de doc puis les fortunes juste après :)
+<Mikmak> pfff
+<lpt20> ma version 6.2 a un autoron
+<mac_> mouahahah
+
+%
+
+<Obelix_> pour augmenter les perfs, ce qui est pas mal c de mettre le swap sur un ramdisk
+
+%
+
+<robi5> si klk 1 a spoofer son IP comment savoir son vrais IP
+<Okki> robi5: tu prends un déspoofeur
+<OUAH> robi5: un dératiseur
+<robi5> et ou puis je trouver sa
+<robi5> okkki??
+<robi5> Okki ou puis je trouvr sa un un dératiseur
+
+%
+
+<alan27mtl> la j'ai parti linux
+<alan27mtl> et j'essaie d'ouvrir en root une console sans resultat avec kde, je vais etre oblige de tout reinstaller, non?
+
+%
+
+<inflam> me suis fait scanné dernièrement du ip 127.0.0.1 et c`était pas loopback
+
+%
+
+<LiNuXhAcK> moi je desire utuliser un site pour telephone gratos mais il mefaut ouvrir qlq port udp et tcp
+<LiNuXhAcK> et je ne sait pas comment fair pour ouvrir ces ports
+<Okki> Récupères la doc au format pdf sur le site de Cisco
+<Kevlar> moi j'ai le guide du routeur si tu veux
+<LiNuXhAcK> kevlar tu peut voir comment ouvrir un port sur ce routeur plz
+<Kevlar> LiNuXhAcK: merde je me suis trompé, c le guide du routard que j'ai :-))))
+
+%
+
+<MaKaJi-aw> salut je voudrait savoire pour faire un serveur de mirc quel linux sa me prent ?
+<MaKaJi-aw> svp
+<iostream> mouhahaha
+<MaKaJi-aw> pk l rie lui ?
+<MaKaJi-aw> veux etre un ircoop une foi dans ma vie
+<MaKaJi-aw> ouain je regarde pour d/l le linux belge pour me faire un serveur de mirc mais je le trouve pas a www.download.com si ya qq1 qui peux m aidé a trouvé le bon linux ben il va p-t etre mon ami loll :P
+
+%
+
+<popop> c quoi le + util, Perl ou Delphi ?
+
+%
+
+<inflam> tcpdump est une comamnde interdite ? est ce que je vais me faire buster je l`utilise assez régulierement
+
+%
+
+<freako> julo: j'aime po red hat...c ça que j'avais avant..(enfin mandrake...)
+<freako> mandrake = red hat amélioré pour pentium
+<Okki> Mandrake n'est pas une Red Hat
+<freako> Okki: Mandrake est produit par red hat 1 tu veut quand même po que je te copi les droits d'auteur tout de même ?
+<freako> Okki: Je cherche pas la guerre avec toi la..mais j'ai les livres de mandrake ici et Mandrake est vraiment produit par Red hat software
+
+%
+
+<flynn`> est-ce qu'il existe un serveur FTP plus simple que wu-ftpd , et tout aussi (ou plus ?) secure ?
+
+%
+
+<LynXX> j'y serai vers 19h15 environ
+<LynXX> Kwisatz : tu auras une sacoche de portable ?
+<davtaf> LynXX: il a une tete de lameure
+<Kwisatz> LynXX: non les cheveux longs juste ;)
+<Kwisatz> voila
+<davtaf> LynXX: tu peux pas le rater
+<davtaf> tu hurle "LAME!"
+<davtaf> il dit "oui?"
+<LynXX> cheveux long, tete de lamer, ok
+
+%
+
+<vodkatux> salut.. j'ai besoin d'aide... j'ai effacer mon fichier hda1 dans /dev.. ques ce que je fait...?
+<w00f> vodkatux: t'a efface /dev/hda1 ?
+<vodkatux> si tu me le send le tien sa fait tu pareil?
+<w00f> non, c'pas pareil
+<vodkatux> pouquoi c'est pas pareil c'est juste un fichier non?
+<w00f> MDR MDR MOUARF MDR, /dev/hda1 c'est ton disque dur
+<vodkatux> ben j'ai juste effacer le fichier qui s'appelle hda1 dans lke repertoire /dev
+<vodkatux> c'est ma partition windows... pis elle marche encore
+<w00f> ben j'peux pas t'envoyer mon /dev/hda1
+<vodkatux> comment ca tu peut pas
+<w00f> paske, hda1 est MON disque dur
+<vodkatux> ben non... essaye tu va voir... tu fait un dcc de ce fichier la... je suis sur que sa marche
+
+%
+
+<clacbec> parce que c'est difficile d'etre dislexyque du doigt :)
+<fky> clacbec: detrpmoe oit
+
+%
+
+<clacbec> réponse courte : tu clic/glisse l'icone sur la barre
+<clacbec> réponse longue : au début il y a vait les machines a cartes perforées
+
+%
+
+<aurelia> et pourquoi tu t'appelles zantafio?
+<Zantafio> lili je m'appelle zantafio parce que j'aime bien et c'est moins méchant que killtron
+<Zantafio> killtron ça effrayait les québecois
+<Zantafio> :)
+
+%
+
+<Zantafio> tiens à titre d'info
+<Zantafio> win2K r0x :)
+<Sebastien> a titre d'info
+<Sebastien> Zantafio sux
+
+%
+
+<bombernet> c facile pour toi de recompiler le kernel bien sur je suis pas linus torvald ou un truc comme ça moi !!!!!!!
+
+%
+
+<WildZeck> devine ce que je fais Okki ...
+<Okki> WildZeck: tu réinstalle pour la énieme fois une distrib Linux ?
+<WildZeck> nan je viens de le faire a l'instant
+<Obelix_> il y en a ils deviendront pro de l'install de linux avant de savoir se logger ;)
+
+%
+
+<Bart_> bon, il me faut des developpeurs php/mysql en cdi bordel de merde
+<Bart_> pas un seul tdc ici qui cherche du boulot en dev web ! c dingue ca !
+<Shark> Bart_: faut voir
+<Shark> mais chu pas une bete en mysql ni en php
+<Shark> chsais faire 2/3 truc
+<Bart_> suivant
+<Bart_> ;-)
+
+%
+
+<FranckY> personne veut creer un chan avec moi ?
+<FranckY> c mon reve
+<FranckY> avoir un chan
+<Okki> FranckY : tu fais /join FranckY
+<Okki> Comme ca t'auras ton chan et tu seras op :)
+<FranckY> Okki: ouais mais bon
+<FranckY> je sais mais j'en ai deja fais comme ça
+<FranckY> une fois j'en avais fais un qui marchait bien , et bien sur on me la piqué
+<FranckY> alors je vodrai un chan avec bot et tout le reste
+<FranckY> ptin je connais vraiment pas netscae .... comment on fais pour dl avec ?
+
+%
+
+<guijemont> tiens, me fait penser qu'il faudrait que je rende ma machine plus secure...
+<David> guijemont: shutdown -h now
+<David> ca c'est de la sécurité
+<guijemont> David: ouais, c'est ce que je me disais aussi
+<draak^> mrd david..
+<guijemont> sinon, on peux toujours se deconnecter de tout reseau
+<guijemont> arracher la carte ethernet avec les dents
+<David> guijemont: nan, reste les users locaux
+<guijemont> David: mouais, mais ya que moi...
+<guijemont> je monte la garde...
+<David> guijemont: ben vi, faut te proteger, tu risques de te faire hacker par toi
+<guijemont> David: d'où l'interet des menottes
+<David> nan, les menottes c pas secure
+<David> par ce qu'il faut que kkun te les mette
+<David> et ce kkun peut hacker ta machine quand t'es attaché
+
+%
+
+<Bruno14> ouin pis c'est quoi tout c'est dossier /usr /root pis toute ??? c'est pas comme le c:\.... ???
+
+%
+
+<zorglub> peut-on récupérer le noyau de la debian sous forme de rpm ?
+
+%
+
+<doodie> ca fait koi si tu appuies sur le point du clavier numerique ?
+<furax> un point
+
+%
+
+<AnarchyZ> c'est parce que je vien d'installer linux pi le .exe de altavista veut pas marche
+
+%
+
+<Castors> ya tu quelquun qui sais quand kde2 va sortir stable en magasins ou sur le net?
+<MglWin> le 17 mars a carrefour ;pp
+<Castors> a carrefour?
+
+%
+
+<TimeWarp> Kwisatz: une copine en GPL?? AH non, désolé, mais moi, ce genre de choses, je garde pour moi :)
+<LynXX> TimeWarp : microsoftien, va ! :)
+<TimeWarp> LynXX: je ne la vends pas non plus
+<TimeWarp> :)
+
+%
+
+<Bad_Guy> j en reviens pas ke windows c est de la merde pour l internet
+
+%
+
+<Kwisatz> corel c la distrib qui fait l'unanimite, tout le monde dit que c de la merde
+
+%
+
+<tolgam> XFree86 4.0 est avalable ?!
+
+%
+
+<Dcbrains> grrrrrrr
+<Kiax> ARRRRGGGGG
+<Kiax> ;)
+<Kiax> chu plus mechant
+
+%
+
+<Kiax> je fais un echo "in.telnetd: 192.168.0.2" >> /etc/host.allow
+<Kiax> ca derange tu si yen a 2?
+<Kiax> jai des question bizzard hein?
+
+%
+
+<Kiax> je veux ecouter ce qui va ce passer sur le port 1000 de ma box mettons
+<clacbec> ben il faut tendre l 'oreille
+<clacbec> les packets vers le port 80 font crrrcrcrcrccrcrcr
+<clacbec> et les pcket du ports 1000 c'est plutot ccrtsssrcrrctttsss
+
+%
+
+<Okki> Red Hat + Helix Gnome + Sawfish rocks the world
+<cramus> Sawfish rocks the world, c'est à télécharger ? comment c'est !
+
+%
+
+<iostream> rappelle toi je travail chez un centre de pti vieu
+<iostream> jte jure quand jleur dit que vient pour poilir leur plancher la moité comprenne po
+<iostream> ils passent leur temps a bouffer des cochennerir
+<iostream> pis sa sent la merde partout ...
+<iostream> la madame m'a quasiment chier dessus l'autre jour.
+<iostream> mais le pire dans tout ca c que moi jsuis pogné avec une gang de sans dessins de vieux de déchets qui pu ,,,qui sont bourré de supositoir ...sur leur plancher c'est plein de crottes de nez de jsais po quoi...
+
+%
+
+<shortys-> cé normal
+<shortys-> que le .exe marche pas sous linux
+
+%
+
+<Alcatraz-> serieux je conais pas bcp linux jutilise les serveur NT malheuresement
+<Alcatraz-> jtrouve sa moin complex et plus secure tk
+
+%

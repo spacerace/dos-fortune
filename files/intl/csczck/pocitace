@@ -1,0 +1,149 @@
+Kto je to generál Failure a prečo číta môj drajv?
+		-- Alwil Screen 1993/2
+%
+Závratné zpomalení programů pod Windows je způsobeno virem, jehož výrobcem 
+je firma Microsoft.
+Jeho jméno je Windows.
+		-- Alwil Screen 1993/3
+%
+Další vývoj viru zastaven, protože autor získal trvalé zaměstnání.
+		-- text v ruském viru XPEN
+%
+Jsou Windows 95 virus?
+Maji příznaky virů:
+- rychle se rozšiřují;
+- vážou systémové zdroje a zpomalují práci počítače, čímž nutí uživatele
+  k závěru, že potřebuje rychlejší počítač;
+- zničí obsah disku.
+Na druhé straně viry:
+- jsou svými autory hýčkány a nové verze jsou stále lepší;
+- pracují na většině počítačů;
+- mají kód úsporný, kompaktní a efektivní.
+Odsud jednoznačně plyne, že Windows 95 virem nejsou.
+		-- SWN 1996/4 podle zahr. pramenů
+%
+        V 60. letech provokovaly děti své rodiče dlouhými vlasy,
+kalhotami do zvonu a pacifistickými znaky.
+        Ve druhé polovině 70. let to úspěšně zkusily s čírem, kalhotami
+se spoustou děr a hákovými kříži.
+        Posledních pár let však dosáhly jejich provokace vrcholu.
+        Nonkonformní děti se dnes už neobtěžují dělat vůbec nic, jako by
+konečně přišly na to, že nejlepším projevem generačního despektu bude,
+když se na své rodiče prostě a jednoduše vyserou.
+		-- SWN 1996/6
+%
+Rozdíly Windows 95 od předchozích verzí:
+- ve Windows 95 je koš, zatímco ve 3.x ne
+- místo Write je program Wordpad
+- adresáře už nejsou adresáře, ale nyní správně složky
+- ve Windows 95 jsou navíc další stmívače
+- absolutně nový program Brašna s hezkou ikonou
+- počítač se nyní vypíná tlačítkem Start
+- ve Windows 95 je navíc hra Freecell
+- ve Windows 95 byla výrazně posílena nespolehlivost, na rozdíl od 3.x,
+  kde nebyl hlavní panel
+		-- SWN 1997/7 podle pramenů z Internetu
+%
+	TOP 10 - Co si lidé myslí, že znamená "95" v názvu Windows 95
+10. Počet disket, na kterých se distribuuje
+ 9. Procento lidí, kteří budou muset upgradovat svůj hardware
+ 8. Počet megabajtů, které zabere na disku minimální instalace
+ 7. Počet stran příručky "Snadná instalace"
+ 6. Procento existujících programů, které na novém systému nepojedou
+ 5. Počet minut trvání instalace
+ 4. Počet volání na technickou podporu, než systém zprovozníte
+ 3. Počet uživatelů, kteří za upgrade skutečně zaplatí
+ 2. Frekvence procesoru nutná k tomu, aby systém běžel
+ 1. Rok, kdy se měl začít prodávat
+%
+	Možné významy čísla 95 v názvu Windows 95
+- počet programátorů u Microsoftu, kteří budou produkt používat
+- počet minut potřebných k nastartování systému
+- procento z celkového počtu instalací, které budou smazány týž den
+- minimální počet MB RAM
+- rok prodávání funkční verze (2095)
+- rok, ve kterém majetek Billa Gatese přesáhne 10 miliard
+- počet úspěšných instalací dohromady
+- minimální doba instalace v hodinách
+- počet minut po které budou fungovat
+- průměrné IQ autorů
+- počet příruček
+- váha instalačního balíku v kg
+%
+"640 K should be enough for anybody."
+		-- Bill Gates
+%
+	"Číňané každý rok koupí tři milióny počítačů, přičemž za software
+pochopitelně neplatí... Dokud kradou programy, chci, aby kradli ty naše.
+Vytvoří si tím určitou závislost a my jednou - třeba někdy v příštím
+desetiletí - přijdeme na to, jak tuhle závislost zpeněžit."
+		-- Bill Gates, 1998
+%
+	"Jako každý, kdo používá e-mail, i já dostávám spoustu
+spamu. Většina spammerů mi nabízí řešení, jak se mám dostat z dluhů
+nebo jak bych mohl rychle zbohatnout."
+		-- Bill Gates pro Wall Street Journal, 2003
+%
+	"Nová verze jádra 1.1.81 je oficiálně BugFree (tm), tedy bez chyb,
+takže pokud dostanete jakékoliv zprávy o chybách v této verzi, jsou to
+jenom zlé pomluvy."
+		-- Linus Torvalds
+%
+	"Jak mám vědět, jestli to chodí? To je smysl betatesterů.
+Já to jenom napsal."
+		-- Linus Torvalds
+%
+	"Ne. To je to - zajímavé jméno. Velice tvrdě jsme pracovali na
+vymýšlení jména, které by oslovilo většinu lidí, a teď se to vyplácí:
+stovky lidí používají Linux jenom aby mohli říct: "OS/2? Pche. Já mám
+Linux. To je jméno!". 386BSD udělal chybu, že uvedl ve svém jménu moc
+čísel a nesrozumitelných zkratek, a tak odradil spoustu lidí - zní to
+moc technicky."
+		-- Linus Torvalds
+%
+if (argc > 1 && strcmp(argv[1], "-poradit") == 0) {
+    printf("Jenom nepanikařit!\n");
+    exit(42);
+}
+		-- Arnold Robbins o RCS, Linux Journal 1995/02
+%
+DOS, m.:
+	malý obtížný boot virus způsobující náhodné spontánní zhroucení
+systému, zvláště před uložením rozsáhlého projektu. Lze lehce vyléčit
+UNIXem. Viz také MS-DOS, IBM-DOS, DR-DOS.
+		-- David Vicker
+%
+program, m.:
+	Magický svitek přečtený kolem počítače umožňující mu obrátit něčí
+vstup na chybové zprávy. 
+%
+	Mezi základní, veřejnosti nejznámější distribuce, patří tyto:
+* Blondian - jádra třídy public - nepříliš bezpečné a stabilní, proto se
+  často přeinstalovávají, takže dlouhodobější využívání systému nepřichází
+  v úvahu
+* Brunetware - jádra třídy romantic - stabilní a jedny z nejbezpečnějších
+* Red Head - jádra sadistic a odvozená - velmi variabilní, záleží na
+  administrátorovi, k jakému použití bude nakonfigurovaná, proto i
+  bezpečnost je relativní
+* Free Black - jádra free - slouží především jako školní nebo firemní
+  servery, takže získat konto není žádný problém
+%
+"In google non est, ergo non est."
+		-- neznámý admin
+%
+	Microsoft není odpověď.
+	Microsoft je otázka a odpověď zní NE.
+		-- neznámý admin
+%
+	Počítač a klimatizace jsou podobná zařízení...
+        ...když se otevřou okna, přestanou fungovat.
+		-- neznámý admin
+%
+	Ve většině zemí je prodej nebezpečných věcí, jakou jsou zbraně
+nebo drogy, trestné. Tak jak mohou lidé prodávat Microsoftí software
+a přitom zůstat nepotrestaní?
+		-- Hasse Skrifvars
+%
+Software se zpomaluje rychleji, než se hardware zrychluje.
+		-- Niklaus Wirth, 1995
+%

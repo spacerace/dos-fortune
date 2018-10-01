@@ -1,0 +1,777 @@
+Je vais ptetre passer pour un couillon, mais c'est quoi DTC ? 
+-- Jayce - Couillon --
+%
+Je projette par la suite, de recompiler MultideskOS pour  Amiga  500  et
+Atari 1040 ST fm et STE. De  cette  manière,  MultideskOS  tournera  sur
+quelques plateformes et quelques plates formes tourneront sous celui-ci.
+Ca marchera dans tous les sens :-) 
+-- Jayce - Et vice et versa --
+%
+Les versions futures  de  MultideskOS  vous  permettront  de  gérer  des
+niveaux  de  sécurité  supplémentaires,  permettront  de  rediriger  des
+satellites de la NASA par internet et supportera une interface domotique
+de 8 entrées + sorties. 
+-- Jayce - C'est l'amérique ! --
+%
+Je préfère vous foutre tous le cul par terre dans  3  à  6  mois,  après
+avoir travaillé  sur  MultideskOS  et  après  l'avoir  rendu  stable  et
+intuitif. [...] De plus, un éditeur de  logiciel  m'a  proposé  d'éditer
+MultideskOS. Ne vous inquiétez pas, et commencez à programmer dessus  si
+vous voulez gagner, à moyen et à long terme, un bon paquet de fric. Tous
+les logiciels windows et linux  devront  être  reprogrammés  sous  notre
+MultideskOS. Reste à savoir qui les fera et  qui  gagnera  des  $$$.  
+-- Jayce - Business plan --
+%
+Comme tu vois, il y a bien plus qu'un programme derrière MultideskOS. Ca
+m'étonnerait qu'à lui seul, il ait réussi à faire un système avec toutes
+les facultés qu'a le mien. 
+-- Jayce - Ciel ! Un concurrent --
+%
+Programmer en francais est plus rapide car notre cerveau parle  francais
+depuis  la  naissance  et  ne  doit  donc  pas  convertir.  
+--  Jayce - Évidemment, en allemand c'est plus dur. --
+%
+Même un gamin de 12 ans pourrait faire un Word ou un  Excel  sous  notre
+MultideskOS. 
+-- Jayce - Scénario de fin du monde --
+%
+Conception d'un logiciel sur demande :
+- Petit utilitaire en mode texte. 61,97 Euros.
+- Programme privé en mode texte ou graphique. 247,89 Euros.
+- Logiciel complet pour entreprises. 495,79 Euros. 
+-- Jayce - Catalogue --
+%
+> Pouvez-vous nous montrer un exemple de comment on assigne une fonction
+> à un signal ou à un évènement ?
+Pour appeler une fonction, il suffit de tapper son nom. 
+-- Jayce  -  Y'a pas besoin de tout ça. --
+%
+Avez-vous un exemple de programme partagé ? Genre, mémoire  partagée  ou
+autre... ? 
+-- Jayce - Curieux --
+%
+Je crois que vous êtes tous tellement habitués à Windows  et  Linux  que
+vous ne vous rendez pas compte des facilités de MultideskOS. 
+-- Jayce - Coding party --
+%
+Pour le Multitache, sache aussi, que le vrai Multitache n'existe  pas  !
+Pour avoir du vrai Multitache, il  te  faut  plusieurs  processeurs.  
+-- Jayce - Je sais, ça fait mal --
+%
+Mais si tu charges Word et Excel par exemple, rien ne  sert  d'avoir  un
+multitache puissant ! Tu connais quelqu'un qui peux tapper sous Excel et
+sous Word en même temps ? Impossible. Tu peux faire  des  copier/coller,
+ils peuvent tourner ensemble l'un  derrière  l'autre  à  quelques  micro
+secondes d'intervalles, mais ils ne seront jamais en même temps et n'ont
+pas besoin de l'être car un seul clavier 
+-- Jayce - Logique --
+%
+Les bouton occupent 0% du temps processeur ! 
+-- Jayce - \o/ --
+%
+MultideskOS est donc interpréteur et non pas compilateur  comme  Windows
+ou Unix. 
+-- Jayce - Faut pas confondre --
+%
+On peut avoir des if imbriqués mais pas de Else imbriqués.  
+--  Jayce - Limitations --
+%
+On ne sait pas définir MultideskOS. C'est un OS ou en  tout  cas  ca  le
+sera par la suite. 
+-- Jayce - Mystique --
+%
+Pour quitter, on va donc sur la ligne "Quitter" de la fiche "Options" et
+on fait Shift gauche + Enter dessus ou Shift Gauche + 2  (pas  pavé)  
+-- Jayce - Interface intuitive --
+%
+Si tout le monde s'en fou, pourquoi tout le monde est abonné ? 
+-- Jayce - sarcastique --
+%
+Découvrez  MultideskOS,  notre  nouvel  OS  compatible  MSDOS,  Windows,
+Macintosh et Linux ! Supporte la domotique, l'intelligence artificielle,
+ne peut-être contaminé par des  virus  informatique,  transportable,  ne
+craint pas le piratage informatique si utilisé sans autre OS. 
+-- Jayce - Introduction/Conclusion --
+%
+Utilisez MultideskOS  pour  créer  des  outils  plus  puissants  tel  de
+nouveaux GSM, de nouvelles imprimantes intelligentes, des vidéo VHS avec
+menu  interactifs,  équipez  vos   satellites   d'un   système   souple,
+configurable et sécurisé, afin de gérer toute une liste de  tâches  pour
+un moindre coùt. 
+-- Jayce - Technologies d'avant garde -
+%
+MultideskOS ne gère pas la mémoire comme tout le monde... Il n'y  a  pas
+de swapping ni de fragmentation, car tri automatique des variables  dans
+la mémoire par ordre alphabétique etc.. 
+-- Jayce - Ça me la coupe --
+%
+Alors, la beta29B, en plus de ces deux changements, aura  quelques  bugs
+en  moins,  mais  assez   indescriptibles...   Par   exemple,   les   IF
+fonctionneront mieux dans la 29b que dans la 29 ou une  condition  était
+inversée... 
+-- Jayce - Logique floue --
+%
+> > Oh, j'aime pas trop parler de comment MultideskOS gère les progs...
+> Pourquoi ? Trop technique pour vous ? ;-)
+Non, mais je n'aime pas que tout le monde connaisse  son  fonctionnement
+parfaitement, car je ne veux pas qu'on me vole mon projet. Je sais qu'il
+y a de bons programmeurs dans le monde et qu'ils seraient  tout  a  fait
+capables de prendre mes idées. 
+-- Jayce - Espionnage industriel --
+%
+> Mode réel et protégé dépendent du processeur (Intel  et  compatibles).
+> Un pocket sous ARM ne proposera jamais de modes comme ceux la par ex.
+Je sais mais ils pourraient changer le processeur. Je sais très bien que
+le 286 tourne en réel et que le 386+ en protégé. 
+-- Jayce - Supprimer le problème, vous supprimez la solution --
+%
+De plus, rien n'empeche Amiga de créer eux-même un shell Amiga  afin  de
+rester dans la course et d'avoir un ordinateur compatible avec ceux  qui
+sont dans le commerce aujourd'hui. [...] C'est pour ce genre de  société
+que MultideskOS peut s'avérer etre une puissance de taille à moyen et  à
+long terme. 
+-- Jayce - Tous avec moi ! --
+%
+Chez nous, pas question de faire des milliers de logiciels tant que nous
+n'aurons pas un MultideskOS valable. Ce qui sera le cas dans les jours à
+venir, voir les deux ou trois semaines. On est  tout  bon.  
+--  Jayce - Satisfaaaaaakchieuuuune --
+%
+Bon, chez nous, People et MultideskOS fonctionnent tous les deux,  alors
+il est difficile de se rendre compte... mais nous venons  de  mettre  un
+nouveau fichier  people10.exe  et  multidsk.exe  sur  le  site  internet
+officiel. Cette nouvelle  version  alloue  8.192.000  octets  alors  que
+l'ancienne version en allouait 65.535.000. 
+--  Jayce  -  Code  de  haute voltige -
+%
+Nous avons toutefois un support téléphonique  que  vous  pouvez  joindre
+sans hésitation au  (+32)xxxxxxxxx.  Ce  support  téléphonique  n'a  pas
+encore d'horaire et peut-être soit allumé, soit éteint. 
+-- Jayce - Dodo --
+%
+En effet, nous vous proposions nos  produits  gratuitement,  et  n'avons
+rien gagné comme argent. Nous nous sommes fait pirater, et avons  décidé
+de faire certains services payants, mais ceci ne vous plaît  pas.  C'est
+pourquoi, nous refaisons tout gratuit, y compris les logiciels,  puisque
+pour tout le monde, contribuer est de trop. Toutefois, ne venez pas nous
+faire chier pour nous poser la  moindre  question  par  email,  nous  ne
+voyons pas pourquoi nous devrions répondre à toutes vos questions  alors
+que nous ne sommes pas payés pour cela. 
+-- Jayce - Énervé --
+%
+Si ce groupe n'est pas accessible, c'est qu'il a été piraté et  on  s'en
+fou, vous n'aviez qu'à nous donner  les  moyens  de  porter  plainte  et
+d'agir en conséquence. Il se pourrait que Jayce poste sur le chat ou  le
+forum de ce groupe Yahoo, mais il se peut aussi  que  quelqu'un  d'autre
+poste sous son nom. On en a rien à foutre. 
+-- Jayce - Blues --
+%
+Je pense que je vais créer un autre format que le MPG, AVI et  MOV,  qui
+soit propre à MultideskOS, avec mes propres compressions. J'ai  quelques
+idées pour faire de bonnes compressions. 
+-- Jayce - Garagiste --
+%
+Vous bénéficieriez alors de la puissance de MultideskOS, avec un système
+portant vôtre nom, garanti sans plantages que vous  pourriez  configurer
+comme vous le souhaitez et rester cependant compatible avec  les  autres
+systèmes comme Macintosh par exemple qui pourrait alors faire un système
+Mac compatible Windows... 
+-- Jayce - Suivez moi bien --
+%
+Les icones  et  curseurs  de  souris  peuvent  être  ceux  utilisés  par
+Microsoft Windows, mais seuls les fichiers  de  766  Octets  32x32  sont
+supportés pour le moment. 
+-- Jayce - Précis --
+%
+* MultideskOS gère mieux le clavier.
+* La calculatrice refonctionne
+* Un petit jeu avec une balle qui rebondit a été ajouté.
+* Les boutons fonctionnent maintenant parfaitement et à chaque fois.
+* La  vitesse  de  MultideskOS  a  été  énormément  améliorée.  Il   est
+  maintenant beaucoup plus rapide que tous ses concurrents. 
+--  Jayce  -  Changelog --
+%
+<Jesus> Tiens, Jayce, rigolons un coup  :  pour  le  support  de  l'IDE,
+compte 10000 lignes de C 
+<Jayce> on s'en fou, je  programme  MultideskOS en pascal 
+-- Jayce - Le pascal, c'est plus fort que toi --
+%
+<on_baise_pas_jesus> jayce, tu devrais pas être te  comporter  comme  ça
+avec ce genre de public, tu pourrais le regretter, cincèrement 
+<Jayce> on>> pourquoi ? ils vont me faire quoi hein ? je suis le fils d'
+un sénateur je te le rappelle 
+-- Jayce - Intouchable --
+%
+<Jayce> le C c de l'assembleur 
+<Jayce> un niveau au dessus  
+<Jayce>  qui est lui aussi un niveau au dessus du 0 et 1 du processeur 
+-- Jayce -  La théorie des couches --
+%
+<Jayce> j'attaque Windows  comme  un  virus  
+<Jayce> je le bouffe  de l'intérieur puisque je ne peux pas  le  contrer  
+<Jayce> je le double
+<Jayce> je gagne avec ou sans lui 
+-- Jayce - A genou ! --
+%
+<Jayce> Al // MultideskOS a son propre language ,  c'est  une  sorte  de
+Visual Basic indépendant 
+-- Jayce - VB, _la_ référence --
+%
+<glandium> jayce : t'as pas  de  remords  à  entuber  tes  amis/proches/
+connaissances ? 
+<Jayce> glandium / ils sont tous très heureux 
+-- Jayce - Les pratiques de mes amis ne me regardent pas --
+%
+<DJailles> Jayce: sérieux MultideskOS t'occupe à plein temps  ?  
+<Jayce> DJailles // oui, c mon métier 
+<Jayce> comme Bill Gates avec  Windows  
+-- Jayce - Illustre précédent --
+%
+<guile> Diskor: prend un vrai OS: BeOS 
+<Jayce>  guile  //  BeOS  a  fait faillite 
+<Jayce> trop gratuit, ca fait fermer la boite  
+<Diskor> Jayce: c'est quoi la différence entre gratuit et trop gratuit ? 
+<Jayce>  Diskor // BeOS donnait une  version  de  50  Mb  avec  quelques 
+trucs... ce n'est pas bon, il faut que l'OS soit  payant  pour  que  les 
+gens doivent  payer  pour
+<Jayce> utiliser les logiciels gratuits 
+-- Jayce - Quand on paie,  c'est moins gratuit, mais c'est mieux --
+%
+<marc_> tu connais le Hurd ? 
+<Jayce> non 
+<Jayce> c quoi ? 
+<marc_> tu connais L4 ? 
+<Jayce>  non  plus,  je connais pas bcp de language 
+-- Jayce - Et L5, c'est du poulet ? --
+%
+<Jayce> il est ou votre OS a vous ? 
+<marc_> Jayce: dtc 
+<polop>  Jayce  : DTC 
+<guile> Jayce: dtc 
+<longhairedguru> Jayce: dtc 
+<Jayce> c koi  dtc  ?
+-- Jayce - Il n'est jamais trop tard pour apprendre --
+%
+<Jayce> eluom // Windows a beaucoup de pascal 
+<Jayce> à la base 
+-- Jayce - On en apprend tous les jours --
+%
+<Jayce> jjb, tu sais, le C, c de l'assembleur,  mais  avec  des  crasses
+dedans 
+<Jayce> le VB c de l'assembleur  avec  plein  de  crasses  dedans
+<Jayce> la programmation objet c de l'asm aussi tout n'est qu'asm,  mais
+a diff niveaux 
+-- Jayce - La programmation, c'est sale ! --
+%
+<Ploop> Jayce : J'ai programmé un cd-key generator, C'est mal ?  
+<Jayce> ploop // ca ne marche  pas  sous  MultideskOS  ca  
+<Ploop>  Jayce  :  et pourquoi ca ne fonctionne pas ? 
+<Jayce> ploop /  parce  que  MultideskOS est recompilé pour chaque  user
+(  produit  )  
+<Jayce> s'il y a 100 commandes de MultideskOS, il est recompilé 100 fois  
+<Ploop>  Et  tu  le genere comment le no. de serie ? 
+<Jayce> c automatique  le  recompilage, tu met compile = 100 et voila :-)
+<Jayce> ploop //  au  hasard  
+<Frodon> Jayce: au hasard ? comment t'assure que tu fais pas 2  fois  le
+même  ?
+<Jayce> et les fichiers sont cryptés avec ce nr de série, donc si tu  le
+change, tous les fichiers sont détruits 
+<Jayce> frodon // il retient  ce qu'il a déjà sorti 
+-- Jayce - 100% secure --
+%
+<Jayce> moi je n'ai pas beaucoup de savoir, mais bcp d'intelligence, car
+je sais me sortir de tous les problèmes rencontrés 
+-- Jayce - Ph34r ! --
+%
+<Jayce> GIF, JPG etc -> DIA 
+<Ploop> Jayce : DIA ? 
+<Jayce> DIA =  Dessins assistés par Intelligence Artificielle 
+<Jayce> et les vidéos  c'est  VIA
+-- Jayce - Logique --
+%
+(20:17:33) Ploop: Tu peut m'expliquer comment fonctionne l'IA?
+(20:17:34) Jayce: non, c'est trop long
+(20:17:35) Jayce: en plus il faut avoir une grande largeur/vue d'esprit
+(20:17:36) Jayce: et connaitre  un  peu  le  fonctionnement  du  cerveau
+           humain sous forme mathématique 
+-- Jayce  -  Une  autre  fois, peut-être, petit scarabé --
+%
+(20:17:37) Ploop: Tu as fait des etudes?
+(20:17:38) Jayce: non
+(20:17:39) Jayce: c pour ca qu'on a pas toujours les meme termes
+(20:17:40) Jayce: mais einstein non plus 
+-- Jayce - La relativité informatique -- 
+%
+<@Jayce> frodon / on était trois au  début  et  maintenant  je  suis  de
+nouveau plus ou moins seul, mais c pas grave, c moi qui  ait  tout  fait
+jusque maintenant 
+-- Jayce - Ph34r d4 M4st3r ! --
+%
+<mostroplant> Jayce: est-ce qu'il  est  prévu  un  portage  d'emacs  sur
+Multidesk ? 
+<@Jayce> monstroplant  /  nan,  pas  encore  de  shell  emac
+<Monstroplant> Jayce: ah, tant pis 
+<@Jayce> monstroplant / le shell  mac sera fait de toute facon 
+-- Jayce - Pas tous à la fois svp --
+%
+En premier lieu, je vous rappelle que  MultideskOS  fonctionne  en  mode
+texte tout comme internet. CCe qui signifie que MultideskOS, grace à  sa
+simplicité et sa puissance, pourra un jour remplacer le format  internet
+qui est pour  le  moment  soutenu  par  les  languages  HTML  -  JAVA  -
+ColdFusion etc.. 
+-- Jayce - Internet, c'est simple --
+%
+Grace à ses technologies pointues, nous pouvons dire que  notre  système
+ne plantera jamais. Il est parfaitement stable et  ne  craint  plus  non
+plus les virus informatiques. 
+-- Jayce - Mes chaussures  me  serrent  un peu --
+%
+Pour pouvoir utiliser nos logiciels, il vous faut acheter notre  système
+MultideskOS. C'est ce système qui va traduire nos logiciels pour que  le
+processeur de votre ordinateur les comprenne. 
+-- Jayce - Je fais  simple pour les neuneus --
+%
+J'ai inversé la date de sortie entre le logiciel  de  gestion  pour  les
+boulangeries avec celui des écoles, afin que  les  professeurs  puissent
+insérer leurs notes dès la rentrée des classes, les boulangeries pouvant
+attendre. 
+-- Jayce - Plannificateur éclairé --
+%
+M'occuper du réseau par cable série et LPT, afin qu'il détecte de  suite
+l'autre PC, et qu'il vous laisse la possibilité d'échanger des  fichiers
+d'un ordinateur à un autre. 
+-- Jayce - Quand on vous dit qu'il y en a là dedans ! --
+%
+Vous avez lancé MultideskOS sou  un  émulateur  Unix,  d'ou  sa  lenteur
+éventuelle. 
+-- Jayce - Ben oui, forcément ! --
+%
+MultideskOS est un système interpréteur, il fonctionne donc avec  AI  et
+non avec pointeurs et n'est donc comparable, ni avec  Windows,  ni  avec
+Unix ou ce qui existe déjà dans le commerce. 
+-- Jayce - La révolution est en marche --
+%
+Il a été dit que le dossier devait etre x:\Multidsk car MultideskOS  est
+portable (on ne doit pas l'installer) 
+-- Jayce - Ahah ! Je l'avais vu venir celle-là. --
+%
+Effectivement, BeOS est mort car il n'était justement pas sur  une  base
+DOS. 
+-- Jayce - BeOS ça su><e --
+%
+MultideskOS est plus ou moins open source. 
+-- Jayce - Je me tâte --
+%
+Au fait, l'interface Windows permet de faire plus  de  choses.  On  peut
+lancer 4 programmes. 
+-- Jayce - Et ça ne fait que commencer --
+%
+Si la souris ne bouge pas sous MultideskOS, quittez le, lancez un driver
+tel mouse.com et redémarrez MDeskOS. 
+-- Jayce - Hotline compétente --
+%
+> J'ai                  vu                   mieux                   sur
+> http://www.lindows.com/lindows_products_lindowsos.php
+Je suis allé voir, c'est pas aussi bien que le  Multidesk.  --  Jayce  -
+Lindows, ça su><e --
+%
+Notre OS n'est pas comme BeOs. J'ai  testé  BeOs  aussi,  mais  BeOs  ne
+permettait pas de faire ALT+TAB pour passer d'un système à l'autre alors
+que le Multidesk oui. 
+-- Jayce - J'ai déjà dit que BeOS ça su><e --
+%
+Un de plus, tu veux que ton PC dise bonjour au clients qui rentrent dans
+ton magasin et tu veux pouvoir les compter... Rien de  plus  facile,  le
+Multidesk est domotique et te permet de gérer toutes  ces  choses...  --
+Jayce - Multidesk est poli --
+%
+Il en est de même avec tous les  autres  OS.  On  redessine  l'interface
+graphique en mettant des barres, des  boutons,  etc  la  ou  il  faut  (
+suivant l'OS  modèle  )  et  on  essaie  de  faire  des  programmes  qui
+supportent la plupart de ses extentions. 
+-- Jayce - Dis papa, c'est quoi
+une interface graphique ? --
+%
+Je programme depuis que j'ai l'age de 11  ans  et  je  connais  bien  le
+language machine, l'assembleur, le Pascal, et tous ses  dérivés.  Ya  la
+mémoire, le Multitache, l'espace disque, les drivers,  les  textes,  les
+principes, les DLL, les modules, les fichiers multimedia, le 32 bits, le
+mode protégé, la compatibilité et tout son aspect commercial... 
+-- Jayce - Ah, vous croyez que c'était plus simple, hein ? --
+%
+Les plus grand génies sont souvent passés pour des fous ou des cons,  et
+ce n'est que après un bon nombre d'explications  que  les  gens  ont  vu
+qu'ils étaient des génies et qu'ils avaient raison. 
+-- Jayce -  Je  suis sur le chemin du Panthéon --
+%
+Merci mon nounours, mais je te signale que ce HTML de merde a  été  créé
+par "MICROSOFT Word", et qu'il a fallu que je le convertisse  avec  Cold
+Fusion pour qu'il le considère comme un fichier nomal et pas comme un de
+ces putain de fichier HTML Word débile qui ajoute encore plus  de  merde
+dans le fichier... De plus, si ce putain de  MICROSOFT  Outlook  Express
+supportait l'option BCC et que Microsoft ne faisait pas un Outlook et un
+Outlook Express juste pour nous donner plein de confusions, j'aurais  pu
+cocher cette case dans le menu View. Pour ce qui est  de  la  pollution,
+tous mes messages sont regroupés dans le meme message de base, alors que
+j'aurais pu l'envoyer dix fois  et  répondre  sans  reply.  
+--  Jayce  - Microsoft, ça su><e. Et ta gueule d'abord. --
+%
+Faut rien bouger à votre système. Tout tourne comme avant, mais avec  le
+Multidesk, qui supporte la domotique, permet de  réparer  votre  Windows
+s'il tombe en panne, puisqu'il  tient  sur  une  disquette,  etc...  Pas
+besoin de créer de partition, Windows croit que c'est  un  programme  
+-- Jayce - Attendez, je claque dans mes doigts --
+%
+BEOS est merdique. Il se télécharge  et  fait  50  mégas  et  n'est  pas
+compatible Windows. Même si il met un lien sur le bureau de Windows pour
+le lancer, on doit redémarrer la machine  pour  passer  d'un  système  à
+l'autre alors que le multidesk ne doit pas etre installé et  peut  avoir
+aussi un lien sur le bureau de Windows, mais avec lui  on  peut  swapper
+entre le Multidesk et Windows via la touche ALT-TAB. 
+-- Jayce  -  Il  me semblait l'avoir pourtant dit, que BeOS ça su><e --
+%
+Autant de divisions que d'interfaces graphiques...  Beos,  Linux,  Unix,
+Dos, Windows, Macintosh, Amiga, Atari... Un sacré nombre, plus tous  les
+jeunes programmeurs désirant créer leur OS. En effet, ils n'auront  plus
+besoin de créer des programmes gérant la mémoire, les  disques,  drivers
+et autres... Ils n'ont qu'a créer une interface graphique Multidesk.  Si
+tout le monde crée son interface graphique sous le Multidesk,  tous  les
+systèes du monde seront différents mais compatibles entre-eux.  Plus  de
+monopoles. 
+-- Jayce - Je veux sauver le monde --
+%
+Deux secondes, ce serait pas mal que vous me montriez le language  perl,
+pour que je le rende compatible avec le Multidesk, lisez la FAQ de notre
+site (en bas de bage) pour savoir comment créer un language PERL sour le
+Multidesk. 
+-- Jayce - Ah zut, je connais pas ce truc là. --
+%
+Pfff, je suis allé  voir,  je  comprend  pourquoi  vous  critiquez  tous
+MultideskOS, vous êtes jaloux, car vous ne savez rien programmer d'autre
+que des sites qui font planter des machines, ou des images stupides. Les
+gens les plus intelligents ne sont pas ceux qui savent pirater ou  faire
+planter mais ceux qui savent protéger. 
+-- Jayce - Rira bien qui rira  le dernier. --
+%
+Non, je programme en InLine sous Pascal, ce qui convient  à  mettre  des
+codes hexadécimaux séparés par Virgule. De plus c'est le  code  le  plus
+rapide et le plus petit. Idéal si on veut faire  un  système  rapide  et
+petit. 
+-- Jayce - Ça vous la coupe, hein ? --
+%
+Je peux inclure n'importe quel language dans Multidesk, mais FORTH n'est
+pas prévu pour le moment. Il me faut de la documentation sur ce language
+et il ne pourra être inclu que en juillet minimum, 
+-- Jayce - Enfer,  il était pas planifié celui-là. --
+%
+En fait, MultideskOS fonctionne assez rapidement, il est  même  beaucoup
+plus rapide que Windows dans beaucoup de situations, parce que le  temps
+de chargement ( disque ) d'un programme de 1 Mo est plus lent que  celle
+d'un programme de 3 à 50 Ko, et que les calculs processeur mettent moins
+de temps que les accès disques. C'est pour cette  raison  notemment  que
+les PC portables sont plus rapides.  Ils  ont  en  effet  un  disque  de
+dimention plus petite. De plus, le  système  n'a  plus  besoin  de  SWAP
+(Cache disque), à cause des petites tailles. De ce  fait,  on  evite  un
+fichier de 250 Mo sur le disque ainsi que des vas et viens réguliers  de
+la tete, que Windows fait pour lire une  partie  du  programme  et  pour
+mettre cette partie dans le fichier SWAP, avant d'y  accéder  à  nouveau
+pour la relire comme si c'etait de la mémoire RAM.  Les  caches  disques
+sont ridicules de nos jours, avec 256 Mo de  RAM,  Windows  RAM  encore,
+alors que MultideskOS tourne sans rien dire a partir  de  16  Mo,  8  Mo
+étant le minimum. Nous avons testé, MultideskOS est aussi rapide sur  un
+486 - 66 Mhz que Windows sur un Athlon  750  Mhz.  Sur  ce  mme  Athlon,
+MultideskOS démarre entre 2 et 5 secondes, alors que Windows  +-  en  30
+secondes. 
+-- Jayce - Vous n'y connaissez rien au matos. --
+%
+> > Nous sommes heureux de vous signaler l'ouverture d'un  nouveau  site
+> > "Multidesk OS" intermédiaire
+> Dites, c'est pas bientôt fini ce spam ?
+C'est mon Thread 
+-- Jayce - Non mais, qui c'est le chef ici ? --
+%
+De plus, si votre Windows 95 - 98 ou Me plante, notre OS peut le réparer
+automatiquement. 
+-- Jayce - C'est pas un os, c'est une pharmacie --
+%
+De ce fait, un programme complet ne fait que  1  à  5  Ko  maximum  sous
+MultideskOS alors que le même sous Windows fait 100 à 500 Ko. 
+-- Jayce - Windows ça su><e (bis). --
+%
+On peut en effet redéfinir ce que  l'on  souhaite.  Tu  peux  très  bien
+mettre dans un fichier système du Multidesk : One = 1 Tu  pourras  alors
+tapper dans n'importe quel programme MultideskOS :  Writeln  One  +  One
+pour qu'il affiche 2 à l'écran... C'est génial ! 
+-- Jayce - C'est  bête, mais fallait y penser ! --
+%
+Il est aussi facile de créer un  browser  HTML  puisque  lui  aussi  est
+exécuté en language texte. Le format HTML est plus compliqué et beaucoup
+moins performant. 
+-- Jayce - HTML, ça su><e --
+%
+Les fichiers peuvent être  cryptés  via  l'EXP,  qui  est  le  Multidesk
+Extended Protection. Il est  alors  impossible  de  lire  la  source  du
+fichier. 
+-- Jayce - Avec un peu d'habitude, on peut regarder la matrice --
+%
+La domotique et l'intelligence artificielle sont les  principaux  atouts
+de MultideskOS. C'est pour cette  raison  qu'il  a  été  conçu  sur  une
+plateforme interpréteur et non compilateur. 
+-- Jayce - Mais on ne vous a rien appris à l'école ? --
+%
+Il y aura des d'outils, mais la programmation sous  Multidesk  est  très
+simple et se passe volontier d'outils. 
+-- Jayce - Emacs, ça sert à rien --
+%
+Aussi,  MultideskOS  n'utilise  plus  de  programmation  conditionnelle,
+contrairement aux autres. Dans la pluspart des cas, fini les  IF,  ELSE,
+ENDIF. Exemple : PutButton LeftReach [Vies = Vies - 1] En clair, dès que
+l'on relâchera le bouton gauche de la souris sur ce bouton, le nombre de
+vies diminuera de 1. On peut ainsi appeler des variables, des fonctions,
+etc.. Ceci évite les traditionels : "IF (ButtonName = Button1) Then"  On
+se retrouve avec un programme ne faisant alors que quelques  lignes.  --
+Jayce - Oui, oui, révolutionnaire on vous dit. --
+%
+Non, même si la base du système est gratuite, le système est commercial,
+comme le sont Microsoft Windows, Mac et autres.  Ce  qui  assurera,  une
+suite et une prise en main du  système  de  plus  en  plus  sérieuse  et
+concrête. 
+-- Jayce - Je vous ai dit que j'avais des talents  de  vendeur ? --
+%
+D'un point de vue vitesse, sachez que MultideskOS est  plus  rapide  que
+les autres, pour une simple raison : la lecture sur  les  disquettes  et
+disques durs est plus lente que le temps  que  met  le  processeur  pour
+analyser et décoder. Autrement dit, il est plus  rapide  de  charger  un
+programme de 5 Ko en mode texte que de lancer un  programme  compilé  de
+150 Ko, parce que la tête du disque dur  ne  doit  bouger  qu'une  seule
+fois, le programme tenant dans un  seul  secteur  du  disque.  De  plus,
+MultideskOS  utilise  des  techniques  intelligentes  et  complexes  qui
+permettent à n'importe quel programme  de  se  charger  entre  une  demi
+seconde et deux secondes suivant le type de machine.  Le  programme  est
+géré comme interprété et compilé. 
+-- Jayce - C'est mathématique. --
+%
+MultideskOS ne supporte pas encore les disques NTFS.  Vous  devrez  donc
+avoir Windows  NT,  2000  ou  XP  derrière  MultideskOS  pour  avoir  la
+possibilité d'accéder à vos fichiers. 
+-- Jayce - Un peu de patience ! --
+%
+Les interfaces sont des programmes  qui  se  chargent  au  démarrage  du
+systême, affichant les boutons et menus là où il convient. 
+-- Jayce -  A votre service. --
+%
+Mais comme expliqué dans la FAQ, notre Multidesk est en effet multitâche
+préemptif, fonctionne en mode protégé 32 bits. Il est tout à fait  comme
+ses frères Microsoft  Windows,  Linux  etc...  Je  rappelle  encore  que
+personne n'a entendu parler de la première version des OS en général  ou
+très peu. Il faut du temps pour prouver que ceci ou  celà  vaut  quelque
+chose. Qui connait Windows 1.0 ?? Qnx 1.0 ?? --  Jayce  -  C'est  de  la
+merde, mais ça va pas durer. --
+%
+- Oui il est tout  a  fait  MultiUtilisateur.  Tout  les  users  peuvent
+  configurer leur session comme ils le souhaitent. 
+-- Jayce - On  ne  me coince pas comme ça, moi. --
+%
+Non, nous ne plaisantons pas pour les virus. Les virus tel "I Love  You"
+et autres sont impossibles sous MultideskOS. [...] Notre  OS  fonctionne
+en mode texte, et les logiciels ne se créent plus par changement  direct
+de registres processeur, mais par des fonctions MultideskOS. 
+-- Jayce  - Et toc ! --
+%
+Eh bien voila ! Notre but est de pouvoir offir la possibilité à  Mac  de
+tourner sous Windows. Donc de leur permettre une  compatibilité  inverse
+également. Sinon Microsoft s'empare de  Mac,  alors  qu'avec  nous,  Mac
+s'empare de Microsoft. 
+-- Jayce - Sauveur d'Apple. --
+%
+Ainsi, les mises à jour de MultideskOS ne changeront RIEN !  Le  nouveau
+système tournera mieux, sera plus rapide, plus stable,  comportera  plus
+de commandes, mais sera exactement le même qu'avant la mise à  jour.  
+-- Jayce - Tout est dans le rien, et réciproquement. --
+%
+Nous allons faire en sorte que MultideskOS  et  surtout  ses  outils  de
+cryptage/décryptage soient remis à jour régulièrement, car  la  sécurité
+est mieux assurée ainsi. Exemple, nous mettons MultideskOS sur le net le
+30 juin 2002, vous codez vos fichiers avec MultideskOS,  trois  semaines
+plus tard, un pirate informatique parvient à les décoder, pas grave ! Le
+temps qu'il  trouve  comment  les  fichiers  sont  codés,  une  nouvelle
+combinaison de codage est déjà sortie ! Les  fichiers  déjà  codés  avec
+l'ancienne   version   seront   recodés   avec   la   nouvelle   version
+automatiquement. Le travail ne doit être fatiguant QUE pour les  pirates
+informatiques ! 
+-- Jayce - Les \/\/ar10rd5 n'ont qu'à bien se tenir. --
+%
+MultideskOS n'a pas de base de registre comme Windows. Il n'a  en  effet
+que des fichiers INI. 
+-- Jayce - La base de registre, ça su><e --
+%
+MultideskOS est un OS. Il ne gère pas (encore) le secteur boot, mais  le
+fera par la suite. Comme il a ses propres formats de fichier,  et  qu'il
+gère tout, on considère que c'est un OS et non  un  Shell.  
+--  Jayce  - Tanenbaum ? Qui c'est ça ? --
+%
+MultideskOS permet de lancer 255 logiciels en meme temps pour le moment.
+Ceci pourrait etre augmenté par la suite. 
+-- Jayce -  Du  calme  !  Tout vient à point à qui sait attendre. --
+%
+Nous venons  d'améliorer  l'interface  Windows  sous  MultideskOS.  Vous
+pouvez maintenant utiliser  son  menu  "Démarrer"  comme  sous  le  vrai
+Windows. 
+-- Jayce - Alors, heureux ? --
+%
+MultideskOS quand à lui, suit la politique  Microsoft.  Le  système  est
+livré presque nu, mais il est possible de l'étendre autant  qu'on  veut.
+
+-- Jayce - Mutidesk, c'est un espèce d'élastique en somme. --
+%
+Je voulais aussi le faire seul, car si d'autres  personnes  touchent  au
+code source, elles pourraient mettre du code  que  l'un  ou  l'autre  ne
+comprendrait pas. C'est ce qui fait que certains OS sont très lents, une
+personne met une option, il suffit de changer un 0 en  1,  mais  l'autre
+personne ne le sait pas et met 15 nouvelles lignes de code  au  lieu  de
+remplacer ce 0 par 1. 
+-- Jayce - Je suis le seul à coder propre. --
+%
+Je rappelle que j'ai déjà acheté les noms de  domaine  pour  montrer  ma
+bonne foie, et prouver que MultideskOS  n'est  pas  un  VaporWare  comme
+certains le croyaient. 
+-- Jayce - Si c'est pas un sacrifice, ça ! --
+%
+Bien entendu, nous allons créer ces outils pour que les gens  ne  soient
+pas  perdus,  et   allons   aussi   améliorer   leurs   similitudes   et
+présentations, ceci en attendant  que  MultideskOS  ait  suffisament  de
+fonctions pour convertir les programmes Windows  au  format  MultideskOS
+(émulateur). 
+-- Jayce - Et cela ne fait que commencer. --
+%
+Vous montre le menu démarrer -  recherche  sous  MultideskOS  sur  shell
+Windows. 
+-- Jayce - Comment ça fatigué ? --
+%
+Simplement parce que lors du lancement d'un  programme  DOS  ou  Windows
+(fichier EXE-COM-BAT), MultideskOS met l'écran en mode texte,  afin  que
+le chargement du programme Windows soit plus rapides. En effet, Windows,
+lorsqu'il reprend la main sur MultideskOS, sauve son environement  comme
+pour tout autre programme, avant de  le  mettre  en  réduction  dans  la
+barre. De ce fait, si votre MultideskOS tourne en 1024x768,  Windows  va
+devoir sauver 786 432 pixels + tout le  reste,  ce  qui  prend  3  à  10
+secondes suivant  les  machines  alors  que  l'opération  est  immédiate
+lorsque MultideskOS s'en occupe et met l'écran  temporairement  en  mode
+texte. Il vous suffira par la suite de  presser  simplement  une  touche
+pour que votre bureau MultideskOS apparaisse comme  avant.  
+--  Jayce  - Fallait y penser. --
+%
+La photo 29 montre que maintenant, les boutons enfoncés ont un cadre  de
+contour afin de voir exactement sur quel bouton on se trouve. 
+-- Jayce - Un peu de 3D, c'est plus joli. --
+%
+Vous voulez peut-être le code en open source pour pouvoir mieux  pirater
+? Avez-vous compris qu'au plus le code est protégé, au plus ca évite les
+petits malins de pirater ? 
+-- Jayce - Et puis quoi encore ? --
+%
+Bon... certaines personnes m'ont parlées de  l'open-source.  Je  pensais
+que l'open-source était donner toutes les sources de l'OS.  
+--  Jayce  - Mea culpa. --
+%
+Bon, il se pourrait que MultideskOS devienne open  source.  
+--  Jayce  - Mais je suis pas fixé. --
+%
+Comme tu revolutionnes l'informatique pour  longtemps,  en  reduisant  a
+zero  les  risques  de  virus,  en  reduisant  a  presque  0  les  temps
+d'exectution, je pense que la course aux armements qu'es l'evolution des
+vitesse d'horloge devient caduque. 
+-- Jayce - Et oui, je révolutionne le monde du harware aussi. --
+%
+Le fait qu'il ne soit pas open-source vous certifie un  produit  complet
+et performant, pas un produit touché par tout le monde, avec de  mauvais
+codes. 
+-- Jayce - Ça tombe sous le sens. --
+%
+> Une chose est sure si linux est toujour dans lombre c'est  qu'ils  ont
+> refusé que les grands viennent jouer dans leur court. Le problème avec
+> linux c'est que lorsque tu développes une application, t'est obligé de
+> livré les sources et tous ça gratuitement.  KDE  étant  opensource  et
+> étant, je crois, la seul alternative graphique sur linux.  Cette  état
+> de chose oblige les grosses boîtes à livrer leur source(1er  problème)
+> et ça gratuitement.
+>
+> Prener l'exemple suivant. Corel,  un  fleuron  canadien  y  a  pas  si
+> longtemps, avait commencé à développer sous Linux(KDE) et à vendre son
+> produit phare
+> 700.00$ US. Bon c'est cher, ça c'est  vrai,  mais  lorsque  plus  d'un
+>     millier d'ingénieurs et de codeurs ont élaborés  le  projet.  Faut
+>     bien que quelqu'un paie la note.
+>
+> Et qui pourrait  bien  s'interresser  ?  un  produit  de  haut  niveau
+> graphique?. Les graphistes sacrement. Eux ils sont prêt à payer.
+>
+> Et qui pourrait bien s'interresser à un produit  comme  Wordperfect  ?
+> Tous ceux dont leurs travails dépend d'un traitement de texte.
+>
+> Sérieusement exist-il un produit sur linux qui soit de  calibre  avec:
+> CorelDraw ? La suite Office de Ms Photoshop ? AutoDesk et AutoCad... ?
+>
+> Mon avertissement et il  est  sérieux.  éloigne  toi  de  ce  qui  est
+> OpenSource. Il se peut que tu es entre les mains un concept de Génie.
+>
+> - Fait breveté le concept et non un copyright de ton code. Il  y  tout
+>   un monde entre les deux. Le copyright empêche qq'un de ce servir  de
+>   ton code à son propre bénifice mais cela ne l'empêche pas  de  créer
+>   un code différent et de copier le concept.
+>
+> Le brevet ça  c'est  différent.  C'est  le  concept  intégral  que  tu
+> protèges pour les vingts prochaines années. Donc si qq'un  élabore  un
+> concept  similaire,  tu   peux   l'attaquer   en   justice   pour   le
+> produit(concept) et non pour le code qu'il renferme. De plus au brevet
+> ce n'est pas sur le code mais sur la forme que repose le brevet.  Donc
+> tu peux te foutre du codre et de l'ouvrir si tu veux.
+>
+> Mais avant de ne faire  quoique  ce  soit,  prend  le  temps  de  bien
+> réfléchir.
+>
+> Il existe un  produit  qui  à  créé  un  emgoument  certaint  dans  la
+> communauté de Palm. C'est "Falch.net Developer  Studio".  Au  fil  des
+> bêta,  gratuite,  le  gars  à  su  fideliser  une  grosse   clientèle.
+> Aujourd'hui son produit est au point et il le vend à prix d'or. 99.00$
+> US pour la personelle et 350.00$ US pour  la  >  suite  professionnel.
+> C'est le meilleur produit sur le marché  actuelement  pour  programmer
+> sur un Palm. Sont idé de base a été d'élaborer un produit similaire  à
+> Visual Studio. Alors comme des milliers  de  programmeurs  programment
+> avec Visual Studio (VC++, VB,  VFP),  quoi  de  plus  naturel  que  de
+> travailler avec Falch. Je vous jure que ça prend des mois à s'habituer
+> à Code Warrior. Code Warrior est au  monde  d'Apple  ce  que  VC++  et
+> Borland C++ est au monde de Windows. Falch est le VC++ de Palm.
+>
+> Donc au lieu du OpenSource. Fait breveter ton produit aux Etats  Unis.
+> Je vois mal un européen copier et vendre ton  concept  en  europe.  Je
+> crois qu'il y a des entente à ce niveau. Mais bon vérifie sur ce point
+> et agit en conséquence.
+>
+> Après le brevet et seulement  si  tu  as  le  brevet,  fait  faire  un
+> copyright du code que renferme ton produit. Là  c'est  plus  "touché",
+> s'il y a des bouts de codes copiés, ben oubli le copyrigth.
+>
+> Prend des entententes avec les gens qui veulent dévellopper avec  toi.
+> Tu vends les produits et la rénumération ce fait au prorata.  Donc  si
+> qq'un écrit 100 lignes de codes dans une application qui  en  contient
+> 10000 bien il touchera 100/1000 des profits générés. Comme ça chaqu'un
+> recoit la juste part pour la contribution apporté.
+>
+> Les mageures pour gagner la partie.
+>
+> Un traitement de texte de qualité Un tableur de qualité Un  agenda  de
+> qualité Un programme d'envoie et  réception  de  fax.  Une  messagerie
+> efficace en Intranet et et Internet. Un exploreur pour le Web.
+>
+> Et le plus important, permettre  aux  mageures  comme  IBM,  COREL  et
+> toutes  autres  société  de  grande  envergure  s'installer   sur   ta
+> plateforme sans avoir  de  compte  à  te  rendre.  En  cela  pour  les
+> applicatifs et non pour les plateformes de d?veloppements.
+>
+> C'est tout. Bye Eddy Maue.
+>
+> En passant l'opensource c'est pour les pauves et les étudiants non pas
+> besoins de revenu pour vivre.
+-- Fan de Jayce - Heureusement que je passais par là --
+%

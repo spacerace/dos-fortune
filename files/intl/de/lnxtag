@@ -1,0 +1,2267 @@
+<knopper> Joey: Ich rätsel grad, warum ich mit telnet auf
+          Port 25 von Finlandia komme...
+<knopper> Joey: Das sollte gar net gehn.
+		-- LinuxTag 2000
+%
+Das wird durch IPv6 viel interessanter, -  dann könnte jeder Gegenstand
+eine IP haben.  Dann kann man auch ein traceroute auf die Brille machen
+falls man sie wieder nicht findet.
+		-- Bob Hentges
+%
+Blubber.  Der PHP-Code ist gut.
+		-- Michael Kleinhenz
+%
+Das liegt aber nicht an GIMP, sondern am Huhn. ;)
+		-- Klaus Knopper
+%
+<fizzblizz> Muß auch mal schlafen zwischendurch
+<nobse> <7of9>Schlaf ist irrelevant</7of9>
+		-- #Debian.DE
+%
+Plain Text, RTF und HTML dagegen locken
+den Übersetzer wie der Speck die Maus.
+		-- Tony Crawford
+%
+Kann man machen.  Man kann auch stattdessen 2 Stunden Moorhühner
+unter WINE spielen.  Da kommt evtl. sogar mehr bei raus.
+		-- Klaus Knopper
+%
+Wir sind vom LinuxTag e.V., Widerstand ist zwecklos.
+Sie werden assimiliert.
+		-- Henning Heinold
+%
+Die größte Linux-Messe in Deutschland.
+The greatest Linux-mess in Germany.
+		-- LinuxTag 2000 Team
+%
+Bitte Prioritäten setzen.  Und im Moment hat alles
+andere als die CeBIT absolut keine Priorität!
+		-- LinuxTag 2000 Team
+%
+Joey war im früheren Leben das Orakel von Delphi.
+		-- Michael Kleinhenz
+%
+Nicht von Nebensächlichkeiten aus der Ruhe bringen lassen.
+Bei genauerer Betrachtung ist alles nebensächlich.
+		-- Oliver Zendel
+%
+So langsam glaube ich wirklich an die Geschichte der
+geklonten Joeys ...
+		-- Torsten Spindler
+%
+Magnus: Bindestriche sucken eh!
+Zendel: Magnus, Sie sind raus!
+%
+Da hat jemand PHP reingeblubbert.  Von Programmierung keine Spur.
+		-- Martin Schulze
+%
+<Kleini> He He!  Keine Kritik am Meister!
+
+<Joey> An welchem Meister?
+%
+Das ist alles Kinderkacke, von rms genauso wie von Maddog.  Um
+uns auf das Niveau herabzulassen sollten wir eigentlich eine
+der Podiumsdiskussionen durch Schlamm-Catchen ersetzen.
+		-- Michael Croon
+%
+<zenman> Joey, was soll das?  Komische Art von Humor.
+<zenman> Warum tauche ich da immer auf :(
+		-- über diese Spruchliste
+%
+Ich dachte mir, der gewiefte WWW Admin könnte ja einfach
+mal ein grep loslassen...
+		-- Christian Ritter
+%
+Der LinuxTag ist eine der wichtigsten
+Linux-Veranstaltungen in Europa.
+		-- Dirk Haaga
+%
+Der LinuxTag hat sich spätestens in diesem Jahr
+als Institution in Deutschland etabliert.
+		-- Christian Egle
+%
+Jeder Tag mit PHP ist ein verlorener Tag.
+		-- Martin Schulze
+%
+* lolo ist gewöhnt daß Software das tut, was ICH ihr sage
+<Joey> Offenbar bist Du Freie Software gewohnt.
+		-- #Debian.DE
+%
+Eine Regierung darf sich nie in Abhängigkeit eines einzigen
+Herstellers begeben, wenn sie unabhängig bleiben möchte.
+		-- Presse-Team
+%
+Melde mich ab ins Bett.
+Bei Dir in Oldenburg wird es ja schon hell, oder?
+		-- Dirk Eddelbüttel um 6.30 MET
+%
+Auch 72dpi geben bei 10 Metern ganz schön viele Dots...
+		-- Michael Kleinhenz, Grafiker
+%
+Ich weiß.  Habe ja während der letzten LinuxTage miterlebt,
+daß die meisten Debian-Entwickler in der Tat eine seltene
+Rarität von Spezies sind, die völlig ohne Schlaf oder
+Körperhygiene auskommen.
+		-- Klaus Knopper
+%
+Das Ticketsystem ist wirklich selbsterklärend.
+		-- Oliver Zendel
+%
+[..] habe ich mich mal kurz hingesetzt und eine Kurzanleitung geschrieben.
+Allerdings lernt man das nur richtig durch Ausprobieren :)
+		-- Oliver Zendel
+%
+Notfalls wird's halt illegal, das hat was Veruchtes, das ist gut.
+		-- Martin Schulze
+%
+Definitiv nicht, weil ich ziemlich sicher bin, daß das
+gar nicht mehr klappen kann, und dann bin ich schuld.
+Außerdem kann ich nicht telefonieren und habe keine Zeit.
+Ist eh zu spät für dieses Jahr.  Fällt der LT halt aus
+wegen der Bürokratie.
+        -- Klaus Knopper
+%
+Kommen die Flyer alleine aus der Druckerei oder muß man
+die noch abholen?
+		-- Elke Moritz
+%
+<kju> LinuxTag-Büro?  Meine Güte :-)
+<kju> Ihr sollt studieren!
+<Joey> kju: Tun wir ja auch, Veranstaltungswissenschaften.
+		-- #Debian
+%
+Wer die Minibar anrührt wird aufgehängt!
+		-- Michael Kleinhenz
+%
+Ich bin eher für 15.000 Tüten für alle!
+		-- Oliver Zendel (eigentlich redete er über Kongreßtaschen)
+%
+Kleini> Ob der Fisch nun im Zoo rumwatschelt oder auf 'ner Eisscholle.
+
+Mikee> BTW: Pinguine sind Vöegel, keine Fische.
+%
+Pinguine sind eindeutig Fische, weil:
+       - sie leben im Wasser
+       - sie stinken nach Fisch
+       - sie können nicht fliegen
+--> Fische..
+		-- Michael Kleinhenz
+%
+Kleini> Pinguine können nicht fliegen.
+Joey> Können sie wohl, Du bist nur zu beschränkt das zu erkennen.
+      Hast Du sie schon einmal tauchen gesehen?
+      Ist wie fliegen, bloß in einem anderen Medium. :) 
+%
+Das zählt net.  Schulze, sie sind raus! :)
+		-- Der Kleini
+%
+Hoffentlich kann man hier mit Logik argumentieren.
+Ich versuch's einfach mal.
+		-- Klaus Knopper
+%
+sed 's+|+\\\\+g;s|\\\\ *\\\\|\\\\|g;s|\\\\ *\\\\|\\\\|g;s/$/\\bigskip/;s/\([_&$]\)/\\\1/g'\
+u-liste > unterschriften.tex
+		-- Oliver Zendel
+%
+Sie leben auf dem Land.  Nur manchmal tauchen Sie unter Wasser.
+Menschen tun das auch ab und zu, im Schwimmbad.  Zwar fangen
+die dann keine Fische, aber sie sind auch keine.
+		-- Michael Croon
+%
+<Joey> Noch'n Streikbrecher
+<zenman> Ach Quark, keine Zeit für Streik
+%
+Schade, ich hatte gehofft, der Job fällt jetzt nebenbei
+von meinem Stack, hat mal wieder nicht geklappt.
+		-- Martin Schulze
+%
+Aha, KK macht wieder kaputte Distris noch kaputter.
+		-- M.K. aus KL.
+%
+Das sage ich nun wirklich nie!
+Das ist wohl eher Joeys Satz.
+		-- Oliver Zendel
+%
+Cool, Schlammcatchen.
+		-- Michael Kleinhenz
+%
+<Joey> Das wurde vom User Joey angelegt, das ist keine
+       Applikation, der darf das.
+%
+<Blinder> Ich dachte ich krieg das gratis, weil ich so schön bin?
+		-- #Debian.DE
+%
+Du hast ja voll einen Berliner Akkzent!
+Icke?  Neeeeee!
+		-- Christel Marquardt (Berlinerin aus dem Saarland)
+%
+Sollen wir einen Aktenvernichter kaufen?  Was glaubt
+Ihr, was wir da alles reinstecken können!
+		-- Michael Manternach
+%
+Dieser Mailwechsel hat was von irc-over-uucp :-).
+		-- Karsten Merker
+%
+Wir bieten Standfläche und Standsystem, nicht Urlaub.
+		-- Joey
+%
+Wenn das sein muß, dann wird das so sein.
+		-- Joey
+%
+Es ist mir schon klar, daß das unter Umständen nicht
+einfach ist, aber was im Leben ist schon einfach?
+		-- Oliver Zendel
+%
+Auch macht niemand einen Vorwurf, daß Du etwa zuwenig Zeit für den
+LinuxTag investierst.  Absurd!  Im Gegenteil, ich mache uns allen den
+Vorwurf, zuviel Zeit da reinzustecken und zuviel Arbeit zu erledigen.
+		-- Michael Croon
+%
+Wer nicht miteinander reden will, sondern nur entscheiden, muß halt
+in den Busch auswandern und sich um einen Diktatorposten bewerben.
+	 -- Oliver Zendel
+%
+Der Suse-Patch (libpipepatch.so) macht übrigens alles nur
+noch schlimmer, dann gibt's nicht nur segvs sondern es
+bleibt manchmal einfach stehen und frißt 100% CPU.
+		-- Klaus Knopper
+%
+Kleini> Warum ist dann das Netscape auf Hyperion deutlich stabiler?
+
+Knopper> Weil dort ne ältere Version der glibc drauf ist, nicht
+         etwa, weil SuXE besser ist. ;)
+%
+p.s: MKS == Meine Kleinen Streithähnchen, pock pooock pooock ;)
+		-- Petra Zellmer
+%
+Die Version auf hydra ist also neuer, da hatten die
+Programmierer mehr Zeit, um Bugs einzubauen.
+		-- Oliver Zendel
+%
+Suuuuper!
+Dann nenn uns doch mal die letzte "stabile" Version von Netscape.
+		-- Klaus Knopper
+%
+Außerdem sind außer neuen Bugs keine
+wirklichen Verbesserungen dazugekommen.
+		-- Michael Kleinhenz
+%
+Dann analysieren wir den Sourcecode, generieren ein paar
+sed-Statements und schon existieren n+1 'iloveyou's :)
+		-- Oliver Zendel
+%
+<undo> fizz hört sich an wie Werbung für Alterversorgung
+<fizz> Hehe... ist auch für Journalisten gedacht...
+       Da muß man etwas langsam machen
+%
+Kester: "Hidden Input ist was für Weenies!".
+Klaus: "Und das von jemanden, der Method Post benutzt!".
+%
+Kleini: Waaah, ich kann nicht mehr klicken!
+Klaus: Oh wie schrecklich. Das ist das Ende der Welt. ;-)
+%
+Ich hab grad noch'n Enter geklickt.
+		-- Michael Kleinhenz
+%
+Soll er sagen, was er will, wenn er was will.
+	 -- Martin Schulze
+%
+Und ich habe vor dem Bildschirm gekniet, die ganze Zeit.
+		-- Petra Zellmer, als sie die Webcam erblickte
+%
+Ich kleinhenze hier nicht rum.
+Ich sage ja nicht: es wird entweder so gemacht oder ich gehe!
+		-- Klaus Knopper
+%
+UAAAAOOOORRRGGHHHHHHHH
+		-- Michael Croon, wenn er mit seinem Enlightenment spielt
+%
+Das ist kein Fehler, das ist egal.
+		-- Michael Kleinhenz
+%
+Waum ist die englische Seite jetzt nicht auf deutsch?
+		-- Klaus Knopper
+%
+Offenbar reden sie mit gespaltener Zunge.
+Also sind sie Abschaum
+Also spricht nix gegen plattmachen
+		-- Martin Schulze
+%
+Aha, Fehler gefunden!
+Das ls ist von Stallman geschrieben.
+		-- Oliver Zendel
+%
+Fond, das is doch was mit Geld, wieso sollt ich an sowas denken?
+Also bitte!  Ich hab andere Sachen im Kopf.
+		-- Martin B"ahr
+%
+So, noch 'ne News generiert...
+		-- Martin Schulze
+%
+Ich kann überhaupt nicht singen, treffe nicht mal einen Ton,
+wenn der zwei Meter groß ist.
+		-- Oliver Zendel
+%
+Die CD geht am 29. zum Preßwerk
+(wie das zu machen ist, ist mit noch schleierhaft)
+		-- Michael Kleinhenz
+%
+Der laterale Vertikalisator des Meterheader hat vibrative
+Aura auf die sophisticated engineered Quatrupel der Backtags.
+		-- Petra Zellmer
+%
+Kick Acroread und nimm Freie Software
+		-- Oliver Zendel
+%
+Alles, was im Kühlschrank steht, ist Public Domain.
+		-- Torsten Spindler
+%
+Hydra war nicht erreichbar und ohne Root Zugriff war das
+naheliegende die Maschine neu zu starten um wieder in
+einen konsistenten Zustand zu kommen.
+		-- Torsten Spindler
+%
+bapper.aux bapper.dvi bapper.log bapper.ps bapper.tex
+Joey ist immer noch unglücklich mit seinen Hurenkindern
+%
+Wenn irgendwas nicht geht, muß die Maschine rebootet werden...
+WINDOWS USER!!!
+		-- Ein erboster LT-Admin
+%
+[Mail-Alternative] Es heißt "Fax" und wir bekommen ständig
+Faxe, daß die Leute keine Mail an uns schicken können.
+		-- Michael Kleinhenz
+%
+Wenn man es nicht sofort sieht, kann man ja auch mal
+'ne Sekunde drüber nachdenken, dann hat man's auch.
+		-- Petra Zellmer
+%
+Ich will auf die Schwarze Messe.
+		-- Michael Croon
+%
+We've made our voices heard.  The times in which manufacturers of
+proprietary software alone determine the direction are past.
+		-- Martin Schulze, spokesman for LinuxTag
+%
+*BRUELL* *ROTFLBTC* *STERB* *WEIN* *BAUCHKRAEMPFE KRIEG*
+Die sind einfach GENIALST!!!!!!!! kewl :))))) gibts noch mehr
+davon?
+		-- Othmar Pasteka (über diese Fortunes)
+%
+Den vi kann man nicht benutzen, den kann man nur ertragen!
+		-- Michael Kleinhenz
+%
+Das Starten von GIMP hätt ich mir sparen können:
+Wenn man etwas überlegt, dann steht das ani in culani für Animation,
+daraus folgt, daß ein Bild ohne Animation cul.gif heißen muß:
+		-- Martin Bähr
+%
+Kleini, bei Dir ist das Attachment wohl hinten runter gefallen.
+		-- Oliver Zendel
+%
+Auf dem Fax ist die Zeile mit der Bankverbindung abgeschnitten.
+		-- Kester Habermann über eine Rechnung
+%
+Falscher Michael, suuuupaaa, mußte ja so kommen.
+		-- Martin Schulze
+%
+Montag ist Feiertag und nur wir Irren arbeiten an
+Feiertagen, Wochenenden und rund um die Uhr.
+		-- Michael Manternach
+%
+Ich brauche ca. 120k mehr im Budget für Flüge, Hubschrauber,
+Schiffe, Handfeuerwaffen, tragbare Flug- und Panzerabwehrraketen
+und einen kleinen taktischen Nuklearsprengsatz.
+		-- Torsten Spindler
+%
+Ich kann kein HTML!
+		-- Florian von Samson
+%
+Am 10. Juni hat um 17:47 Uhr eine weibliche Stimme eine Nachricht
+auf dem AB hinterlassen.  Sprache nicht zu erkennen.  Vielleicht
+romanischer Abstammung, vielleicht fern-ost-asiatisch, keine Ahnung.
+		-- Michael Croon
+%
+Naa, hatte ich noch irgendwo auf einem geswapten Stack.
+		-- Michael Croon
+%
+<Joey> Gleich vorweg: Ich bin 'swamped'.
+<Mikee> Petra, Martin, bei Euch noch ein paar Cycles idle?
+%
+Kopieren ist einfacher als Neumachen
+		-- Oliver Zendel
+%
+Wie kann man denn jpeg-Dateien an einer Textconsole anschauen? ;)
+		-- Klaus Knopper
+%
+Keine Sau hält sich an die Mülleimerordnung!
+Wie soll man denn da seine Sachen wiederfinden?
+		-- Michael Croon
+%
+Ich hasse Chaos!
+		-- Martin Schulze
+%
+Zendel> Konstruktive Vorschläge?
+
+Croon> JavaScript kicken!  Habe ich schon immer gesagt.
+%
+[Weine]
+Ich weiß nur, wenn Schimmelpilze drauf rumschwimmen,
+oder die Flasche explodiert, war er zu alt.
+		-- Klaus Knopper
+%
+Sagen wir mal so: Ich will mit Geld unfreie Software befreien.
+		-- Oliver Zendel
+%
+Sagen wir mal so: Ich will mit Geld unfreie Software befreien.
+Also stehen wir in einer Linie mit Organisationen, die Tiere
+aus Zoos kaufen und diese dann auswildern.
+		-- Oliver Zendel
+%
+Cool.  Ich bin Wischtisch!
+		-- Michael Croon
+%
+Der Preis ist symmetrisch.
+		-- Klaus Knopper
+%
+Faules Stück, willst wohl keinen Meter zu Fuß gehen?
+		-- Oliver Zendel
+%
+Alles, was laut und bunt ist, ist gut für die Presse.
+		-- Klaus Knopper
+%
+Ich bin begeistert und dafür! (falls meine Meinung gefragt war)
+		-- Christian Egle
+%
+Die Frage war eigentlich nur als Provokation für das aktuelle
+Chaos gedacht.  Aber es ist offenbar noch schlimmer als
+ich es mir in meinen kühnsten Träumen ausdenken kann...
+		-- Martin Schulze
+%
+Es wird auf der Messe kein Wegelagererzoll verlangt, bitte.
+		-- Martin Schulze
+%
+Wo wohnt eigentlich dieser Jemand Anderes?
+		-- Torsten Spindler
+%
+Ich nehme das inzwischen als die normalen Arbeitsbedingungen
+hin.  Protest wird nur pro forma erhoben.
+		-- Michael Croon
+%
+Haben wir einen Ersatz für Manti?
+		-- Michael Kleinhenz
+%
+Sorry, ich war wohl etwas müde als ich den X-Server killen
+wollte, was zu einen Reboot von hydra geführt hat.
+		-- Michael Manternach
+%
+Croon: Out of scope, totally out of scope!
+Spindler: Out of scope nennt man dehnbar.
+%
+Versicherungsagenten sind wie Aasgeier.  Wir haben
+die nicht gerufen, die stürzen sich auf uns.
+		-- Kester Habermann
+%
+Die Community is unser Kapital.
+		-- Michael Kleinhenz
+%
+Betten für Debian widersprechen dem ersten Knopperschen Axiom.
+%
+Ämter haben immer 'ne Meise.
+		-- Martin Schulze
+%
+Wir gehen gnadenlos unter, wir sind pleite.
+		-- Michael Croon
+%
+Pavillon wird ohne i geschrieben.
+		-- Michael Kleinhenz
+%
+Ich: "Hallo, ist da Conrad Firmenkundenbetreuung?"
+Conrad: "Ja"
+Ich: "Wir haben bestellt..wo bleibt das Zeug?"
+Conrad: "Sie haben keine Straße angegeben. Wir können nicht liefern."
+Ich: "Das ist eine Großkundenpostleitzahl, das kommt an."
+Conrad: "Das ist egal, wir brauchen eine Straße."
+Ich: "Es gibt aber keine "Straße" die der Uni zugeordnet werden kann."
+Conrad: "Das ist egal, wir brauchen eine Straße."
+		-- Realsatire
+%
+Wir brauchen anscheinend zusammen tatsächlich genau 14 Plätze,
+auch wenn jeder von uns andere Personen zugrunde gelegt hat.
+		-- Simon Budig
+%
+Sachversicherung: z.B. herunterfallende Sonnen und sowas.
+		-- Martin Schulze
+%
+Herunterfallende Sonnen fallen übrigens unter "höhere Gewalt"
+und sind deswegen nicht Gegenstand der Versicherung.
+		-- Michael Croon
+%
+Vielleicht kann man die Versicherung davon überzeugen, daß
+Privatsterne trotz der Wärmeproduktion nicht als Sonnen zu
+definieren sind.  Dann klappt's auch wieder mit dem Herunterfallen.
+		-- Michael Croon
+%
+Gnade, Joey, laß Gnade walten!
+		-- Torsten Spindler
+%
+Junx, ihr sollt die Leute nicht so verwirren!
+		-- Michael Kleinhenz
+%
+Super, die erste gute Nachricht seit längerem.
+		-- Michael Manternach
+%
+Ich glaube Dich hat die 'Oh Gott es sind nur noch 5 Tage-Panik' gepackt.
+		-- Oliver Zendel
+%
+Das war an dem Tag, als wir den Tisch von der AG Härder
+mit Baguette-Soße vollgesabbert haben.
+		-- Michael Kleinhenz
+%
+Autos, die nur Personen befördern, haben Kisten vergessen.
+		-- Oliver Zendel
+%
+<Croon> Der Prozeß, der hier abläuft, nennt man übrigens Katharsis.
+
+<Spindler> Katharsis ohne den Einsatz von Thermo-Nuklearwaffen?  Niemals.
+%
+Da war ich wohl nicht anwesend, sonst hätte ich Deinen oder
+den Kopf derer die wieder rumgesaut haben in die Soße getunkt!
+		-- Michael Manternach
+%
+Eigentlich könnte man zur Zeit die Liste stumpf in die fortunes gaten.
+		-- Martin Schulze
+%
+Falls nix zustandekommt, können wir immernoch die Security schicken.
+		-- Michael Kleinhenz
+%
+Ich denke, wir sollten regelmäßig einen Supermarkt in der Nähe überfallen.
+		-- Torsten Spindler
+%
+Naja angenehm wird das nicht, umbringen wird es uns auch nicht.
+		-- Michael Kleinhenz
+%
+Der spinnt der Mann.
+Der ist völlig durch.
+		-- Christian 'naddy' Weissgerber
+%
+> Ist Weibsvolk unter uns?
+
+Ja, Manti und Croon...
+		-- Dennis Daniel
+%
+Obwohl ich ja immer noch der Ansicht bin, daß Joey
+eigentlich eine Gruppe von Leuten ist.
+[..]
+Welcher Joey ist das denn jetzt von der Gemeinschaftsintelligenz?
+		-- Michael Kleinhenz
+%
+Welcher Joey ist das denn jetzt von der Gemeinschaftsintelligenz?
+		-- Michael Kleinhenz
+%
+Obwohl ich ja immer noch der Ansicht bin, daß Joey
+eigentlich eine Gruppe von Leuten ist.
+		-- Michael Kleinhenz
+%
+European Free Software Mecca
+		-- Tony Crawford
+%
+Our booth will be a solid computronium cube, I guess.
+		-- Christian 'naddy' Weissgerber
+%
+Das ist ein Witz... Sag mir, daß das ein Witz ist!
+		-- Dennis Daniel
+%
+Das ist keine Frau, das ist Joey!
+		-- Dennis Daniel zu Kleini
+%
+Christel: Das Cabonara-Pulver schmeckt echt schäbig.
+
+Joey: Du sollst das Pulver doch auch nicht so essen!
+%
+Oli: Du warst 48 Stunden Uptime.
+
+Klaus: Hmm, ich kann mich an nichts erinnern, also ja.
+%
+Labtop
+		-- Messe Stuttgart
+%
+Das war ganz verblüffend.
+Ich bin in Kaiserslautern eingestiegen
+und plötzlich waren wir in Stuttgart.
+		-- Klaus Knopper
+%
+Hab' ich da was vernünftiges gesagt?
+Ach ja, ich habe einen Samba-Vortrag gehalten.
+		-- Klaus Knopper
+%
+Der Vortrag war easy, da mußte ich ja nur reden.
+		-- Klaus Knopper
+%
+Ich rede soviel, da ich weiß, daß ich einschlafe,
+wenn ich aufhöre zu reden.
+		-- Klaus Knopper
+%
+Das waren richtige U-Boote.
+Die gingen unter unt kamen nie wieder hoch
+		-- Oliver Zendel
+%
+Debian ist die Distribution, bei der man solange
+draufhauen muß, bis es klappt.
+		-- Klaus Knopper
+%
+Debian ist ein Textadventure.
+		-- Klaus Knopper
+%
+Wenn Die Matrix von Kafka geschrieben wäre,
+dann wäre DarkCity herausgekommen.
+		-- Klaus Knopper
+%
+So ein Vorschlag kann auch nur vom Debian-Team kommen.
+		-- Michael Kleinhenz
+%
+Die Messe-Stuttgart hat auch Kampfhühner.
+		-- Michael Kleinhenz
+%
+Das gehört nicht in die fortunes!
+		-- Klaus Knopper
+%
+Netzwerk/Kryplo
+		-- Messe Stuttgart
+%
+gimb/gcc
+		-- Messe Stuttgart
+%
+Mit SuSE wär' das nicht passiert.  Weil, das hätt'ste Du
+ nicht mal zum Laufen gekriegt.
+		-- Dennis Daniel
+%
+Joey, los, klon Dich!
+		-- Karsten Droste
+%
+Geh' zum Droste, aber ich glaub', der ist voll.
+		-- Michael Kleinhenz
+%
+Wieso installierst Du eigentlich auf jedem Laptop eine andere Distri?
+
+Er will wissen, welche Distri funktioniert.
+%
+Mich kannst Du nur zum Essen und Schlafengehen motivieren, derzeit.
+		-- Othmar Pasteka
+%
+Ich muß jetzt Tüten bauen.
+		-- Karsten Droste
+%
+Du denkst auch nur ans Tütenbauen.
+		-- Kester Habermann
+%
+Wann soll das denn sein?
+Der Zustand 'fertig' ist doch nie erreicht.
+		-- Robert Depenbrock
+%
+Joey: Kann man denn ZopeCon falsch schreiben?
+
+Knopper: SoapCon?
+%
+Knopper: Ich habe noch Hotelzimmer
+
+Acki: Sollen wir jetzt irgendwelche Leute in irgendwelchen Discos abschleppen?
+%
+Das Netz wird von Tag zu Tag besser.
+		-- Klaus Knopper
+%
+Diese Raumumbenennung ist ein Running-Gag.
+		-- Michael Kleinhenz
+%
+Haben die auch Alkohol über 40%?
+		-- Quelle bekannt
+%
+Schmusen erst nach der Sitzung!
+		-- Martin Schulze
+%
+Es gibt Leute, die nehmen das ernst.
+		-- Klaus Knopper (über die fortunes)
+%
+Ich komme!
+Kommentar gesendet von Anonymous am Do, 29 Jun um 12:10
+		-- Pro-Linux
+%
+Mist, ich habe einen Task-Underrun!
+		-- Martin Schulze
+%
+Awk ist gut für Bildverarbeitung
+		-- Kester Habermann
+%
+Ich benutze auch X - und ich bin auch dekadent.
+		-- Kester Habermann
+%
+Mit mehr Joey's würden die Grafikkartenhersteller pleite gehen.
+		-- Kester Habermann
+%
+Ärzte ohne Grenzen?  Das ist so eine Musikband, oder?
+		-- Kester Habermann
+%
+Bin ich prinzipiell dafür, aber in diesem speziellen Fall dagegen.
+		-- Martin Schulze
+%
+Das ist bestimmt im Droste-Standard-Modus und geht auf den Anrufbeantworter.
+		-- Michael Manternach
+%
+Kester: Gut, daß Du kommst, ich finde Deine Seiten nicht, die nicht funktionieren.
+Petra: *lach* Deshalb funktionieren sie ja nicht...
+%
+Mensch Oli, Du sollst doch nicht immer dumm sein!
+		-- Torsten Spindler
+%
+Mann Spinni, Du sollst doch nicht immer dumm sein!
+		-- Oliver Zendel
+%
+Ich hasse es, wenn meine Sprüche gegen mich verwendet werden!
+		-- Torsten Spindler
+%
+Das ist wie CeBIT, nur ohne Damen in kurzen Röcken.
+		-- Quelle bekannt
+%
+Du siehst so wach aus.  Kann es sein, daß Du nicht
+soviel geschafft hast in den letzten Tagen?
+		-- Torsten Spindler zu Mike Croon
+%
+Der ist einfach zu schnell, der Manternach!
+		-- Torsten Spindler
+%
+Die hängen schon die ganze Zeit aufeinander.
+		-- Michael Croon
+%
+Ich hab' mich umentschieden, ich hätt's dann doch lieber klein.
+		-- Michael Croon
+%
+Da hat er etwas gestutzt und seitdem hält er mich für blöd.
+		-- Klaus Knopper
+%
+Man hat 10 lokale Minuten.
+		-- Klaus Knopper
+%
+Aber man hat Shells.  Wieviele Tastaturen hat man?
+		-- Nils Magnus
+%
+Cool war die Stelle, als jemand aus dem Publikum ihn mit der
+spanischen Inquisition verglich.
+		-- Nils Magnus
+%
+Ich habe die Security instruiert, Richard Stallman vor allen
+Tortenwerfern zu schützen und umgekehrt das Publikum vor Richard
+zu schützen.
+		-- Klaus Knopper
+%
+Kann man das klicken?
+		-- Klaus Knopper
+%
+In New York, in einer Nebengasse, wollte ich eigentlich nur eine Cola kaufen.
+		-- Nils Magnus
+%
+Kester, hörst Du zu?
+
+Nein, Du bist in meinem Killfile
+%
+Wow, das ist Mikees Schwester...
+Ich geh jetzt mal zum Infostand...
+Wieso, Mikees Schwester siehst Du doch auch von hier...
+OK, ich geh jetzt mal zum Infostand...
+		-- Martin Baulig
+%
+Die Konstruktion der OpenSauna ist übrigens einfach:
+Ein Raum in der Mitte, rundherum beheizt von Rechnern des
+Open-Source-Pavillons, innen isoliert mit Gepäck und nach
+oben offen (daher der Name). :)
+		-- Winfried Trümper
+%
+Petra: Ich muß noch packen, ich bin gleich wieder da.
+Dennis: Klar... gleich... 2 Koffer und ein Beautykoffer.
+Petra: Seh ich so aus, als ob ich einen Beautykoffer benutze?
+%
+LinuxTag: Mittendrin - statt nur dabei!
+		-- Benjamin Hagemann
+%
+Das ist ein Megakonzern.
+Die machen hauptsächlich in Zeitschriften.
+		-- Martin Schulze
+%
+Ich kam mir vor wie ein Kind, das eines von diesern Überraschungs-Eier
+schüttelt, da waren Spiel (wichtig) Spaß (jede Menge) und Spannung
+(dazu muß man nichts sagen) ...
+		-- Boris Lingl
+%
+Hab immernoch Nebel im Kopf.
+		-- Petra Zellmer
+%
+ID-PRO-Party war ja ganz nett, aber Kölsch-Bier...
+		-- Oli M. Bolzer
+%
+Wenn wir noch mehr MGAs gehabt hätten, hätte ich die S3 sofort
+rausgeschmissen (ich als S3-Treiberschreiber darf das sagen ;)
+		-- Harald König
+%
+Richard Stallman, ein komischer Heiliger
+		-- Stuttgarter Nachrichten
+%
+Wir sollten alle versuchen, Heilige zu
+werden - aber bitte, bitte keine Götter.
+		-- Richard Stallman
+%
+Wie groß ist wohl die Wahrscheinlichkeit, daß man Mikees Schwester
+auf'm LinuxTag trifft, mit Alan Cox frühstückt und mit Richard
+Stallman zu abend ißt und das alles am selben Tag?
+		-- Martin Baulig
+%
+Gebt mir einen Brenner und ich gebe Euch Plattenplatz.
+		-- Michael Kleinhenz
+%
+Kann das mal jemand für mich übersetzten?
+Mein Universal-Translator scheint kaputt zu sein.
+		-- Martin Schulze
+%
+Found one of the original LinuxTag event organisers gazing around
+in a stupified state. He said that when they'd started it five
+years ago, it was one evening, about Linux and about LaTeX, I
+think, and they'd had seventy attenders. And now...  and he waved
+an arm around helplessly.
+		-- Telsa Gwynne
+%
+Wie groß ist die Wahrscheinlichkeit, daß man Mikees
+Schwester als Mikees Schwester erkennt?
+		-- Martin Schulze
+%
+Das ist das Ende der Welt... Der Boden wird sich auftun
+und es werden die Pinguine vom Himmel fallen...
+		-- Klaus Knopper
+%
+Falls sie gefaßt werden, Mr. Croon, dann wird der Minister
+und das LinuxTag-Team jede Kenntnis Ihres Auftrags verleugnen.
+Diese EMail zerstört sich in 20 Sekunden selbst...
+		-- Michael Kleinhenz
+%
+Ich bin nicht an allem schuld, sondern nur an einigem.
+		-- Klaus Knopper
+%
+Ups... das war die falsche Liste und der falsche LinuxTag...
+		-- Martin Schulze
+%
+Frag mal unseren Rechtsanwalt.  Naja, der erklärt aber
+wahrscheinlich sowieso sofort jeden Vertrag für ungültig,
+wie ich ihn kenne.
+		-- Klaus Knopper
+%
+Fakten, Fakten, Fakten... und nicht so viel labern!
+		-- Michael Manternach
+%
+Was drohst Du einem Teammitglied an?  Daß es heimgehen darf?
+		-- Michael Manternach
+%
+Open Source ist ein Buzzwort, Free Software ist wahre Philosopie.
+		-- Martin Schulze
+%
+Klar, das nennt man das Beutelratten Prinzip.
+		-- Robert Depenbrock
+%
+hydra# /opt/reality/bin/check ~croon
+Checking Reality ...
+Pass 1: Basic Reality (Tea <-> No Tea) ... FAILED
+Pass 2: Xtended Reality ("Wir werden alle sterben!") ... FAILED
+Pass 3: LT-Reality ("Es geht beim LinuxTag nicht um Ehre und
+        Anerkennung für die Mitwirkenden" ... FAILED
+~croon contains a reality system with errors ... repair suggested!
+%
+Weiterhin ist der unverschämt und
+und hat den IQ eines Knäckebrots.
+		-- Michael Manternach
+%
+Die E-Mails haben sich wohl gekreutzt.
+		-- Kester Habermann
+%
+Ah, die Bilder sind ja voll schlecht, überall pixelig.
+		-- Klaus Knopper
+%
+Hiermit möchte ich allem Mitteilen, daß ich Vollbesitz
+meiner geistigen Kräfte, meine Stimme für die Dauer
+der Klausurtagung an Michael Kleinhenz Knopper übertrage!
+		-- Florian von Samson
+%
+Kleini: Dann mußt Du da den Fokus reinschieben.
+Oli: Ich habe keine Zeitschrift da.
+%
+Es hat sich ausikonifiziert.
+		-- Klaus Knopper
+%
+Ich hab zwei Kreditkarten, eine verfolgt mich.
+		-- Michael Kleinhenz
+%
+Karsten: Die ist Frisöse.
+Kleini: Nein, Augenoptikerin.
+Karsten: Dann frisiert die Augenbrauen.
+%
+Ich gehe davon aus, daß Adressen nur dann sinnvoll
+sind, wenn Adressen eingetragen sind.
+		-- Oliver Zendel
+%
+Da schreiben wir einfach Lutscher hinter und das war's.
+		-- Karsten Droste
+%
+Wer JavaScript aktiviert hat, hat's leichter mit dem Klicken.
+		-- Klaus Knopper
+%
+Ich bin nicht so blöd wie ich aussehe.
+		-- Klaus Knopper
+%
+Oli: Was macht das Referat Menschenpflege?
+Karsten: Debian-Leute waschen.
+%
+Fangen wir heute früher mit dem Alkohol an?
+		-- Petra Zellmer
+%
+Das Problem der Unordnung liegt nicht daran, daß wir zu
+wenig Disziplin haben, sondern, daß wir zu wenig Platz haben.
+		-- Michael Kleinenz
+%
+Das Problem der Unordnung liegt nicht daran, daß wir zu
+wenig Disziplin haben, sondern, daß wir zu wenig Platz
+haben.  Wenn jeder seinen eigenen Schreibtisch hätte, würde
+das nicht passieren.  Manti könnte dann seinen eigenen
+Schreibtisch ablecken.
+		-- Michael Kleinenz
+%
+Manti könnte dann seinen eigenen Schreibtisch ablecken.
+		-- Michael Kleinenz
+%
+Das Problem mit den WiWi's ist, daß das defaultmäßig Nullen
+sind, es gibt nur ein paar Ausnahmen.
+		-- Michael Kleinenz
+%
+Oli: Ich habe doch heute morgen kaum etwas gesagt.
+Karsten: Sagen tust Du doch sowieso fast nichts, sprechen
+ist das Problem
+%
+Ich habe doch heute morgen kaum etwas gesagt.
+		-- Oliver Zendel
+%
+Kaffee ist silber.
+		-- Martin Schulze
+%
+Der erinnert mich immer an Oli, auch so ein Kampfblubberer.
+		-- Michael Kleinhenz
+%
+Das waren Worte, die benutzen normalerweise nur Zuhälter im
+Frankfurter Raum.
+		-- Oliver Zendel
+%
+[Einstimmiges Ergebnis]
+Hast Du eigentlich dagegen gestimmt, Klaus?
+		-- Petra Zellmer
+%
+Operation broken penguin
+		-- Michael Kleinhenz
+%
+Ich muß mich jetzt besaufen!
+		-- Klaus Knopper
+%
+Eigentlich müßte man den gesamten Vortrag in die fortunes schreiben.
+		-- Michael Kleinhenz
+%
+Achtung, neuer Virus breitet sich aus: Knoppix.
+		-- Kester Habermann
+%
+Klaus hat Word für Linux announct
+%
+Ich hab' wenigstens nicht wild rumbebasht.
+		-- Klaus Knopper
+%
+Als ich mir Windows gekauft hab', hab' ich mir so die Haare
+gerauft, sieh' mal, was daraus wird.
+		-- Karsten Droste
+%
+Der ist so links wie seine rechten Äußerungen.
+		-- Oliver Zendler
+%
+Wie immer zitiert Kleini mich in kleinen, wenn auch
+wesentlichen, Details völlig falsch.
+		-- Nils Magnus
+%
+Business-Publikum ist notorisch ganz schlecht ausgestattet mit Zeit.
+		-- Nils Magnus
+%
+So oft boxt der Pabst nicht im Kettenhemd.
+		-- Karsten Droste
+%
+Alles Zufall, was ich mache.
+		-- Oliver Zendel
+%
+Hat Oli eigentlich /dev/random auf der Visitenkarte stehen?
+		-- Karsten Droste
+%
+Aber das ist unsere Zielgruppe gewesen.
+		-- Olivers Zendel
+%
+Notfalls schieben wir die Wände weiter heraus.
+		-- Michael Kleinhenz
+%
+Die Abstimmung war total sinnlos, da dieses Jahr schon vorbei ist.
+		-- Michael Kleinhenz
+%
+Wir müssen langsam mal eine Fortune-Sperre machen, sonst
+brauchen wir eine neue Festplatte.
+		-- Nils Magnus
+%
+Dich kriege ich auch noch klein, Klaus!
+Die Chicks vielleicht nicht.
+		-- Kleini
+%
+Wir brauchen keine stimmlosen 'P's.
+		-- Konsens
+%
+Sorry, ich bin schon leicht gaga.
+		-- Joey
+%
+Joey wirkt mit einem Stück Pizza
+im Mund einfach nicht mehr sexy.
+		-- Winfried Trümper
+%
+Richard Stallman sieht aus wie ein wieder geborener Jesus [..]
+		-- Der Spiegel
+%
+PS: Olli: Nicht immer sauer sein, wenn es jemand schafft
+Dich hinters Licht zu führen ...:)
+		-- Dennis Daniel
+%
+Mike?  Bilder klicken?  Na? ;-)
+		-- Klaus Knopper
+%
+Wer versucht, mich zu X oder Grafik
+zu zwingen, verliert mich als Mitarbeiter.
+		-- Joey
+%
+Nee, das gibt alles keinen Sinn, nicht mal in der
+dreidimensionalen euklidischen Geometrie.
+		-- Mike Croon
+%
+PS: Es heißt Country-Burger und schmeckt wie Fleisch!
+		-- Mike Croon
+%
+*g*... Da hat Oli wohl wieder Mist geblubbert..
+		-- Michael Kleinhenz
+%
+Das BMWI hat gerade angerufen.
+Die Dame klang etwas verwirrt.
+		-- Klaus Knopper
+%
+Ich bin zu blöd für PostgreSQL!
+		-- Michael Kleinhenz
+%
+Ich würde eigentlich auch lieber den xdm statt kdm verwenden,
+nur leider beschweren sich dann die ganzen kde-User, dass sie
+nicht wissen, wie man startkde in die .xsession einträgt.
+		-- Klaus Knopper
+%
+Das Programm "chooser", das beim KDE2 dabei ist, kann ja wohl
+nur ein schlechter Scherz sein.  Es unterstützt nämlich nicht
+einmal ansatzweise Syntax oder Protokoll des X11R6-Choosers.
+		-- Klaus Knopper
+%
+Wenn ich einfach alle Icons aus dem Control-Center lösche
+und durch ein Mandrake-Logo ersetze, dann nenne ich das
+kaputtgepatcht.
+		-- Michael Kleinhenz
+%
+Ich habe ihn hochgehoben und kräftig zugeschlagen!
+Er hustete Staub!
+		-- Florian von Samson
+%
+Übrigens, im Moment stirbt der Lüfter im CNet-Hub einen
+äußerst geräuschvollen Tod.
+		-- Florian von Samson
+%
+Ich hab ihn mal auf die Hydra gestellt,
+damit der Arme nicht noch mehr Staub atmen muß.
+		-- Florian von Samson
+%
+Ich bin jetzt so alt, wie ich schon immer ausgesehen habe...
+		-- Klaus Knopper
+%
+Wir sind die Borch.
+Widerstand kommt nich in die Tüte.
+So sieht das nämlich aus.
+%
+Wir sind keine Messe, wir sind eine Informationsplattform
+    -- Oliver Zendel
+%
+Wir sind unterwegs im Auftrag des Herrn!
+    -- Oliver Zendel
+%
+Die Joey-Modelle sind doch OK.
+		-- Florian von Samson
+%
+Fehleranfällig meint nicht, daß Datenfehler passieren, sondern daß
+Kleini jedesmal vergißt, die gebrannte CD-R mit in die Uni zu nehmen.
+		-- Michael Manternach
+%
+[fsamson@hydra fsamson]$ Warum -v -v
+bash: Warum: command not found
+		-- Florian von Samson
+%
+Heiße Luft raus, Fakten rein!
+		-- Florian von Samson
+%
+LTeV: die PDFs sind tot.
+		-- Michael Kleinhenz
+%
+> Im Depenbrock 15
+> 32584 Löhne
+
+Um das nochmal klarzustellen, in mir wohnt keiner!
+		-- Robert Depenbrock
+%
+Warum zum HENKER hast Du 2 Qubikmeter alte RedHats bestellt?
+		-- Michael Kleinhenz
+%
+Man könnte ja mal die Kapazität der Wohnung mit alten
+Red Hat Päckchen messen.
+		-- Christian Ritter
+%
+Nur keine Panik, ist doch alles organisiert...
+		-- Dennis Daniel
+%
+Ansonsten bekommt vermutlich nur Oli irgendwelche Rückmeldungen
+von ID-Pro-Seite.  Warum das so ist, weiß ich nicht.  Er
+bekommt auch Antworten auf Mails, die ich geschrieben habe.
+Ist halt sehr populär. ;-)
+		-- Klaus Knopper
+%
+<Woglinde> zenman: Hast du denn nen neuen Job?
+<zenman> Woglinde: Nö, habe aber auch noch nicht gesucht.
+<Woglinde> zenman: Wie hälste Dich dann über Wasser?
+<zenman> Woglinde: Kein Essen, nix trinken, keine Rechnungen bezahlen :)
+%
+Und Manti ist auch wieder aufgewacht... Aber er wird ja
+nicht erwarten, daß ich seine Mails jetzt noch lese, oder?
+		-- Martin Schulze
+%
+Ist ja 10 Uhr nach MSZ (Manti Spezial Zeit)
+		-- Oliver Zendel
+%
+<Joey> Und Manti ist auch wieder aufgewacht... Aber er wird ja
+       nicht erwarten, daß ich seine Mails jetzt noch lese, oder?
+<zenman> Ist ja 10 Uhr nach MSZ (Manti Spezial Zeit)
+%
+Nils verklagen fände ich in der Tat mal was neues.
+Könnte mich direkt mit dem Gedanken anfreunden. :-)
+		-- Klaus Knopper
+%
+Neenee, das machen wir anders...  Ihr flamt euch jetzt
+die Hucke voll, ich mache noch ein CVS commit, gehe dann
+ins Bett und wenn ich wieder aufstehe, ist die Sache
+ausgestanden und ich lese nur noch den Flamewar, um daraus
+fortune-Cookies zu extrahieren.
+		-- Martin Schulze
+%
+Daten sind Aneinanderreihungen von kleinen Mustern ohne Bedeutung
+		-- aus Mantis Seminararbeit
+%
+KÄonnen wir das mit der Tastatur an Hzdra mal beheben__
+		-- Michael Kleinhenz
+%
+Abgesehen davon, dass die Tatatur unbenutybar ist, kann man
+auch nicht mehr auf die TextßKonsolen umschalten.  Evtl. sollte
+man die Mandrake nicht mit FB starten.
+		-- Kester Habermann
+%
+In meinem Alter sehe ich keine großen Qualitätsunterschiede
+mehr, aber vielleicht macht es ja für euch einen Unterschied.
+		-- Klaus Knopper
+%
+Dann solltest Du den Sounddaemon von Enlightment abstellen,
+denn der teilt nicht gerne.
+		-- Michael Manternach
+%
+I hereby declare the System bug-free!
+		-- Klaus Knopper
+%
+Joey: Gratulation. Damit hast Du die Größe aller Mailboxen,
+die ich jeh hatte, getoppt. ;-)
+		-- Klaus Knopper
+%
+Also, die Webseite ist echt nicht Joey-proof.
+		-- Martin Schulze
+%
+Ich bin stolz auf Dich.
+		-- Christel Marquardt zu Joey
+%
+Ich kann euch nur eines sagen... das ist Historie...
+Nostalgie pur...  Da bekommt man ja feuchte Augen beim Lesen...
+		-- Martin Schulze
+%
+[root@hydra /root]# ls -l /var/spool/mail/joey
+-rw-rw----    1 joey     mail     1306209906 Jan 22 16:27 /var/spool/mail/joey
+
+Joey: Gratulation. Damit hast Du die Größe aller Mailboxen,
+die ich jeh hatte, getoppt. ;-)
+		-- Klaus Knopper
+%
+Igitt, der ist häßlich wie die Nacht.
+		-- Michael Manternach
+%
+Redundante Informationen können mich verwirren...
+		-- Joey
+%
+Solche Sachen war ich bisher nur von der Unix-AG gewohnt.
+		-- Klaus Knopper
+%
+Ich will einen drogenfreien LinuxTag.
+		-- Joey
+%
+Es gibt ja bei uns auch Kassenprüfer, also warum nicht
+auch "Steuererklärungsprüfer"?
+		-- Michael Kleinhenz
+%
+Es wird rosig laufen!
+Everybody be cool -- You, be cool!
+		-- Michael Croon
+%
+Jegliche Diskussion im Keim erstickt.
+Deshalb *plonk*.
+		-- Klaus Knopper
+%
+Ja, nimm nur die Suse-Kröte als prominentes Beispiel.
+		-- Klaus Knopper
+%
+Tux rulz!
+		-- Klaus Knopper
+%
+Meine Schimpftiraden darf man gerne sehen aber nicht hören.
+		-- Michael Manternach
+%
+Kann jemand mit root-Rechten mal die verdammte Systemuhr
+11min vorstellen, ich hab schon 2x meinen Bus verpaßt...
+		-- Dennis Daniel
+%
+Joey, Deine Mailbox ist 1.2gb groß.  Ich werde jetzt mal
+Gegenmaßnahmen einleiten, wir bekommen keine Mail mehr.
+		-- Oliver Zendel
+%
+Ey, Du bist ja ein Vielosof!
+		-- Klaus Knopper
+%
+Au jaaa!
+Ein Baer!
+Ich mag Baeren!
+		-- Martin Baehr
+%
+Ich habe mal rumgefragt, ist schwer Hemden zu bekommen,
+die die richtige Farbe haben und auch in den entsprechenen
+Größen (von Kindergröße für Oli bis zu normal für uns beide)
+zu bekommen.
+		-- Michael Kleinhenz
+%
+<Knopper> Was ist Linux 8.1?
+<Joey> 2*4.1?
+<Blinder> Ich würde sofort Dein Gehirn wegwerfen...
+%
+Hey, sonst denkt ihr auch immer, Joey wäre eine multiple
+Persönlichkeit.  Dann zählt die gefälligst auch so.
+		-- Martin Schulze
+%
+Also operierender Masochist der Stufe 7.  Respekt :-)
+		-- framstag über Joey
+%
+Kann man nix klicken!
+		-- Oliver Zendel
+%
+Hmm, da steht aber ganz groß Amsterdam drüber.  Ich glaub'
+ich hab mal davon gehört, daß das 2 verschiedene Städte sind.
+		-- Christian Ritter
+%
+Du weißt doch, daß Theorie und Praxis üblicherweise
+divergieren...
+		-- Martin Schulze
+%
+Wo haben wir denn das Dingens mit dem Dingens?
+		-- Torsten Spindler
+%
+Das Branding eines innovativen, new-technology-basierenden Event
+zwingt uns peu-a-peu den ursprünglichen deutschen Sprachraum zu
+verlassen und uns der internationalen Business-Speech anzupassen.
+		-- Oliver Zendel
+%
+Oh my, was habe ich getan?
+Es wird mit jeder Mail schlimmer statt besser...
+		-- Klaus Knopper
+%
+Ich habe schon genug damit zu tun, lokal Chaos anzurichten.
+		-- Klaus Knopper
+%
+Wenigstens bin ich nicht der einzige, der hin und wieder
+mit der Technik überfordert ist oder an Schlafmangel leidet.
+		-- Klaus Knopper
+%
+Halt stop!  Jetzt verstehe ich etwas.
+		-- Joey
+%
+Merkwürdigerweise funktioniert das sogar, verstehe ich
+allerdings gerade nicht, soll mir aber egal sein.
+		-- Joey
+%
+<Joey> Du bist ... zu grün.
+<Benny> *zückt entsetzt den Grünen Mitgliedsausweis*
+<Joey> *fassungslos ob des Misverständnisses*
+%
+Faszinierend...  Selten so viele Messages in einem Thread
+gelesen mit völliger Abwesenheit irgendwelcher Information.
+		-- Klaus Knopper
+%
+Linux gilt als frisch, willig, billig.
+		-- Boris Lingl
+%
+Das Briefpapier ist nicht Joey-proof, verdammt!
+		-- Joey
+%
+<Torsten> Klaus hat den Auftrag das CfP-Frontend abzuschalten.
+
+<Klaus> Das willst Du nicht.  Das CfP-Frontend ist mit dem
+        Admin-Frontend identisch (100% code reuse, Softlink).
+%
+Echt cool es sind zwei Faxe angekommen, auf denen man
+nichts erkennen kann weil die Farbpatrone alle war.
+		-- Michael Manternach
+%
+Nein, aber Du hast es ins Spiel gebracht.  Schuldig. ;-)
+		-- Klaus Knopper
+%
+Du hast wohl weniger Probleme mit dem local-Slang :)
+		-- Oliver Zendel
+%
+Joey: Das ist der falsche Meister.
+		-- Klaus Knopper
+%
+"Open Source" ist einfach kapitalismuskompatible,
+Corporate-America-korrekte sozusagen-freie Software.
+		-- Matthias Warkus
+%
+Der Klaus-Indikator als Maßstab für verlässliches
+Arbeiten schlägt ins Negative.
+		-- Michael Croon
+%
+Speed intravenös für die gesamte Core-Crew als sofortige
+Gegenmaßnahme einleiten!
+		-- Michael Croon
+%
+Cool, nicht nur wir reiten uns gekonnt in die Scheiße.
+		-- Michael Manternach
+%
+Cool, FUD und gegen-FUD.
+Ist sowieso alles Wurscht, alldieweil Debian RULEZ!
+		-- Michael Kleinhenz
+%
+Bei MS-Produkten macht es aber manchmal auch den Eindruck,
+als würden sie einfach per /dev/random Binaries erzeugen
+und hoffen, daß was Ausführbares rauskommt ;)
+		-- Michael Kleinhenz
+%
+Sorry, hab's auch nicht gelesen. :)
+
+Dann sind wir schon zu dritt :-)
+Hat irgendwer hier verläßliche Infos?
+%
+*grumpf* Ich kann mit Mutt und pgp2 nicht verschlüsseln...
+Dann mußt Du halt auch popeln...
+		-- Martin Schulze
+%
+Ich bin für Joey.  Joey ist gut.
+Joey hat meine volle spirituelle Unterstützung.
+		-- Klaus Knopper
+%
+Ist egal.  Alles sinnlos.  Ich geh Einkaufen.
+		-- Klaus Knopper
+%
+Ohhh Mann
+Im Netz findet man nix
+Da sucht man die Geschichte von Don Quichotte
+und was findet man ...
+... die beiden Protagonisten erinnern an eine Neuauflage von Don Quichotte
+und Sancho Pansa, nur daß sie eben hemmungslosen Sex miteinander haben: Der ...
+Gibt es denn nur Sex im Netz?
+		-- zenman@#mr-lug
+%
+Welcher Wahnsinnige hat denn eine Konstruktion aus sage und
+schreibe 4(!) hintereinandergeschalteten seriellen Adaptern
+in einen der seriellen Anschlüsse von Hydra gestopft?
+		-- Klaus Knopper
+%
+Seit wann bist Du unter die Bauingenieure gegangen?  Naja...
+E-Techniker, Bauingenieure, GEZ-Eintreiber...alles das gleiche Pack.
+		-- Michael Kleinhenz
+%
+Ich weiß, "mit Debian wäre das nicht passiert"...
+		-- Klaus Knopper
+%
+Ich bleibe bei meinem Standpunkt, daß Hardware evil ist.
+		-- Klaus Knopper
+%
+Wer meinen Kernel oder lilo beim Systemupdate kaputtmacht,
+bekommt für den Rest seines natürlichen Lebens eine Hardquota
+von 50 Kilobyte auf allen unseren Rechnern.
+		-- Klaus Knopper
+%
+Aber, wie das bei OpenSource so üblich ist, bevorzugt
+wird niemand, wir sind zu ALLEN gleich nett.
+		-- Klaus Knopper
+%
+Mittlerweile dürfen in den USA auch Frauen Waffen tragen,
+was ein nicht zu unterschätzendes Gefahrenpotential darstellt.
+		-- Klaus Knopper
+%
+Im Mittelpunkt des Interesses stehen Nerds, Geeks und Chicks.
+		-- Michael Croon
+%
+Ich glaub, wenn ich das in die fortunes aufnehme,
+erschießen mich zwei Leute...
+		-- Joey
+%
+VI ist kein Editor, das ist ein Eingabestrom-Modifikator.
+		-- Michael Kleinhenz
+%
+"Erste Beta des Fortran Compilers von Intel"
+Na da haben wir alle drauf gewartet!
+		-- Mike Croon
+%
+Und einen Porsche will ich auch nicht.
+		-- Klaus Knopper
+%
+Nicht erschrecken, wenn der Grill sauber ist.
+		-- Dennis Daniel
+%
+Ja, aber ich bin trotz meines hohen Alters lernfähig.
+		-- Klaus Knopper
+%
+Es soll aber Leute geben, die nicht (nur) in der Kommandozeile
+und mit vi arbeiten wollen.  Habe ich zumindest gehört.
+		-- Klaus Knopper
+%
+Stimmt, ich habe das falsch formuliert
+bzw.  die Lösung paßte nicht zum Problem.
+		-- Klaus Knopper
+%
+LinuxTag ist ja nur tagsüber.
+		-- Thiemo Seufer
+%
+Ach was, das ist alles noch im unteren Bereich der
+nach oben offenen Unix-AG-Skala.
+		-- Michael Kleinhenz
+%
+Ganz abgesehen davon vertrete ich Kester und bin nicht Kester.
+		-- Michael Manternach
+%
+Ei, dann sach mir die Telefonnummer von der Goer
+und ich schleppe sie Dir an.
+		-- Michael Croon
+%
+Alles ok, wo keine ä's, da auch keine ä's im less!
+		-- Christel Marquardt
+%
+DU grabbst die Domain doch so oder so,
+wozu also noch die Frage, ob "wir" das wollen? ;-)
+		-- Klaus Knopper
+%
+Ok.  Da fehlt halt nur das "no action required on your part"-Flag,
+und solche in den Raum gesetzten Tasks ohne explizite Anweisung
+zur Weiterverarbeitung prellen erfahrungsgemäß ja von allen
+potentiell arbeitsfähigen Lesern ab. ;-)
+		-- Klaus Knopper
+%
+Wie guenstiger?  Soll ich ihm vorschlagen, per Schiff anzureisen?  Wir
+zahlen auch die Kreuzfahrt?  Dauert auch nur 7 Tage hin und 7 Tage
+zurück mit anschließendem Test der bequemen deutschen Bundesbahn.
+		-- Martin Schulze
+%
+Zu advanced für DAUs.
+		-- Michael Croon
+%
+OPENMUSIC... kraß
+Mach ich doch glatt mal mit
+		-- Carl v. Loesch
+%
+Prophezeiung: Joey wird sagen: "Klaus hat Linux kaputtgemacht.
+Es ist bunt. Man muß dieses komische Gerät mit dem Ball
+benutzen.  Man darf nicht mehr 2 Stunden konfigurieren."
+		-- Klaus Knopper
+%
+Die Seiten sind mit Mozille 0.8, Netscape, konqueror,
+und sogar (*kreuzmach*) mit dem IE getestet.
+		-- Klaus Knopper
+%
+Das sind Marketing-Droids, die sind immer so.
+Ihr Job ist es, andere einzulullen.
+		-- Joey
+%
+Kommen wir dann im Fernsehen?
+		-- Klaus Knopper
+%
+<Oli> Sollen wir da nicht den Ausschuß für Neue Medien mit anschreiben?
+<Mike> Wer ist das?
+<Oli> Na, das sind die, die sich mit neuen Medien beschäftigen!
+%
+Lieber einen E-Techniker in der Hand,
+als einen Physiker auf dem Dach.
+		-- Michael Croon
+%
+<Oli> Wir sollten mal die ganzen Abgeordneten-Frauen anrufen.
+<Mike> Außer der Marquardt interessiert mich keine davon...
+%
+Es gibt keine dummen Fragen, nur dumme User.
+		-- Klaus Knopper
+%
+Cool... Ich bekomme nen automatischen Screendump
+Deines IRC in ein Extra-Fenster. :-)
+		-- Klaus Knopper
+%
+* Joey macht sich eine Notiz: /redirect considererd harmful - never trust a knopper
+%
+Schade, jetzt kommt nix mehr.
+		-- Klaus Knopper
+%
+This package contains the SDL-version of the Abuse game engine.
+It requires a mouse.
+
+DAS ist ja mal wieder typisch Debian. <BLINK>WARNING!</BLINK>
+REQUIRES A MOUSE!!!!
+		-- Klaus Knopper
+%
+Technisch gesehen ist es auch gar kein Modem, sondern
+eher eine übertaktete Soundkarte, die ein Modem simuliert.
+		-- Klaus Knopper
+%
+Nicht rumnörgeln, besser machen.
+		-- Klaus Knopper
+%
+Im Moment bin ich zum Klicken zu müde.
+		-- Klaus Knopper
+%
+Daß man keine gehefteten Vorlagen in ein Faxgerät
+mit Einzugsfach einlegen soll, ist bekannt, oder?
+		-- Klaus Knopper
+%
+Ich dachte immer, ich sei der einzige, der sich hinreißen
+läßt, ausführliche Mails zu schreiben, und das auch
+noch unter Beibehaltung der Rechtschreibung.
+		-- Rainer Loritz
+%
+<Klaus> Bist Du Strack oder was?
+
+<Kleini> Ne, im Wachkoma
+%
+Vielen Dank für die Vorschußlorbeeren, aber in diesem
+Jahr bin ich (weitestgehend) unschuldig.
+		-- Michael Croon
+%
+Argh... Wie machst Du das, auf Mails antworten ohne sie zu lesen?
+		-- Klaus Knopper
+%
+Und auch nicht per Handy.  Die Teile sind vollkommen sinnlos.
+Hab ich schon immer gesagt!  Die Dinger weichen höchstens
+das Gehirn ihrer Besitzer auf.
+		-- Klaus Knopper
+%
+Fünfzig Prozent aller Jugendlichen schauen positiv in die Zukunft.
+Die anderen fünfzig Prozent haben kein Geld für Drogen...
+		-- Michael Croon
+%
+<Oli> Du weißt was Honig ist?
+<Klaus> mmh?
+<Oli> Bienensabber!
+%
+<Klaus> Und wie nennen wir das jetzt?  "Knoppix" geht nicht...
+<Kleini> "Gehtnix"?
+%
+Kommt nicht in Frage!  Die Knoppix wird nicht massakriert
+zugunsten von schwachsinnigen Videos oder proprietärer Software!
+		-- Michael Croon
+%
+<zenman> Hier für Dich :)
+<Joey> Guck mal in die To-Zeile.
+<zenman> Mooeeerrk.
+%
+Extrem wichtiges Verkaufsargument für Banker, Mathematiker
+und Flugtechnik-Ingenieure!  Im Ernst, ihr würdet nicht
+glauben, wer alles schon nach dem Fortran-Compiler gefragt
+hat.  Außerdem ist der nicht groß.
+		-- Klaus Knopper
+%
+Was hat das für einen Sinn?
+Es fehlt der Lustigkeitsfaktor.
+Ist lediglich eine Beobachtung.
+		-- Klaus Knopper
+%
+Das war nur eine Stichprobe und schon gleich alles kaputt!
+
+Wir werden alle sterben!
+		-- Michael Kleinhenz
+%
+Teufel und Belzebub...  Wo sind wir hier eigentlich?
+		-- Martin Schulze
+%
+Irgendwie hatte ich das Gefühl, sie wollten mich nur
+loswerden, weil ich ihre Genialität hemme.
+		-- Klaus Knopper
+%
+Wir leben doch eh von Luft und Linux.
+		-- Martin Schulze
+%
+Moment, ich muß grade die Pinguin-Steaks wenden..
+		-- Michael Kleinhenz
+%
+Die Kopie der Bestätigung geht morgen gestempelt, verloren,
+wiedergefunden, wiederverloren, wiedergefunden, 3 Monate in Torf
+verbuddelt, wieder augegraben in den Finanzordner.
+		-- Michael Kleinhenz
+%
+Soll ich langsamer tippen?
+Oder klemmt Deine Caps-Lock-Taste?
+		-- Klaus Knopper
+%
+Joey: Ich weiß, "DANGER: This requires a MOUSE!"
+		-- Klaus Knopper
+%
+Wir kriegen das schon hin.
+Bitte keine Pizzadiskussion.
+		-- Daniele Frijia
+%
+Du hast abgenommen.
+Letztesmal hat das Hemd noch mehr gespannt.
+		-- Christel Marquardt
+%
+Das ist ja... *schauder* C-QUELLCODE!  Wofür braucht man denn sowas?
+		-- Michael Kleinhenz
+%
+WIR werden überleben.  WIR werden weiterhin Spaß haben.
+		-- Joey
+%
+Joey möchte etwas für den LinuxTag produzieren, das
+sollte demnach schon vorher fertig sein.  Das auf dem
+LinuxTag zu diskutieren würde in einer unakzeptablen
+Verzögerung resultieren und ist daher kontraproduktiv.
+		-- Martin Bähr
+%
+Nimms nicht persönlich, wenn Joeys Multitaskingsystem
+einen bestimmten Prozeß bearbeitet, dann sind alle
+Resourcen die diesen Prozeß aufhalten könnten
+kontraproduktiv.  In anderen Worten, Joeys
+Multitaskingsystem mag es nicht gern, wenn seine
+Prozesse das Loadaverage nach oben treiben, weil sie
+auf irgendwelchen Input warten; erst recht nicht, wenn
+es sich um Realtimetasks handelt, die zu einem
+bestimmten Zeitpunkt fertig sein müssen.
+		-- Martin Bähr
+%
+Christel zu Oli (es ging um /etc/apt/sources.list):
+
+"Unstable?!  Bist Du bescheuert?"
+%
+Klaus: pump kann eigentlich viel zu viel.
+Oliver: Aha
+Klaus: dhcpcd dagegen kann eigentlich fast gar nichts, aber das recht gut!
+%
+Das mit dem Treten ist bei mir anatomisch nicht so wirklich gut möglich ;)
+		-- Robert Depenbrock
+%
+Das wird ein Mega-Hack-Event.  Cool cool!  Supercool.
+		-- Joey
+%
+Dann bin ich besser als Du.
+		-- Oliver Zendel
+%
+Falls noch Fahrer fehlen, ich fahre gerne und viel (gegen 'ne Wand).
+		-- Robert Depenbrock
+%
+Harald hat seine Diplomarbeit fertig?  In der Tat *gnarf*...
+		-- Michael Kleinhenz
+%
+Oh Gott Oh Gott, vielleicht hätte ich bei den Shirts
+doch nur XXL und nicht XXXL ordern sollen.
+		-- Michael Kleinhenz
+%
+Falls es dazwischen oder in der Halle noch
+hausinterne Telefone gibt, brauchen wir die auch.
+		-- Elke 'Ich will alles' Moritz
+%
+Sorry, unmöglich.  Meine Todo-Liste geht bis zum Boden.
+		-- Michael Kleinhenz
+%
+Ich dachte, es gäbe bereits ein Schriftstück darüber.
+Nope.  Wenn Du's gerafft hast: schreib eins.
+%
+Bist Du krank?
+Auf einmal keine Experimente mehr?
+Muß ich mir Sorgen machen?
+		-- Joey zu Kleini
+%
+* Joey fragt sich, ob in KL eine Bombe eingeschlagen ist.
+<Joey> Seit Stunden schon keine LinuxTag-Mail mehr.
+%
+Mr. Anderson, if the employee has a
+problem, the company has a problem.
+		-- The Matrix
+%
+#<include "Das kann so nicht weitergehen!".h>
+		-- Michael Croon
+%
+Nunja, der LinuxTag ist ja auch keine gewöhnliche Messe.
+		-- Klaus Knopper
+%
+So ein Crap, bloß weil zwei Klammern falsch gesetzt sind und die angeblich
+ach so tolle Freie Software zu blöde ist, um das zu kapieren!
+		-- Michael Croon
+%
+Ist doch klar.  Aber alles, was wir selbst machen, funktioniert perfekt.
+Per definitionem, axiomatisch.  I declare this Distribution bug-free. :-)
+		-- Klaus Knopper
+%
+Du hast noch nicht gewonnen.
+Der Pinguin-Thread war noch länger.
+		-- Klaus Knopper
+%
+Ja, sie sind definitiv pissed. Zum Teil, weil sie Unmenschen sind, zum
+Teil, weil sie nicht wissen, was sie tut und zum Teil, weil sie ihren Job
+hassen. Läuft halt anders als "Mr. Anderson, if the employee has a
+problem, the company has a problem." Denn hier hat jeder employee ein
+Problem und damit die company an sich, aber es gibt niemanden, den das
+interessieren würde.
+		-- Michael Croon
+%
+...und dabei funktioniert Joey Methode tatsächlich...  Habs eben mal
+ausprobiert.  Dachte man müßte den Dateinamen quoten...
+		-- Michael Kleinhenz
+%
+Wir machens halt wie alle anderen: abrüsten...
+		-- Michael Kleinhenz
+%
+Ich brauch ein automatisches Mail-to-fortunes-Gateway...
+		-- Martin Schulze
+%
+Auf mein Signal hin laßt ihr die Hölle los!"
+		-- Gladiator
+%
+Früher war halt alles besser.
+		-- Torsten Spindler
+%
+* Joey hat einen Task-Overflow und macht sich erst einmal was zu essen.
+%
+
+Zwei Tage vor'm LT MUSS man saufen!
+		-- Michael Kleinhenz
+%
+Ich will ja bloß keine 4Men-Publicity machen wollen.
+		-- Robert Depenbrock
+%
+"Open Source" sind "blutbevleckte Opvergaben"
+%
+"LinuxTag 2001" ist "Jahreshkongress der Hopi-Satanisten 2001"
+%
+Ist eigentlich bekannt, dass man auf Rechnern
+nach 1985 auch meistens von CD booten kann?
+		-- Klaus Knopper
+%
+Ich gebe Chris frei.
+		-- Torsten Spindler
+%
+Wenn Lüfter drin sind, können auch Lüfter kaputt gehen!
+		-- Michael Manternach
+%
+Joey schreibt immer so Sachen.
+Ich frage "jetzt oder nie", und er sagt "ja.".
+		-- Klaus Knopper
+%
+Ahhhh...  Ich wußte es.  Dennis war der Missing Link.
+		-- Klaus Knopper
+%
+Ich glaube, wir müssen bei Dir echt aufpassen, daß Du nicht
+in ner Gummizelle landest, oder amoklaufend tausende unschuldiger
+Passanten killst, oder noch schlimmer, Windows bootest...
+		-- Klaus Knopper
+%
+Es wird alles gut werden.
+Wir machen das schon.
+Wir sind die besten. :-)
+		-- Klaus Knopper
+%
+Aber nimm besser nichts nach Stuttgart mit,
+womit Du Dich oder andere verletzen könntest.
+		-- Klaus Knopper
+%
+Ah..  Das war HTML...  was ich nicht kann...
+		-- Oliver Zendel
+%
+Zend-Optimizer?
+So ein kleiner Zendel-Optimizer wäre auch nicht schlecht.
+		-- Michael Kleinhenz
+%
+Oli: Das ist keine Wavelan-Karte, das ist...
+Joey: ...eine Wavelan-Karte.
+		-- LinuxTag 2001
+%
+Ich bin seit 7 Jahren langsame Verbindungen gewohnt.
+Diese 64kBit/s-Leitung ist superschnell.  Naja, nicht gerade jetzt...
+		-- Martin Schulze
+%
+Ich lasse die Leute ihr eigenes Betriebssystem aussuchen,
+nachdem ich herausgefunden habe, daß WindowsNT gar nicht so
+schlecht ist.
+		-- Henning Heinold
+%
+Also, hier hat er erheblich mehr Netz als unten.
+		-- Martin Schulze
+%
+Also "groß" ist die Zweitkleinste.
+		-- Harald Koenig
+%
+Wo sind Sie?  Killesberg?  Nein, dahin liefern wir nicht.
+Bis dahin ist die Pizza kalt.
+		-- Pizzabringdienst
+%
+Wer läßt hier SuSE 7.2 laufen?  Außer mir?  Oder bin ich das?
+		-- Harald Koenig
+%
+Ich seh' nix mehr!
+		-- Klaus Knopper
+%
+Wir sind, wo wir unser Büro haben.
+		-- Arne Wichmann
+%
+Forking und Threading sind irgendwie im Menschen noch nicht implementiert
+		-- Joey
+%
+Kenner bezeichnen ihn auch als die Wunderkerze.  Für eine
+kurze Zeit leuchtet er, dann verbrennt er ziemlich schnell
+und ist zu nix mehr zu gebrauchen.
+		-- Klaus Knopper
+%
+Klaus, hör auf, die Antwort matcht nicht auf die Frage.
+		-- Joey
+%
+Siehste, ist alles total einfach.
+		-- Klaus Knopper
+%
+Wieso?  Virtual Port 0 stand da.  Betrug...
+		-- Klaus Knopper
+%
+Du sollst nicht helfen, sondern treten.
+		-- Benjamin Hagemann
+%
+Wer ist hier idle?
+		-- Kester Habermann
+%
+Ich hab' momentan 'ne Mandrake, aber das ist ja wie Windows.
+		-- Nils Magnus
+%
+Hier liegen noch alte Pommes.  Biete die mal anderen an.
+Sollen ja nicht schlecht werden.
+		-- Benjamin Hagemann
+%
+Jolt entkoffeiniert
+%
+Das ist eine gute Debian.
+		-- Klaus Knopper
+%
+Dann bekommen wir die Nachricht und haben eine Bombe.
+		-- Michael Kleinhenz
+%
+Haben Sie einen Häcker gesehen?
+%
+Argh...  Wir sind schon wieder geslashdottet...
+Unser Server ist schon wieder weg.
+		-- Michael Kleinhenz
+%
+Achja... dadurch hat Cassidy eine Load von ca. 50 und unser
+Webserver ist seit einer Stunde tot.
+		-- Michael Kleinhenz
+%
+Ich habe keinen Lieferanten-Codec.
+		-- Arne Wichmann
+%
+Da hat letztens ein Papierkorb gebrannt, dann kam ein
+Riesenlöschfahrzeug vorbei.  Im Vorbeifahren ausgeblasen?
+%
+Fortran???
+*schallendes Gelächter*
+%
+Kester: Hast Du kein Netz?
+Petra: Nee, das ist ein Mac.
+%
+Ah, ich habe jetzt andere Fehlermeldungen, wir machen Fortschritte.
+		-- Kester Habemann
+%
+Ich brauche ca. 8 Stunden, um mich an das morgens
+aufkommende Licht zu gewöhnen.
+		-- Klaus Knopper
+%
+Ich hab hier noch einen Leuchtkeks.
+		-- Klaus Knopper
+%
+Das ist wie wenn Du mit telnet auf den SSH-Port connectest.
+		-- Chris Amthor
+%
+Ich werde den Webserver mit meinem Leben verteidigen
+		-- Klaus Knopper
+%
+Maddog hält am Sonntag um 10 Uhr einen Sunday Talk.
+Eine Predigt?
+%
+Da hat mich doch gerade jemand mit Joey angesprochen.
+		-- Petra Zellmer
+%
+Nicht diskutieren - programmieren!
+		-- Zitat aus dem Hack-Center, LT 2001
+%
+Ich habe nur mein 3D-Sehvermögen verloren.
+		-- Chris Amthor
+%
+Kleini: Hast Du schonmal so viele Unterschriften gegeben?
+Urhan: Ja, das letzte Mal auf dem Busen eines weiblichen Fans.
+%
+Christel und Oli haben sich getrennt.
+		-- Benny
+%
+Ich glaube, der Klaus wird noch tierisch verklagt werden.
+		-- Karsten Droste
+%
+Du gehst allein in den Knast.
+		-- Karsten Droste
+%
+Das hat doch der Merker gefälscht.
+		-- Torsten Spindler
+%
+Hmm, es hat schon einer den SuSE-Vortrag von morgen mit 5 bewertet...
+		-- Torsten Spindler
+%
+Hauptbestandteil der Currysauce ist Apfelmus.
+		-- Arne Wichmann
+%
+*rotfl*  Ich habe bei der google-Bildsuche nach meinem
+Namen gesucht und erhalte ein Bild von Joey.
+		-- Petra Zellmer
+%
+Ist hier der Wettbewerb "Wer erzählt den Witz zuende"?
+		-- Karsten Droste
+%
+Deine private Witzesammlung?
+5MB - keine Pointe
+		-- Karsten Droste
+%
+Zum Frühstück fahre ich noch runter ins Hotel.
+		-- Joey
+%
+Solange Deine Füße noch an Deinem Körper sind, hast Du
+ein Problem, da kann auch Deine Mutter nichts dran ändern.
+		-- Torsten Schulze
+%
+Mütter haben immer recht, das ist ein ungeschriebenes
+Gesetz seit Jahrmillionen.
+		-- Klaus Knopper
+%
+Ich wußte schon immer, daß Debianer krank sind.
+		-- Robert Depenbrock
+%
+Die Songs haben irgendwie C64-Romantik.
+		-- Klaus Knopper
+%
+Mikee hat Melanie getriggert.
+		-- Klaus Knopper
+%
+Schlagzeile: LinuxTag-Techniker in der Dusche ertrunken...
+		-- Klaus Knopper
+%
+Ich weiß schon, warum Du den Zettel mitgenommen hast.
+		-- Benjamin Hagemann
+%
+Da gibt man sich Mühe, konfiguriert X11, richtet KDE ein
+und die starten eine Textkonsole, diese Ignoranten.
+		-- Klaus Knopper
+%
+Ich vermisse eine Notebook-Tasche.  Merkmal: Farbe Schwarz.
+		-- Torsten Rahn
+%
+Torsten: Ich habe meinen Visor im Postbüro vergessen.
+Dennis: Der ist weg.  Das sind Schwaben hier.
+%
+Es geht nicht darum, wer die fadenscheinigste Begründung hat.
+		-- Nils Magnus
+%
+Es ist schon interessant, was hier wegkommt...
+Teebeutel aus meiner Teetasse.
+		-- Elke Moritz
+%
+Der Fehler im System heißt Knopper.
+		-- Oliver Zendel
+%
+Nach dem LinuxTag ist vor dem LinuxTag.
+		-- Benjamin Hagemann
+%
+Oli trifft sich im Schloßgarten?
+		-- Karsten Merker
+%
+Wieviel schlaf hast Du eigentlich insgesamt bekommen?
+Ist das schon zweistellig?
+		-- Kester Habermann
+%
+Für "ohne Kohlensäure" sprudelt das aber ganz schön.
+		-- Kester Habermann
+%
+*Schreie von draußen*  Die fangen mein Essen.
+		-- Kester Habermann
+%
+Cosmo: Die SuSE-Leute sind die letzten, die gegangen sind.
+Joey: Ist das jetzt ein gutes oder schlechtes Zeichen?
+%
+Wenn Joey jetzt anfängt, das vorzulesen,
+gibt es rekursive fortunes.
+		-- Kester Habermann
+%
+Organisation ist Improvisation.
+		-- Benjamin Hagemann
+%
+Core-dination
+		-- Benjamin Hagemann
+%
+Luxus haben wir die Woche über gehabt.
+Das reicht erst einmal für ein Jahr.
+		-- Joey
+%
+Hoffentlich zahlt Manti seine Sauftour nicht mit der
+Vereinskreditkarte.
+%
+Ich weiß gar nicht, wieso wir Joey ein Hotelzimmer bezahlen.
+		-- Dennis Daniel
+%
+Auf dem Weg zum China Garden hat Karsten nochmal
+versucht, einen Witz zu erzählen.
+%
+Ich falle weg.
+		-- Christel Marquardt
+%
+Laßt uns jetzt durch die Halle gehen
+und die richtigen Goodies abgreifen.
+		-- Dennis Daniel
+%
+Ist doch alles Defekt-Ware.
+		-- Pyramid
+%
+Oh, das ist ja wie damals... Hubba Bubba...
+		-- Oliver Zendel
+%
+Wer ist CiM???
+		-- Christel
+%
+Ich werde jeden Tag älter.
+		-- Christel Marquardt
+%
+Hat alles nach Maggi geschmeckt, kam mir vor wie im Saarland.
+		-- Christel Marquardt
+%
+Die Kisten können wir Schenker schenken...
+%
+<Acki> Hans Reiser muß morgen mit Sabine heimfliegen.
+<Joey> Die Sabine heißt übrigens nicht Sabine sondern Sonja.
+<Acki> Nee... Sabine ist die Airline.
+%
+Arrgh!  Schon wieder Karlsruhe!  Kaiserslautern != Karlsruhe!!!
+		-- Elke Moritz
+%
+Im Endeffekt war alles cooler als letztes Jahr, obwohl
+ich bis Donnerstag dachte, das es nicht geht.
+		-- Igor Gilitschenski
+%
+Joey, ich habe noch nie jemanden getroffen, der
+solange rund um die Uhr arbeitet wie Du.
+		-- Michael Manternach
+%
+[..] Oli der alles zusammenhält und so langsam einen Privatjet verdient
+		-- Michael Manternach
+%
+Joey schreibt immer so Sachen.  Ich frage "jetzt oder nie",
+und er sagt "ja.".  Das ist normal.  Ich such mir dann
+immer das aus, was ich am besten finde. :-)
+		-- Klaus Knopper
+%
+Klaus, hast Du letzte Nacht etwa geschlafen?
+Du benimmst Dich so anders.
+		-- Joey
+%
+Und ich hatte mich schon so gefreut, sie auf brutalste Weise
+aufzuwecken, aber jedesmal, wenn ich aufgewacht bin, waren die
+meisten schon wach.  *seufz*
+		--- Anita Frieda Reimann
+%
+Es gibt eins, was ich wirklich vermißt habe...
+Dein karriertes Jacket.
+		-- Dennis Daniel
+%
+Und wenn wir jetzt die Zeit um eine Woche zurückdrehen könnten,
+würde ich im Zug sitzen und hinfahren, aber da wußte ich ja noch
+nicht, daß ich statt auf dem LT zu sein für eine Klausur lernen
+würde die ich dann doch nicht mitschreiben darf.
+		-- Martin Baulig
+%
+Blaue Funken kenne ich auch... Die hinterlassen häßliche
+Narben auf den Fingern und tun ziemlich weh, zumindest kurzzeitig.
+		-- Klaus Knopper
+%
+Das würde ich ja jetzt ganz gerne kommentieren,
+aber mir fällt grad keine gute Pointe ein.
+		-- Klaus Knopper
+%
+Ohne Bilder kein Rest, oder?
+		-- Oliver Zendel
+%
+Du solltest deutlicher schreiben, ich habe
+3 Anläufe gebraucht, um den Satz zu parsen.
+		-- Joey
+%
+Mit Hilfe des Papiermülleimers habe ich eine Komprimierung
+durchgeführt, unbesehen des Inhalts.  Was vorher einen Schreibtisch
+und einen Stuhl und diverse qm Boden bedeckt hat, ist jetzt handlich
+in einem Eimer zu finden.  Die Zugriffszeit auf Dokumente sollte in
+etwa gleich bleiben, die Ausdehnung auf die zur Verfügung stehende
+Fläche wurde jedoch drastisch reduziert.
+		-- Torsten Spindler
+%
+Sehr diplomatisch. Klingt besser als
+"liegt bereits in der Tonne, wir hassen euch alle."
+		-- Klaus Knopper
+%
+Wer hat denn den Schlamm ins Büro geschleppt?
+Der Boden sieht aus wie ein Saupfuhl.
+		-- Dennis Daniel
+%
+Oh, Mann, Joey... Es geht wohl bergab.
+		-- Klaus Knopper
+%
+Cool, ich bin einen Level weiter.
+Ich habe jetzt 1,5 h Minicontent gespielt und gewonnen.
+		-- Nils Magnus
+%
+Wie ich es hasse, immer recht zu haben.
+		-- Klaus Knopper
+%
+Achwas, ich fahr' meistens Strecken, die ich blind kenne, weil
+ich mich auf Strecken, die ich noch nicht kenne permanent verfahre.
+		-- LGS
+%
+Die "Letzte Mahnung" liegt in der Mülltonne (aka Finanzfach).
+		-- Michael Kleinhenz
+%
+Der Linux-Tag hat seinen Basarcharakter behalten.
+		-- Computerwoche
+%
+Obwohl die Computerwoche von einer großen Anzahl von IT-Entscheidern
+gelesen wird, hat diese noch nicht die erforderliche IT-Kompetenz und
+journalistische Unabhängigkeit, um als Informationsmedium zu einer
+ernst zu nehmenden Alternative zu werden.
+		-- Kester Habermann
+%
+Sorry, falsche Sequenzen an die Finger geschickt
+und aus Versehen eine Mail ausgelöst.
+		-- Michael Croon
+%
+Wir dürfen uns halt nicht von der
+eigenen hohen Qualität verwirren lassen.
+		-- Klaus Knopper
+%
+Die Angesprochenen werden sich angesprochen fühlen.
+		-- Klaus Knopper
+%
+Mein Plan B: Mike reaktivieren und alle Probleme lassen sich lösen.
+		-- Klaus Knopper
+%
+Laß mal die sarkastischen Bemerkungen, dafür habt ihr ja mich.
+		-- Klaus Knopper
+%
+Man kann in C nur fehlerfreie Programme schreiben,
+denn fehlerhafte Programme crashen einfach.
+		-- Klaus Knopper
+%
+Habe Joey mit Joho verwechselt, was vermutlich bedeutet, es ist Zeit, heimzugehen.
+		-- Klaus Knopper
+%
+Hey, das war doch überhaupt nicht witzig.
+Wieso steht das jetzt in den Fortunes?
+		-- Klaus Knopper
+%
+Wenn ich jetzt sage, man nehme sich eine SQL-db, einen
+Indianer, ein PHP und einen Lynx, werden sie mich
+wahrscheinlich auslachen, oder?
+		-- Martin Schulze
+%
+Der LinuxTag ist die gute Seele der Free und Open-Source
+Software Bewegung in Europa. Er verkoerpert Sachkompetenz,
+Aufrichtigkeit und guten Stil.
+		-- Michael Croon
+%
+Das kommt jetzt aber nicht in den Marketingplan, oder?
+		-- Klaus Knopper
+%
+Typen, die Geld bringen oder wenigstens versprechen.
+Geschniegelt, verkrampft, unsexy.  Oder doch sexy, kommt
+drauf an, was man sich davon verspricht.
+		-- Michael Croon
+%
+Wie im Heise-Artikel http://www.pro-linux.de/news/...
+		-- Klaus Knopper
+%
+<Kleini> ..und jetzt bauen wir Klaus noch in son Filmplakat ein... mmh?
+<Klaus> Knoppi, the Bug Slayer
+<Kleini> Dann mußt Du dir aber noch lange Haare und ein paar Titten wachsen lassen...
+<Klaus> das mit den langen Haaren ist wohl keine Option mehr...
+%
+Ein vorbeifliegender Pinguin, der aufgrund zu hohen Fischkonsums zu schwer
+geworden war, warf ein paar CDs als Ballast ab. Diese durchschlugen ein
+Hausdach, und landeten auf dem Computer von Herrn P. Leider waren sie durch
+den Sturz zu Bruch gegangen, und es lagen überall kleine CD-Schnipsel rum.
+Deswegen klickte Herr P gleich auf die KNOPPIX-Seite und bestellte eine neue.
+		-- Klaus Knopper
+%
+Nein, ich nehme keine Drogen.
+		-- Klaus Knopper
+%
+Und wer verteilt hier eigentlich Redeverbote?
+		-- Klaus Knopper
+%
+Kurze Auswertung unseres WWW-Servers.  Seit Samstag hat
+der Nimda-Virus 454 x versucht unseren Apache zu hacken.
+Hoffentlich erfolglos.
+		-- Oliver Zendel
+%
+Ok, Du hast gewonnen.
+Oder verloren, wie man's nimmt.
+		-- Klaus Knopper
+%
+Das Problem ist der Parser.  Der ist nicht fuzzy genug.
+		-- Klaus Knopper
+%
+Ihr wollt also mit ein oder mehreren PHP-Leuten ins LinuxTag-Büro
+einziehen wegen Kommunikationsproblemen (mit wem?!), aber nicht
+sagen, warum?  Und wer verteilt hier eigentlich Redeverbote?
+		-- Klaus Knopper
+%
+Die schwarzen Schafe sitzen manchmal in den eigenen Reihen.
+Zu Deiner Beruhigung, schwarze Schafe leben nicht sehr
+lange, hab Agrarwissenschaften studiert.
+		-- Egon Schmid
+%
+Oder soll ich's noch mal im Rahmen meiner wöchentlichen
+"Best of Knopper"-Collection broadcasten?
+		-- Klaus Knopper
+%
+Dann nennen wir die Stände "Joey's Revier",
+und Du nennst sie wie Du willst.
+		-- Klaus Knopper
+%
+Stimmt schon, die kosten viel Zeit und Geld, wollen dauernd irgendwo
+essen gehen und halten dich von der Arbeit ab. Man sollte sie überhaupt
+verbieten. Dummerweise beherrschen sie bereits die Welt.
+		-- Klaus Knopper über Frauen
+%

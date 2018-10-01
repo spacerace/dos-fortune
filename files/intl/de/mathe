@@ -1,0 +1,741 @@
+Mathematik die Kunst, Rechnen zu vermeiden.
+		-- Ralf Wirth
+%
+Die zweitbilligste Fakultät an der Universität sind die Theoretischen
+Physiker, die brauchen nur Papier, Bleistift und einen Mülleimer.  Die
+billigsten sind die Mathematiker, da entfällt der Mülleimer, weil
+alles sofort veröffentlicht wird.
+%
+Es besteht die Möglichkeit daß Computer einmal weniger als
+1,5 Tonnen wiegen (Aus "Popular Mechanics", 1949)
+%
+Fahren drei im Zug durch Schottland und sehen ein schwarzes Schaf.
+Einer von den dreien ist Ingenieur, er meint:
+"Alle Schafe in Schottland sind schwarz."
+Der zweite ist Physiker. Sein Kommentar:
+"Es gibt in Schottland schwarze Schafe."
+Der dritte ist Mathematiker:
+"Es gibt in Schottland mindestens ein Schaf, das für mindestens
+drei von uns auf mindestens einer Seite schwarz erscheint."
+%
+Fahren zwei Informatiker im Auto. Plötzlich fällt der Motor aus.
+Der eine:
+"Mist, ein Bug im Betriebssystem."
+Der andere:
+"Komm, wir steigen aus, machen alle Türen einmal auf und zu.
+ Vielleicht geht's dann wieder."
+%
+Ein praktischer und ein theoretischer Mathematiker müssen 2*2 berechnen.
+Praktischer :
+  2 * 2 = 2 * ( 1 / (1 - 1/2) )
+er sieht sofort, daß sich der zweite Term in eine geometrische
+Reihe entwickeln läßt.
+  2 * 2 = 2 * ( (1/2)^0 + (1/2)^1 + (1/2)^2 + (1/2)^3  + ... )
+Da er an exakten Lösungen nicht interessiert ist bricht er die Reihe
+nach dem zweiten Glied ab und bekommt:
+  2 * 2 ungefähr gleich 3
+
+Der theoretische Mathematiker ist nur an der Existenz einer Lösung und
+nicht an ihrem genauen Wert interessiert.
+  2 * 2 = (-2) * ( 1 / ( 1 - 3/2 ) )
+Auch er entwickelt eine Reihe
+  2 * 2 = (-2) * ( (-3/2)^0 + (-3/2)^1 + (-3/2)^2 + (-3/2)^3 + ... )
+Er sieht natürlich sofort, daß diese Reihe nicht konvergiert und folgert:
+  2 * 2 existiert nicht.
+%
+Ein Soziologe, ein Physiker und ein Mathematiker fahren im Zug. Sie schauen
+aus dem Fenster und sehen ein schwarzes Schaf.
+Soziologe :    "Hier gibt es schwarze Schafe."
+Physiker  :    "Falsch. Hier gibt es mindestens ein schwarzes Schaf."
+Mathematiker : "Immer noch falsch. Hier gibt es mindestens ein Schaf, das
+                auf mindestens einer Seite schwarz ist."
+%
+Ein Mathematiker, ein Physiker und ein Informatiker werden jeder einzeln
+in einen Raum voller Konservendosen gesperrt (ohne Dosenöffner, versteht
+sich).
+
+Nach drei Wochen wird der Raum mit dem Informatiker geöffnet. Er ist
+völlig verdreckt, die Wände kleben voller Essensreste, dutzende
+verbeulte und aufgeplatzte Dosen liegen in den Ecken - der Informatiker
+hatte überlebt, indem er die Dosen einfach solange gegen die Wand
+geschmissen hat, bis sie geplatzt sind.
+
+Der Raum mit dem Physiker wird geöffnet. Der Raum ist relativ sauber, der
+Physiker auch. Die Wände sind mit Formeln beschrieben und nur an einer
+Raumecke sind ein paar Kratzer an der Wand. Der Physiker hat einfach exakt
+die notwendigen Winkel, Kräfteverhältnisse und Luftwiderstands-Beiwerte
+errechnet, die nötig waren, damit der Deckel der Dose sich löst, wenn
+man diese an eine bestimmte Stelle der Wand wirft.
+
+Der letzte Raum wird geöffnet. Der Mathematiker liegt verhungert in der
+Ecke, alle Dosen sind zu. Der Raum ist über und über mit Formeln
+übersäht. Ganz unten neben dem verwesten Leichnam findet man dann neben
+der letzten Berechnung:
+
+    "Annahme: Wenn ich die Dose nicht öffnen kann,
+              werde ich verhungern.
+     Beweis:  Angenommen, es gelte das Gegenteil ..."
+%
+Ein Heißluftballon bekommt leichte Flugprobleme und muß auf einem kleinen
+Feld heruntergehen. Unten steht ein Mann und blickt neugierig den Ballon
+an. Der Ballonführer steuert den Ballon genau über den Mann und fragt ihn:
+"Wo befinden wir uns?"
+Der Mann überlegt zwei Minuten und meint dann: "Im Korb eines Ballons."
+Dieser Mann ist zweifelsfrei ein Mathematiker. Warum?
+ (a) Er hat sorgfältig überlegt, bevor er antwortet.
+ (b) Seine Antwort ist zweifellos korrekt.
+ (c) Die Antwort ist für die Fragenden vollkommen nutzlos.
+%
+Der Unterschied zwischen einem Ingenieur, einem Physiker und einem
+Mathematiker läßt am besten an Hand des Lösungsweges bei einer
+einfachen Rechenaufgabe darstellen. Die Aufgabe lautet: 2 * 2 = ?
+
+Der Ingenieur nimmt seinen Taschenrechner und erhält als Ergebnis 4.
+
+Der Physiker nimmt seinen Rechenschieber und erhält 3,9 (weiter will er
+sich lieber nicht festlegen).
+
+Der Mathematiker nimmt einen Stapel Papier, verschwindet in seinem
+Arbeitszimmer, kommt nach ca. 2 Stunden wieder und verkündet:
+
+"Es gibt eine Lösung dieser Aufgabe und die Lösung ist eindeutig"
+%
+Ein Mathematiker, ein Physiker und ein Ingenieur bekommen jeweils 12
+Stäbe und ein 100m langen Draht, und sollen damit ein möglichst großes
+Gebiet abstecken.
+Der Ingenieur steckt sehr uneffektiv mal hier und mal da einen Stab in die
+Erde.
+Der Physiker überlegt und meint er würde mit einem gleichseitigen Zwölfeck
+die größte Fläche abstecken können.
+Der Mathematiker nimmt die Stäbe, wickelt den Draht um sich und sagt:
+"Ich bin außen!"
+%
+Ein Physiker, ein Mathematiker und ein Lehrer übernachten in einer
+Blockhütte. Plötzlich bricht ein Feuer aus. Der Lehrer versucht sein
+eigenes Leben zu retten, rennt raus, und überlebt. Der Physiker ist ganz
+von dem Phänomen begeistert und kommt bei der Suche nach dem Thermometer
+um. Der Mathematiker wacht kurz auf, sieht den Feuerlöscher an der Wand
+und schläft ruhig weiter, denn es gibt eine eindeutige Lösung des
+Problems.
+%
+Ein Mathematiker und ein Ingenieur bewerben sich um eine Stelle. Der
+Arbeitgeber will ihre Praxistauglichkeit testen und gibt dem Ingenieur
+eine Aufgabe: Er soll in die Küche gehen und ein Würstchen braten.
+
+Der Ingenieur geht in die Küche und brät ein Würstchen. Daraufhin
+bekommt der Mathematiker die selbe Aufgabe, auch er löst sie einwandfrei.
+Nun erschwert der Arbeitgeber die Versuchsbedingungen. Er läßt den
+Kühlschrank in den Keller stellen. Wieder bekommt der Ingenieur die
+Aufgabe ein Würstchen zu braten. Er geht zunächst in die Küche, findet
+aber den Kühlschrank nicht. Er durchsucht das ganze Haus und findet
+schließlich den Kühlschrank in dem Keller. Er macht ihn auf, nimmt
+ein Würstchen, geht in die Küche, geht zum Herd und brät das
+Würstchen. Aufgabe gelöst.
+
+Nun bekommt der Mathematiker die selbe Aufgabe. Auch er geht in die
+Küche, findet aber keinen Kühlschrank. Er durchsucht das Haus und
+findet im Keller den Kühlschrank. Nun schnappt er sich den Kühlschrank,
+trägt ihn die Treppe hoch und in die Küche. So hat er das neue
+Problem auf ein bekanntes zurückgeführt!
+%
+Nichtmathematiker: "Ich finde Ihre Arbeit ganz schön monoton."
+Mathematiker:      "Dafür ist sie aber stetig und nicht beschränkt."
+%
+Wenn 2 Leute in einem Zimmer sind und 3 gehen heraus, dann muß
+einer wieder hereinkommen, damit das Zimmer leer ist.
+%
+Mehrere Studenten verschiedener Fachrichtungen sollen in einer Prüfung
+die Primzahlenreihe herleiten.
+
+Mathematikstudent: "Hmmm, 1 ist Primzahl, 3 ist Primzahl, 5 ist
+Primzahl und per Induktion können wir weiter schließen, daß
+auch alle anderen, ungeraden Zahlen prim sind."
+
+Physikstudent: "Hmmm, 1 ist Primzahl, 3 ist Primzahl, 5 ist
+Primzahl, 9 ist... ähhh, uhhh, 9 ist ein Meßfehler, 11 ist
+Primzahl, 13 ist Primzahl... OK, das Experiment läßt hinreichend
+genau erkennen, daß jede ungerade Zahl prim ist."
+
+Ingenieurstudent: "Hmmm, 1 ist Primzahl, 3 ist Primzahl, 5 ist
+Primzahl, 9 ist..., nun, wenn wir es approximieren, 9 ist
+Primzahl, 11 ist Primzahl, 13 ist Primzahl... usw."
+
+Informatikstudent: "Ich habe eben kurz ein Programm geschrieben,
+was die Primzahlenreihe für uns berechnet... 1 ist Primzahl,
+1 ist Primzahl, 1 ist Primzahl, 1 ist Primzahl..."
+%
+1+1 = 3, für hinreichend große 1
+         (und für hinreichend kleine 2). 
+%
+         lim      ----
+        8-->9   \/ 8   = 3
+%
+Mathematiker will seinen neuesten Beweis als Bild aufhängen - leider ist
+keiner da, der den Nagel reinhaut. Er nimmt die Leiter, einen Nagel und
+einen Hammer und hält den Nagel mit dem Kopf zur Wand.
+Gerade als er zuschlagen will, schaut er nochmal genau hin und stutzt.
+Er überlegt, 
+und überlegt
+und überlegt -
+nach 5 Minuten konzentriertem Hinschauen hat er es:
+"Das ist ein Nagel für die gegenüberliegende Wand!"
+%
+Ein Mathematiker, ein Physiker und ein Biologe stehen vor einem
+Fahrstuhl. Es steigen 9 Personen in den Fahrstuhl hinein. Nach einiger
+Zeit kommt der Fahrstuhl wieder und es steigen 10 Personen aus. Was
+denken sich die drei?
+
+Der Biologe: Na, die haben sich anscheinend vermehrt!
+Der Physiker: Naja, 15% Rechenungenauigkeit!
+Der Mathematiker: Wenn jetzt noch einer reingeht, ist keiner mehr drin.
+%
+Der Physiker soll erklären, warum es in der Eisenbahn so rumpelt. Er
+sieht sich die Lok an. Daher kommt es nicht, also kann man die Lok
+vernachlässigen. In jedem Waggon rumpelt es genauso, (bis auf
+Zeitverschiebung der Größenordnung dt), das Problem kann also auf
+einen Waggon reduziert werden. Der Waggon besteht aus Ober- und
+Unterbau, das Rumpeln kommt hörbar von unten. Also kann auch der
+Oberbau vernachlässigt werden. Der Unterbau besteht aus Achsen und
+Rädern. Man kann nun annehmen, daß die Achsen gut geschmiert sind und
+damit für das Problem nicht relevant sind. Die Räder können mit guter
+mathematischer Genauigkeit als Kreise beschrieben werden.
+Kreisflächeninhalt ist Pi*r^2. Pi ist eine Konstante, die rumpelt
+nicht. Mit großer Wahrscheinlichkeit ist auch r inzwischen konstant
+(Stichwort thermische Ausdehnung). Was bleibt übrig? Das Quadrat! Und
+daß ein Quadrat rumpelt, ist doch klar!
+%
+Ein dreieckiges Rad ist besser als ein viereckiges, weil es pro
+Umdrehung einmal weniger hoppelt.
+%
+Treffen sich zwei Kurven im Unendlichen, sagt die eine: Ey hau ab aus
+meinem Definitionsbereich sonst differenziere ich Dich! Darauf die
+andere: Macht nix ich bin die e - Funktion.
+%
+Zwei Mathematiker und zwei Physiker fahren zusammen mit der Bahn zu
+einem Kongreß. Auf der Hinfahrt unterhalten sie sich über die
+Systematik des Fahrkartenverkaufs, wobei die Mathematiker erwähnen,
+daß sie nur eine Fahrkarte für zwei Personen brauchen. Als nach
+einiger Zeit sich der Schaffner nähert, gehen die beiden Mathematiker
+zusammen auf dasselbe Klo. Kurz darauf klopft der Schaffner an die Tür
+und verlangt die Fahrkarte, die Mathematiker schieben ihre unter der
+Tür durch, und alles ist OK.  Auf der Rückfahrt haben die Physiker
+dazugelernt und auch nur eine Fahrkarte gekauft. Die Mathematiker
+haben dagegen gar keine! Wiederum nähert sich bald der Schaffner, und
+die Physiker begeben sich aufs Klo. Kurz darauf geht ihnen ein
+Mathematiker nach und klopft an die Tür: "Die Fahrkarte bitte!"
+
+Was lernen wir daraus? Die Physiker wenden mathematische Verfahren an,
+ohne sie wirklich zu verstehen.
+%
+Ein Physiker, Chemiker und ein Mathematiker müssen in die mündliche
+Prüfung in Mathematik. Die Aufgabe: 2+2 (Für Banker: zwei plus zwei).
+
+Der Chemiker sofort sicher: ca. 10 hoch 1.
+Prof.: Bestanden, Genauigkeit reicht aus.
+
+Der Physiker: Rechnet, rechnet, kritzelt sein Konzeptpapier voll, nach
+'ner halben Stunde: 3,9. Prof.: Bestanden, Genauigkeit reicht auch aus.
+
+Mathematiker kommt rein, hört die Aufgabe, fragt unsicher "Darf ich meine
+Aufzeichnungen verwenden?" (Deutet auf 'nen Riesenstapel Bücher unterm
+Arm) Prof.: Klar. Also rechnet und rechnet und macht und schreibt und...
+nach  'ner Stunde resigniert er: "Ich kenn' den Weg, aber das Ergebnis
+nicht..."
+%
+Ein Physikstudent, ein Mathematikstudent, ein Medizinstudent und ein
+Jurastudent bekommen von ihren Professoren jeweils ein Telefonbuch
+vorgelegt.
+Der Physikstudent: "Ich kann aus diesen Meßergebnissen nicht auf den
+   Versuch schließen und damit ist das Ergebnis zu ungenau und wertlos!"
+Der Mathematikstudent: "Diese Nummern lassen sich nicht als mathematische
+   Reihe zusammenfassen, damit sind sie per Definition Definitionen und
+   ohne Zusammenhang sind diese Definitionen wertlos."
+Der Medizinstudent schaut den Professor nur müde an und fragt: "Bis wann?"
+Der Jurist dagegen ist ganz Feuer und Flamme und fragt begierig:
+   "Dürfen wir die gelben Seiten auch noch lernen?" 
+%
+Auf der Heizung liegt ein Ziegelstein.
+Prüfer fragt: "Warum ist der Stein auf der Heizung abgewandten Seite wärmer?"
+Prüfling: "Öhhh, [stammel], vielleicht wegen Wärmeleitung und so?"
+Prüfer: "Nein, weil ich ihn gerade umgedreht habe."
+%
+Theorem: Jede Katze hat 9 Schwänze
+Beweis:  Es ist offensichtlich, daß keine Katze 8 Schwänze hat.
+         Eine Katze hat einen Schwanz mehr als keine Katze.
+         Daher muß jede Katze genau 9 Schwänze haben.
+%
+Den begabtesten Geistern der Welt wird folgende Frage gestellt:
+"Wieviel ist 2 * 2?"
+
+Der Ingenieur zieht seinen Rechenschieber, schiebt hin und her und
+erklärt endlich: 3.99.
+Der Physiker konsultiert seine technischen Tafeln, implementiert
+das Problem in seinen Computer und verkündet endlich:
+"Es liegt zwischen 3.98 und 4.02".
+Der Mathematiker versinkt für eine Weile in Gedanken und gibt schließlich
+dem Rest der Welt bekannt:  "Ich kenne zwar die Antwort nicht, doch ich
+kann beweisen, daß eine Antwort existiert."
+Der Philosoph: "Was bedeutet eigentlich 2*2?"
+Der Logiker: "Ich bitte um eine präzisere Definition von 2*2."
+Der Steuerberater: Schließt alle Türen und Fenster, sieht sich vorsichtig
+um und fragt "Welche Antwort wünschen sie gern?"
+%
+ES BRENNT!
+Der Ingenieur steht auf, schnappt sich den Feuerlöscher, schäumt
+das ganze Zimmer ein. Das Feuer ist gelöscht und er legt sich wieder schlafen.
+Der Physiker steht auf, rechnet, schnappt sich den Feuerlöscher,
+löscht mit drei kurzen Sprühstößen das Feuer und legt sich wieder schlafen.
+Der Mathematiker steht auf, rechnet, beweist, daß er mit Hilfe des
+Feuerlöschers den Brand löschen könnte und legt sich wieder schlafen.
+%
+"Wieviel ist 2*2?"
+
+Der Ingenieur zückt seinen Taschenrechner, rechnet ein bißchen und
+meint schließlich: "3,999999999".
+Der Physiker: "In der Größenordnung von 1*10^1."
+Der Mathematiker wird sich einen Tag in seine Stube verziehen und dann
+freudestrahlend mit einen dicken Bündel Papier ankommen und behaupten:
+"Das Problem ist lösbar!"
+Der Logiker: "Bitte definiere 2*2 präziser."
+Der Hacker bricht in den NASA-Supercomputer ein und läßt den rechnen.
+Der Psychiater: "Weiß ich nicht, aber gut, das wir darüber geredet
+haben."
+Der Buchhalter wird zunächst alle Türen und Fenster schließen, sich
+vorsichtig umsehen und fragen: "Was für eine Antwort wollen Sie
+hören?"
+Der Jurist: "4, aber ich ich weiß nicht, ob wir vor Gericht damit
+durchkommen."
+Der Politiker: "Ich verstehe ihre Frage nicht."
+Der Mediziner: "4" Darauf die anderen: "Bah! Auswendig gelernt." 
+%
+Mathematiker sterben nicht, sie verlieren nur einige ihrer Funktionen!
+%
+Ein Mathematiker hat seinen Schlüssel verloren und sucht
+im Park unter einer Lampe.
+Kommt ein Passant vorbei und fragt:
+"Sind Sie sicher, daß Sie den Schlüssel hier verloren haben?"
+Darauf der Mathematiker:
+"Nein, aber die Wahrscheinlichkeit, daß ich den Schlüssel im Hellen
+finde ist größer!"
+%
+Ein Mathematiker, ein Ingenieur und ein Physiker stehen am Fahnenmast
+der Universität, als der Hausmeister vorbeikommt. Er fragt: "Was machen Sie
+denn hier?"
+"Wir haben den Auftrag bekommen, die Höhe der Fahnenstange zu
+ermitteln", antwortet der Mathematiker, "und ich überlege gerade, mit
+welchen Formeln man sie berechnen kann, aber irgendwie kriege ich das
+nicht raus!"
+Der Physiker sagt: "Ich überlege mir gerade eine Meßanordnung zur
+Höhenmessung, aber mir fällt nichts Richtiges ein."
+Der Ingenieur ergänzt: "Und ich habe versucht, das Maßband nach oben zu
+werfen, um dann ablesen zu können, wie hoch die Fahnenstange ist."
+"Moment!", sagt der Hausmeister. Er zieht die Fahnenstange aus der
+Halterung, legt sie ins Gras, läßt sich das Bandmaß geben und stellt
+fest: "Genau sieben Meter."
+Dann richtet er die Stange wieder auf und geht weiter.
+"So ein Idiot!" höhnen die drei. "Wir reden von der Höhe, und er gibt
+uns die Länge an."
+%
+Physiker sind anders als andere Männer. So müssen Physiker
+folgende drei Dinge tun, um ein echter Mann zu sein.
+ a) ein Haus bauen (heutzutage reicht auch 'erwerben'),
+ b) ein Kind zeugen,
+ c) den Laplace-Operator in Kugelkoordinaten ausrechnen.
+Ich habe jetzt experimentell nachgewiesen, daß man die
+Reihenfolge auch invertieren kann.
+%
+Mathematiker ist kurz davor das erste mal mit einem Flugzeug zu
+fliegen. Er hat wahnsinnig viel Angst - es könnte ja eine Bombe an
+Bord sein. Dann hat der Mathematiker eine Idee: er nimmt selbst eine
+Bombe mit, denn die Wahrscheinlichkeit das zwei Bomben in einem
+Flugzeug sind ist wesentlich geringer, als daß eine Bombe im Flugzeug
+ist.
+%
+Ein Physiker ein Chemiker und ein Mathematiker sind an drei
+verschiedenen einsamen Inseln gestrandet.  Jeder besitzt einen
+Behälter mit konservierten Lebensmitteln, doch nichts, um diesen zu
+öffnen.  Der Physiker legt den Kanister auf einen Felsen und hämmert
+so lange mit Steinen darauf herum, bis er aufspringt.  Der Chemiker
+sucht die Insel nach Pflanzen ab, aus denen er eine Säure herstellen
+kann, die den Kleber des Verschlusses löst.  Der Mathematiker schreibt
+die folgenden Worte in den Sand:
+
+Theorem: Es gibt eine Möglichkeit den Kanister zu öffnen.
+Beweis: Angenommen, es gelte das Gegenteil ...
+%
+Ein Maschinenbauer, ein Physiker und ein Informatiker fahren in einem
+Auto durch die Wüste. Plötzlich bleibt das Auto stehen, und die drei
+beginnen über die Ausfallursache zu streiten:
+
+Der Physiker: "Sicher ein unvermuteter Entropiezuwachs im Motorraum!"
+Der Maschinenbauer: "Blödsinn, es ist einfach der Keilriemen gerissen
+oder der Zündverteiler hat sich verabschiedet oder sowas!"
+Bis es dem Informatiker zu dumm wird:
+"Ist doch egal, wir steigen einfach aus und wieder ein, dann wird's
+schon wieder laufen."
+%
+Mathematiker-Glücksrad: "Ich kaufe ein Epsilon."
+%
+BEWEIS DURCH BEISPIEL: der Autor behandelt nur den Fall n=2 und
+unterstellt dann, daß die Vorgehensweise für den allgemeinen Fall klar
+ist.
+%
+BEWEIS DURCH EINSCHÜCHTERUNG: "trivial"
+%
+BEWEIS DURCH PRÄZISE BEZEICHNUNGEN:
+"Sei p ein Punkt q, wir wollen ihn als r kennzeichnen."
+%
+BEWEIS DURCH KONFUSE LEHRKÖRPER: "Der Professor sagt A, schreibt B,
+meint dabei C, rechnet weiter mit D, bekommt E heraus, aber F wäre
+richtig gewesen"
+%
+BEWEIS DURCH ÜBERLADENE NOTATION: am besten, man verwendet mindestens
+vier Alphabete und viele Sonderzeichen. Hier reicht das griechische
+Alphabet alleine nicht mehr aus, um engagierte Zuhörer abzuschrecken.
+Ein kurzer Exkurs in die hebräischen Sonderzeichen sollte aber auch den
+stärksten Zweifler zum Schweigen bringen.
+%
+BEWEISE DURCH AUSLASSEN:
+(1) die Details bleiben als leichte Übungsaufgabe dem geneigten Leser
+    überlassen."
+(2) die anderen 253 Fälle folgen völlig analog hierzu."
+(3) ...
+(4) Beweis: hier nicht
+(5) den genaueren Beweisablauf behandeln wir in der Übung
+%
+BEWEIS DURCH VERWIRRUNG: eine lange, zusammenhanglose Folge von wahren
+und/oder bedeutungslosen, syntaktisch verwandten Aussagen wird verwendet.
+Während der engagierte Leser noch versucht, den roten Faden zu finden,
+wird er durch parallele Anwendung der 'überladenen Notation' verwirrt.
+%
+BEWEIS DURCH REDUKTION AUF DAS FALSCHE PROBLEM: "um zu zeigen, daß dies
+eine Abbildung in die Menge der s-saturierten Ideale ist, reduzieren wir
+es auf die Riemannsche Vermutung."
+%
+BEWEIS DURCH NICHT VERFÜGBARE LITERATUR: der Autor zitiert ein
+einfaches Korollar eines Theorems, welches problemlos nachgelesen werden
+kann und zwar in einem Mitteilungsblatt der slowenischen philologischen
+Gesellschaft, 1883. Diese Beweisführung ist völlig erschöpfend und
+wird seit Jahrzehnten mit Vorliebe bei schriftlichen Ausarbeitungen
+(siehe Literaturangaben in beliebigen Dissertationen und Habilitationen)
+angewandt.
+%
+BEWEIS DURCH REKURSIVEN QUERVERWEIS: in Quelle a wird Satz 5 gefolgert
+aus Satz 3 der Quelle b, welcher seinerseits sofort aus Korollar 6.2 der
+Quelle c folgt, den man trivial aus Satz 5 der Quelle a erhält.
+%
+BEWEIS DURCH METABEWEIS: es wird ein Verfahren angegeben, um den
+geforderten Beweis zu konstruieren. Die Korrektheit des Verfahrens wird
+unter Anwendung einer der oben genannten Beweisführungsprinzipien
+unwiderlegbar nachgewiesen.
+%
+BEWEIS DURCH SCHEINVERWEIS: nichts dem zitierten Satz auch nur entfernt
+ähnliches erscheint in der angegebenen Quelle.
+%
+Beweis mittels Wischtechnik-Methode:
+Man wischt die entscheidenden Stellen des Beweises sofort nach dem
+Anschreiben wieder weg (rechts schreiben, links wischen).
+%
+BEWEIS DURCH AUTORITÄTSGLÄUBIGKEIT:
+"Das muß stimmen. Das steht so im Forster."
+
+BEWEIS DURCH AUTORITÄTSKRITIK:
+"Das kann nicht stimmen. Das steht so im Jänich."
+%
+KOMMUNIKATIVE BEWEISMETHODE:
+"Weiß das vielleicht jemand von ihnen?"
+%
+KAPITALISTISCHE BEWEISMETHODE:
+"Eine Gewinnmaximierung tritt ein, wenn wir gar nichts beweisen,
+dann verbrauchen wir nämlich am wenigsten Kreide."
+%
+Beweis durch 3-W-METHODE:
+"Wer will's wissen?"
+%
+BEWEIS DURCH PAUSE:
+Kurz vor der Pause: "Diesen Satz beweise ich Ihnen nach der Pause"
+Nach der Pause: "Wie wir vor der Pause bewiesen haben..."
+%
+BEWEIS DURCH VOLLSTÄNDIGE INTUITION:
+Intuitionsanfang, Intuitionsschritt, intuitiver Schluß
+%
+BEWEIS DURCH VOLLSTÄNDIGE REPRODUKTION:
+Wenn Dein Nachbar eine Lösung anbietet, die wahrscheinlich richtig ist,
+kannst Du die einfach abschreiben und hast auch eine richtige Lösung.
+%
+BEWEIS DURCH GRAFISCHE INDIFFERENZ:
+Ein Integral ist schnell unter den Tisch gekehrt (vergessen). Ein
+schlunziges i ist schon ein knappes j.
+%
+Zwei Mathematiker sitzen im Restaurant und unterhalten sich. Der eine
+stellt im Laufe des Gesprächs fest: "Mathematik kann inzwischen
+jeder", doch dies glaubt sein Kollege nicht. Deshalb tut der
+Mathematiker so, als müsse er auf's Klo, geht aber statt dessen zur
+Kellnerin und sagt: "Ich werde sie gleich etwas fragen. Dann antworten
+Sie einfach : 1/3 x^3!". Wieder am Tisch will der Mathematiker seinem
+Kollegen seine Behauptung beweisen und fragt die Kellnerin: "Was ist
+das Integral von x^2?" Darauf antwortet die Kellnerin: "1/3 x^3" und
+im Weggehen dreht sie sich nochmal um und meint: "plus eine Konstante
+c Element R."
+%
+Werden ein Mathematiker, ein Physiker und ein Windowsbenutzer
+getrennt von einander eingeschlossen. Jeder erhält zwei
+Glaskugeln. Nach einer Stunde schaut man was diese Leute damit machen.
+Der Mathematiker sitzt dort und berechnet das Volumen und die
+Oberfläche der Kugeln.
+Der Physiker hält die Kugeln gegen das Licht und berechnet Brechzahl
+und Absorptionskoeffizient.
+Als letztes schaut man beim Windowsbenutzer herein und stellt fest,
+daß eine Kugel weg ist und das Fenster zerbrochen. Auf die Frage, was
+denn passiert sei, zuckt der er nur mit den Achseln und sagt:
+"Ich hab' nix gemacht!..."
+%
+Was verschenkt ein Mathematiker zu Weihnachten seiner Liebsten? Einen
+Polynomring in einer Intervallschachtelung verpackt.
+%
+Die besten fünf Entschuldigungen, wenn man seine Mathematik Hausaufgaben nicht
+gemacht hat:
+1. Ich habe ausversehen durch Null geteilt, und mein Papier hat sich
+   in Flammen aufgelöst.
+2. Ich haben den Beweis, allerdings ist auf diesem Rand nicht genug
+   Platz für ihn.
+3. Ich habe einen Solartaschenrechner und es war zu wolkig.
+4. Ich habe meine Papiere eingeschlossen, doch ein vierdimensionaler Hund
+   kam und aß sie.
+5. Ich könnte schwören ich habe sie in eine Kleinsche Flasche
+   getan, doch heute morgen konnte ich sie nicht finden.
+%
+Eines Tages reicht's einem Mathematiker und er möchte Feuerwehrmann
+werden.  Der Feuerwehrhauptmann möchte jedoch erst seine Fähigkeiten
+testen. Also fragt er den Mathematiker:
+"Was würden sie tun, wenn die Scheune dort hinten brennen würde?"
+"Ich würde den Feuerwehrschlauch dort an den Hydranten anschließen und
+spritzen was der Schlauch aushält, bis der Brand gelöscht ist."
+"Sehr gut, das gefällt mir.  Aber was würden sie tun, wenn die Scheune
+nicht brennt?"
+Der Mathematiker überlegt eine Weile, dann sagt er: "Ich würde ein
+Streichholz nehmen und die Scheune anzünden."
+"Was? Sind sie wahnsinnig? Warum denn das?"
+"Nun, damit hätte ich das neue Problem auf ein bekanntes zurückgeführt."
+%
+Wie fühlt sich ein Mathematiker geschmeichelt?
+Wenn ihn jemanden als einen Mann von Fermat bezeichnet.
+%
+Ein Ingenieur, ein Physiker und ein Mathematiker werden jeweils
+hungrig in einen Raum gesperrt. In dem Raum befinden sich eine Tafel,
+ein Stück Kreide und eine Dose Bohnen. Am nächsten Tag schaut man
+nach, was passiert ist.
+Im Raum des Ingenieurs findet man folgendes vor: an jeder Stelle des
+Raumes eine Delle, eine offene Dose, sowie einen lebenden Ingenieur,
+denn er hatte die Dose so lange an die Wand geworfen, bis sie aufging.
+Im Raum des Physikers findet man vor: an einer Stelle des Raumes eine
+Delle, eine offene Dose, eine mit wüsten Formeln vollgeschriebene
+Tafel und einen lebenden Physiker.  Er hat so lange gerechnet, bis er
+wußte, wie er die Dose zu werfen hat, damit sie aufgeht.
+Im Raum des Mathematikers ist die Tafel über und über mit Formeln
+übersäht, die geschlossene Dose steht in der Mitte des Raumes, nur der
+Mathematiker fehlt. Da ertönt ein Klopfen. Nachdem die Dose mit einem
+Dosenöffner geöffnet wurde, krabbelt der Mathematiker raus: "Verdammt,
+Vorzeichenfehler. "
+%
+Eine Molkerei möchte ihre Produktion erhöhen. Sie setzt einen
+Biologen, einen BWLer und einen Physiker auf das Problem an.
+
+Nach einem halben Jahr intensiven Campings auf den Viehweiden schlägt
+der Biologe eine Spezialdüngung des Grases vor, was in letzter Instanz
+die Milchausbeute um 30% steigern würde.  Die Molkerei beschließt,
+auf die Ergebnisse der anderen beiden zu warten.
+
+Ein weiteres halbes Jahr später verkündet der BWLer stolz, daß
+aufgrund seiner umwerfend neuen Betriebsorganisation zwar leider,
+leider die Hälfte der Mitarbeiter sich einen neuen Job suchen müßten,
+aber dafür die Milchproduktion um 50% gesteigert werden könnte.
+
+Inzwischen sind 3 Jahre vergangen und das Problem ist beinahe in
+Vergessenheit geraten. Der Biologe wurde gefeuert, weil die Milch
+plötzlich zu lachen anfing und der BWLer wurde vom wütenden Personal
+gelyncht. Plötzlich taucht der Physiker erhobenen Hauptes und schwer
+übernächtigt auf: "Wir können die Produktion vervierfachen... unter
+der Voraussetzung einer punktförmigen Kuh im Vakuum."
+%
+Zwei Leute gehen in ein leeres Haus, eine Weile später kommen drei wieder
+heraus.
+Mathematiker: "Wenn jetzt noch einer reingeht, ist das Haus wieder leer."
+Physiker: "Da muß wohl einer reingetunnelt sein."
+Biologe: "Die haben sich wohl vermehrt."
+Hebamme: "Das ist bei uns im Kreißsaal immer so."
+%
+Physiker:
+Das Atü wurde ja auch abgeschafft, jetzt soll man nur noch das Bar
+verwenden.  Seither macht die Feuerwehr "Tbartata Tbartata."
+%
+Physiker:
+Eine einfache Erklärung der Relativitätstheorie: Ich stoße jemanden
+mit aller Gewalt einen Finger in die Nase. Da hat er einen Finger in
+der Nase und ich habe einen Finger in der Nase, aber ich stehe dann
+doch relativ besser da.
+%
+Mathematiker:
+(e hoch x) und 'ne Konstante bummeln zusammen über'n Broadway.
+Sehen sie von weitem 'nen Differential-Operator.
+Konstante: 'Du, ich mach mich mal schnell vom Acker...'
+(e hoch x): [leicht überheblich] 'Höhöhö - ICH bin (e hoch x)!'
+Der Differential-Operator kommt näher, die beiden treffen sich.
+(e hoch x): [selbstbewußt] 'Hallo, ich bin (e hoch x)!'
+Differential-Op: [grinsend] 'Und ich bin (d/dy)...' 
+%
+Ein Physiker ist jemand, der jeden technischen Defekt erklären, aber
+nicht reparieren kann.
+%
+Ein Ingenieur kann sich am Vortrag eines Physikers nicht von zwei
+Dingen erholen:
+ 1. spricht der Redner von 8-dimensionalen Räumen, und 
+ 2. scheint der Mathematiker neben ihm alles zu verstehen.
+In der Pause fragt er den Mathematiker, wie er das nur verstehen
+könne, worauf dieser meint: "Zuerst stelle ich mir einen
+n-dimensionalen Raum vor. Dann vereinfache ich das Problem auf n=8!"
+%
+Ein Ingenieur, ein Physiker und ein Mathematiker
+diskutieren, ob es besser ist, eine Frau oder nur eine Freundin zu
+haben.
+Ingenieur: "Eine Freundin, weil da kann man verschiedene durchprobieren."
+Physiker: "Eine Frau, wegen der Sicherheit."
+Mathematiker: "Ich bin für beides. Wenn ich nicht bei meiner Frau
+bin, denkt sie, ich wäre bei der Freundin, bei meiner Freundin ist es
+umgekehrt, und so kann ich ungestört in die Bibliothek."
+%
+Ein Ingenieur, ein Physiker und ein Informatiker diskutieren, 
+ob es besser ist, eine Frau oder nur eine Freundin zu haben.
+Ingenieur: "Eine Freundin, weil da kann man verschiedene durchprobieren."
+Physiker: "Eine Frau, wegen der Sicherheit."
+Informatiker: "Ich bin für beides. Wenn ich nicht bei meiner Frau
+bin, denkt sie, ich wäre bei der Freundin, bei meiner Freundin ist es
+umgekehrt, und so kann ich ungestört an den Computer."
+%
+Wie bedienen Mathematiker und Ingenieur eine Kaffeemaschine?
+Allgemeiner Fall:
+
+ 1. Wasser in die Kaffeemaschine. 
+ 2. Kaffeepulver in den Filter. 
+ 3. Einschalten. 
+
+Angenommen, es ist schon Wasser in der Kaffeemaschine.
+Was macht der Ingenieur? Er sieht, daß schon Wasser da ist, gibt
+Kaffeepulver hinein und schaltet ein.
+Was aber macht der Mathematiker? Er sieht das Wasser, gießt es aus und
+hat einen bekannten Fall.
+%
+Mathematiker sind Geräte, die Kaffee in Behauptungen umwandeln können. 
+%
+Zwei Wanderer machen einen Ausflug in den Alpen. Nachdem sie in eine
+Felsspalte gestürzt sind, schreien sie wie wild um Hilfe. Nach einer
+Weile hören sie eine Stimme und brüllen: "Hilfe, wir sind verloren!"
+Gut drei Minuten später hören sie die Stimme schreien: " Das stimmt!
+Ihr seid verloren!"  Darauf sagt der eine: "Das war bestimmt ein
+Mathematiker." Fragt der andere: "Wieso bist du dir da so sicher?"
+"Nun, erstens war seine Aussage völlig überflüssig. Und zweitens hat
+er absolut recht."
+%
+Eine Frau ist mit einem Mathematiker verheiratet. Als sie zu ihm sagt:
+"Ich liebe Dich!", läßt er sich scheiden. Warum? Sie hätte sagen
+müssen: "Ich liebe Dich und nur Dich!"
+%
+Warum ließ sich einst ein Mathematiker scheiden?
+Seine Frau war unberechenbar! 
+%
+Die Regierung eines fernen Landes will die Landwirtschaft fördern und
+schreibt deshalb einen Wettbewerb für eine Kuh aus, die bei gleichem
+Futter doppelt so viel Milch gibt wie normal. Nach einem Jahr werden
+die Ergebnisse vorgestellt:
+Ein Agraringenieur stellt eine Züchtung vor, die 10% mehr Milch gibt.
+Ein Physiker hat eine Arbeitsgruppe gebildet, ein Institut gegründet
+und braucht mehr Forschungsgelder.
+Dann tritt ein Mathematiker ans Rednerpult und verkündet: "Ich habe
+das Problem gelöst - für die sphärisch symmetrische Kuh!"
+%
+Epsilon hoch x statt e hoch x zu schreiben, hieße Euler nach Athen
+tragen.
+%
+Sei Epsilon kleiner Null ...
+%
+Wenn die Länge des römischen Grenzwalls unter dem Gesichtspunkt der
+Chaostheorie (Fraktale) vermessen wird, kann man mit Fug und Recht
+behaupten:
+
+ limes -> oo
+%
+10 Gründe, warum e besser ist als pi.
+
+10) e ist einfacher zu buchstabieren als pi.
+9) pi ist ca. 3.14 wobei e = 2.718281828459045.
+8) Den Buchstaben e gibt es auf der Tastatur, aber pi sicher nicht.
+7) /* geht nicht */
+6) ln(pi^1) ist eine ziemlich beschissene Zahl, aber ln(e^1) = 1.
+5) e wird in der HM benutzt, pi dafür in Elementar-Geometrie.
+4) 'e' ist der am meisten gewählte Buchstabe beim Glücksrad.
+3) e steht für die Eulersche Zahl, pi steht für squat?
+2) Du brauchst kein griechisch zu können, um e zu benutzen.
+1) Du kannst e nicht mit einem Lebensmittel verwechseln.
+%
+Moderne Methode der Induktion:
+ 1. Formulieren einer Hypothese.
+ 2. Beantragen einer Förderung.
+ 3. Durchführung von Experimenten.
+ 4. Bearbeiten der experimentellen Daten bis zur Übereinstimmung mir
+    der Hypothese.
+ 5. Veröffentlichung.
+%
+Ein Mathematiker betritt ein Fotogeschäft:
+"Ich hätte gern einen Farbfilm."
+"24x36?", fragt der Verkäufer.
+Der Mathematiker: "864, warum fragen Sie?"
+%
+Was schenkt ein Mathematiker seiner Frau zum Hochzeitstag?
+Einen Polynomring, der in einer Intervallschachtelung verpackt ist.
+%
+Drei Logiker kommen in eine Bar.  Der Barkeeper fragt sie:
+"Wollt Ihr alle Bier?"
+Der erste sagt: "Ich weiß nicht."
+Der zweite sagt: "Ich weiß nicht."
+Der dritte sagt: "Ja."
+%
+Die Mutter sagt zum heranwachsenden Mathematiker:
+"Bitte geh zum Markt und bring eine Flasche Milch.  Wenn es Eier
+ gibt, bring sechs."
+Der heranwachsende Mathematiker kommt mit sechs Flaschen Milch
+nach Hause.
+Mutter: "Warum hast Du sechs Flaschen Milch gebracht???"
+Mathematiker: "Weil es Eier gab."
+%
+Es war einmal ein Informatiker, der durch einen Wald lief. Plötzlich
+begegnete ihm ein Frosch.  Dieser sagte: "Hallo ich bin eine
+verzauberte Prinzessin, küß mich und ich werde Dir jeden Wunsch
+erfüllen."
+Der Informatiker ist begeistert, nimmt den Frosch auf und steckt ihn
+in die Tasche.  Das kommt diesem schon seltsam vor. Nach einer Weile
+fragt der Frosch:
+"Hallo, hallo, ich weiß nicht ob Du mich richtig verstanden hast, aber
+ ich bin eine verzauberte Prinzessin! Wenn Du mich küßt, verwandele
+ ich mich zurück und werde Dir jeden Wunsch erfüllen."   
+Der Informatiker nimmt den Frosch aus der Tasche und lächelt, dann
+steckt er ihn wieder zurück in seine Tasche. Dem Frosch wird das
+langsam zu doof. Nach einer Weile sagt der Frosch erneut:
+"Hallo, ich will es Dir noch einmal erklären: Ich bin eine verzauberte
+ Prinzessin und werde alles, aber auch alles mit Dir machen, was Du
+ willst! Mindestens eine Woche lang."
+Der Informatiker nimmt den Frosch aus seiner Tasche und
+lächelt. Danach steckt er den Frosch wieder in seine Tasche. 
+Der Frosch ist nun schon richtig sauer und sagt nach einer Weile:
+"Also, nun ist es aber genug. Ich habe Dir gesagt, das ich eine
+ verzauberte Prinzessin bin und wenn Du mich küßt, wieder
+ zurückverwandele. Außerdem würde ich alles, wirklich alles machen was
+ Du willst. Mindestens eine Woche lang.  Was ist denn nun los?"
+"Also, ich bin Informatiker, für eine Freundin habe ich keine Zeit,
+aber ein sprechender Frosch ist cool!" 
+%
+Kommen unendlich viele Mathematiker in einen Pub. Sagt der erste: "Ich
+nehme ein Pint Bier." Sagt der zweite: "Ich nehme ein halbes Pint Bier."
+Sagt der dritte: "Ich nehme ein Viertel Pint Bier." Sagt der vierte:
+"Ich nehme ein Achtel Pint Bier." Stellt der Barkeeper entnervt 2 Pints
+Bier auf den Tresen und sagt: "Hier, teilt das selbst unter euch auf!"
+%

@@ -1,0 +1,224 @@
+<tf> Lambda-Kalkuel ist für Hacker so was wie das, was für Jedis
+	"Die Macht" darstellt. Das, worauf man zurückgreift, wenn man
+	ganz abartig schwierige Dinge erledigen muß.
+%
+<weasel> for i in *; do if ( cat $i | grep -q hallo ); then echo $i; fi; done
+[einen Tag später]
+-:- Topic (#debian.de): changed by _shorty_: Award für useless use of cat an Weasel verliehen. :)
+%
+<Joey> Wenn ich's nicht compilieren kann, ist es nicht frei
+%
+<_eis>
+<_eis>
+<_eis>
+<florg> _eis: wenn du dich im RL unterhaelst, machst du dann auch ab und zu
+        einfach nur den mund auf, so als wuerdest du was sagen wollen?
+%
+<forcer> das lambda-kalkuel ist es das einer programmiersprache ihre staerke
+	verleiht. es umgibt sie, durchdringt sie, es haelt die funktionen
+	zusammen. first-class-funktionen sind wir, nicht diese rohen adressen...
+%
+<shorty_> Fuchur: Finger weg von Inn, damit kannn man sich schneller als
+	einem lieb ist in den Fuß schießen.
+<shorty_> Fuchur: Vertraue mir.
+<Joey> Hmm, shorty kling so als könne er die Löcher in seinen Füßen
+	nicht mehr zählen...
+%
+<weasel> Fortunes löschen ist wie Bücher verbrennen.
+%
+<Joey_> Weasel: schreib mal da hinein, daß ich im IRC immer
+	so schroff bin und nur auf die Türen zeige, öffnen
+	und durchgehen müssen die Leute schon selbst.  Und
+	wenn sie nicht tun, was ich ihnen sage, endet mein
+	Support an der Stelle.
+%
+<@Alfie> Und mal wieder ein paar Pakete, die sich nicht mal installieren
+	lassen ...
+<@Alfie> Ich kanns nicht verstehen ...
+ * Alfie . o O ( .. zumindest solange nicht, bis es mir mal passiert ist )
+%
+<mrvn> Jemand hier der buffy als DVD hat oder haben wird?
+ * mrvn outet sich mal als Buffy fan.
+ * weaselTM steht auf und setzt sich so weit wie moeglich von mrvn weg.
+ * nobse ist auch buffy fan :)
+ * nobse laeuft hinter weasel her 
+<weaselTM> was ist denn heutzutage alles maintainer. schrecklich. wir
+	haben kein nivea^Wlevel mehr
+%
+*** SignOff sbeyer: #debian.de (f**ken und haare waschen)
+<Y_Plentyn> hm. warum forkt er vorm haare waschen?
+%
+<solaris-> smoki_: Hab ich ja nicht behauptet oder? KDE hab ich nur
+	auf meinem SuSE System... das hab ich strikt von meinem Debian
+	getrennt ;)
+[..]
+<mrvn> Er hat das S-Wort gesagt.
+%
+<schneckal> hat einer von euch schon bind9 installiert?
+<eis> das neue root kit? :->
+%
+<ij> Alfie: schonmal davon gehört, daß nicht jeder linux user gleich ein
+	programmierer ist, der alles, was er selber braucht, auch selber
+	programmiert, installiert, patched, hacked oder portiert?
+<Alfie> ij: Urks?  Das ist doch nur eine Legende ...
+%
+<Alfie> AAARGH, bin ich deppert!
+%
+<pre>
+<somnium_> mit was für nem tool lassen sich denn gut html-seiten bauen?
+<@Joey> som: emacs+wm
+<somnium_> Joey: emacs? gibts nicht sowas wie dreamwaver oder fireworks?
+<@Joey> keine Ahnung?  Wer will so 'nen Dregg?
+<@weaselTM> somnium_: emacs ist absulut nicht geeignet
+<RealUlli> somnium_: es kommt nicht auf klicki-bunti an, sondern auf einfache und effiziente verwaltung einer grossen 
+<somnium_> Joey: ich ;-)
+<@weaselTM> somnium_: vim
+<@ij> somnium_: bluefish
+<@Joey> som: loser :)
+%
+<Alfie> Getty: Solche Aussagen tätigt man hier nicht - sonst kommt
+	wieder der weasel daher und zitiert einen auf der #-Seite!
+%
+<Joey> Ich nix Boss, ich bloss Oberdepp.
+%
+* jbf hat da gleich mal eine verstaendnisfrage *fg* wenn ich die tastatu
+	auf us umstelle soll das ja bekanntlich besser zum programmieren
+	sein ... aber habe ich dann auf meinen umlaut tasten eigentlich
+	auch meine umlaute wqie auf einer deutschen tastatur?? weil sonst
+	gibt es die dummen tasten ja gar nicht ... obwohl wenn ich es
+	richtig bedenke hat sich die frage schon beantwortet *g* NEIN! (;
+%
+<morgoth> das problem ist nun das ich die configure skripte damit
+	nicht überlisten konnte.
+%
+<Joey> Ok, da steckt auch nicht mehr Arbeit für mich hinter?
+	Dann bin ich's doch.
+%
+<antifuchs> DPL has 5 RC bugs! News at 11!
+%
+<Zomb >kennt jemand eine DAU-freundliche Möglichkeit, die Uhrzeit einzustellen?
+<roots-> zomb: date --set
+<Zomb> roots-: muß ich da auf diese DOS-Ebene? Igit, da muß man ja tippen...
+%
+<oxygene> X ist ein genialer terminal multiplexer
+%
+<_DeadBull_> ohne speicher, tastatur, mouse, pladde, monitor, also nur die Hardware...
+%
+<Gromitt> Joey: wie drauf bekommen... habe hier kein netzanschlus (permission
+          denied in der Firma) und Floppy hat das Ding nicht :)
+<Joey> dann mach's @home
+<Gromitt> Joey: aber ich will ich das jetzt machen :) *stampf* .. :)
+<Joey> Gromitt, kauf Dir 1 Netzanschluss.  Wieso begibst Du Dich auch in die
+       Wueste, wenn Du was trinken willst.  *kopfschuettel*
+%
+<@Joey> Faellt einem bei diesem Fehler spontan die Ursache ein?
+<@Joey> <xxxxxxxxxxxxxxxxx@privat.oldenburg.de>: host
+        mail2.ecce-terram.de[193.16.3.10]
+<@Joey>     said: 551 '<xxxxxxxxxxxxxxx@privat.oldenburg.de>'
+<@Joey>     <xxxxxxxxxxxxxx@privat.oldenburg.de> not matched: (ERR_104) security
+<@Joey>     violation: remote address not permitted.
+-!- Joey was kicked from #debian.de by FWerewolf [Public flood]
+-!- FWerewolf [~fw@gateway.aol.de] has quit [Leaving]
+                        -- hatte wohl wer Angst vorm Rückschlag :)
+%
+<wenz> quit
+<wenz> ~/quit
+-!- wenz [~hoshi@pD900E60C.dip.t-dialin.net] has quit [ircII2.8.2-EPIC3.004 ---
+          Bloatware at its finest.]
+%
+<Alfie> Defaults sind dazu da von DAUs ignoriert zu werden und damit die
+        Support-Stellen (aka #debian.de) zu verwirren.
+%
+<CHS> argl bin i deppert
+%
+<kw> Perserker: ich habe keinen kostenlosen support ... macht 20 DM die
+	antwort ... momentan ist auf deinem konto -20 DM
+%
+<kw> No Jolt and no Musik makes Alfie go crazy ...
+%
+<Getty> php ist an sich ne recht nutzlose sprache wenn da nicht soviele dinge
+        so einfach drin moeglich waeren
+%
+<Alfie> Ja, das ist ja das Problem.  Viele Leute glauben einen Menschen nach
+        dem üblichen Hick-Hack hier herinnen beurteilen zu können.
+<Alfie> Leute - das ist das IRC, nicht IRL - das ist ein Unterschied.
+ * Alfie . o O ( Von 9 Zeichen im Alphabet - aber immerhin ;) )
+%
+<Y_Plentyn> hmhm... hier ist bestimmt niemand, dem die begriffe RED und ns im
+            kontext netzwerke was sagen, oder?
+<Gem`Xevy> Y_Plentyn: rot kennt jeder, und ueber NS redet man nicht mehr...
+%
+<[ddeus_work]> welche moeglichkeiten gibt es eine festplate zu beschleunigen
+               ausser DMA und 32bit zugeng einschalten?
+<[ddeus_work]> welche moeglichkeiten gibt es eine festplate zu beschleunigen
+               ausser DMA und 32bit zugang einschalten?
+<noel> wir wantworten erst, wenn mandie Frage 5 mal stellt.
+%
+<weasel> nobse: du kannst gerne http://wwwbrauer.informatik.tu-muenchen.de/
+        praktikum/verifikation/WS2001-2002/p244-clarke.pdf für mich
+        durcharbeiten, wenn dir langweilig ist
+<nobse> weasel: iieh, ein pdf
+<GNU> nobse soll ich es dir nach DOC konvertieren?
+%
+<jjFux> "VIM - verbesserter Vi" - Wer hat an meinem LANG gedreht...
+<forcer> jjFux: scheis i18n, das müsste vvi sein, nich vim
+%
+<plaisthos> Bei "/exec -o banner Linux rulez" wird bestimmt
+	wegen flood gekickt oder? ;)
+<Getty> plaisthos: mach das auf +debian.de ;)
+<weasel> Getty: dann take ich den channel und kick ihn *G*
+%
+<@natoka> Alfie: ;) naja, wir sind nicht in Redm**** wo man den teppich
+          hochhebt und den besen auspackt und alles drunterkehrt.
+<@natoka> Alfie: und das was sich dann nicht mehr unterm teppich ausgeht als
+          produkt deklariert und verkauft ;)
+%
+-!- Znarck [~scholzo@217.89.81.34] has joined #debian.de
+<Znarck> hallo!
+<Znarck> join #debian
+<Znarck> ls
+<Znarck> hello
+<Znarck> quit
+-!- Znarck [~scholzo@217.89.81.34] has quit [Client Quit]
+%
+* Joey <-- Nichtrechnenkenn
+* Joey <-- Nichttippenkann
+* Joey <-- Nichtrechnenkann
+* Alfie <-- fortunestippenkann
+%
+-!- waldi_ [~waldi@elxsi.de] has joined #debian.de
+<Yarihm> volltreffer
+<Yarihm> morgen waldi_
+<Yarihm> :)_
+<Yarihm> gerade wollt ich gehen! du ... mist, nein, sorry, ich hab dich
+         mit alfie verwexelt
+%
+<jjFux> Wenn's beim (verdammt guten) Gefühl bei galon bleibt,
+	schicke ich opera morgen in Rente
+<LordYago> jjFux: Fällt Opera unter den Generationenvertrag? ;-)
+%
+<DeVries> Wann kommt Debian3.0? Jemand n ungefähres oder genaues Datum parat?
+<@Alfie> DeVries: Wenn es fertig ist.
+<@Falky> dwVries wenn es fertig ist
+<@weasel> DeVries: ziemlich genau dann, wenn es fertig ist.
+%
+<@weasel> gibt schlimmeres
+<@weasel> z.B. schlafmangel
+<@weasel> gottseidank kann man da dagegen was tun
+<@Gromitt> kaffee?  
+<@weasel> schlafen
+%
+<Natural_> andere frage, wo liegtn der treiber von video4linux?
+<con-sole> http://www.google.com/search?q=video4linux
+<Natural_> nein auf meinem system :)
+%
+<Aquariophile>  Kennt sich einer von euch mit Cronjobs aus?
+<Erich> Kennt sich einer von euch mit Computern aus? *duck*
+<Erich> Aquariophile: aber du könntest mal mit "man" reden, der kennt fast
+        alles...
+<Aquariophile>  wo ist der?
+[...3 Sekunden später...]
+<Aquariophile>  ne, stop
+<Aquariophile>  habs kapier
+<Aquariophile>  t
+%

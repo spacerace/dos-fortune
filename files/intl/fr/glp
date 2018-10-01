@@ -1,0 +1,556 @@
+%
+> Quelqu'un aurait-il une solution pour réinitialiser un MBR
+Si tu veux qu'il soit complètement blanc (pas souhaitable, à mon avis) :
+dd if=/dev/zero of=/dev/hda bs=512k count=1 (sous Linux)
+-+- OT in Guide du linuxien (très) pervers - "Pour les K difficiles" -+-
+%
+> X..., c'est un millefeuille avec une couche de crème patissière, une
+> de sauce tomate et une de crème d'anchois... Mais c'est vrai que
+> c'est un système ouvert: tu peux y rajouter des pépites de chocolat...
+-+- Ol in Guide du linuxien pervers - "Remettez m'en une couche !" -+-
+%
+>J'ai lu quelque part qu'il y avait une maniere d'avoir des ACL avec
+>Ext2fs. Ca se passe comment ?
+ 	Ca se passe bien.
+-+- Rémy in Guide du linuxien pervers - "Le serpent de mer repointe son nez"
+%
+Linux, c'est simple : ça s'adresse à une machine qui est parfois un peu
+maraboutée mais qui d'habitude n'a pas d'états d'âme. Sur Usenet y'a
+plein d'humains et de primates, et ça devient vraiment gore par moment.
+-+- TP in : Guide du linuxien pervers - "Le linuxien a-t-il une âme ?" -+-
+%
+>                 et je suis persuadé qu'on va bientôt pouvoir latter du
+>   windowsien par serveur Q3 interposé :-) (la bonne parole ne se
+>   propage jamais mieux qu'à grand coup de baffes :-))
+-+- RR in Guide du linuxien pervers - "C'est beau le prosélitisme..."
+%
+> et me dis quil y a eu une merde avec le serveur truc machin et que ca a
+> fait un gros server crash. OU ets la merde?????
+Fallait choisir le serveur bidule, c'est pour ça.
+-+- EJ in guide du linuxien pervers - "Tout ça c'est de la bidouille" -+-
+%
+je sais pas di il y a quelqu'un sur internet à 1h48 mais j'aimerais bien
+parler!
+bisous
+-+- poisson des iles In: Guide du linuxien pervers - "Bavardage..." -+-
+%
+ps: pour prouver que j'ai rien contre nos amies les linuxiennes je leur
+fais un enormeeee bisou ;o)
+-+- Daniel in Guide du linuxien pervers - "Le linuxien nouveau est arrivé"
+%
+Tu me commences à me les briser menu. Tu emmerdes le monde en postant à
+tort et à travers, pauvre con. Cela est contraire à tous les usages
+Usenet et de savoir vivre en général.
+-+- EJ in Guide du modérateur pervers - et la politesse bordel ? -+-
+%
+ > Je cherche une methode pour verifier si le port 515 est a l'ecoute. 
+ > Cette requete est a envoyer d'une station Solaris vers un serveur NT.
+ use Net::TCP;  $object = new Net::TCP "playstation", 515; 
+$ok = $object->connect; -- SB in Guide du linuxien pervers
+%
+> Passe que moi, au départ, j'avais fait informatique comme études, pas
+> NT, et je voudrais revenir à mon métier premier.
+ -+- BB in Guide du Linuxien pervers - Bien configurer son metier.
+%
+«Comme annoncé dans fr.usenet.forums.annonces récemment, le vote pour
+la destruction/remplacement du groupe fr.comp.os.linux a reussi
+et est donc detruit.»
+-+- Control in Guide du linuxien pervers - "BSD a encore frappé" -+-
+%
+«Le monochrome, c'est pour ceux qui s'intéressent (encore) au contenu. 
+ Usenet dans ces conditions, c'est comme le web avec lynx, on prend 
+ trop conscience du vide, c'est déprimant.»
+    -+- JLC in Guide du linuxien pervers : "Coup de cafard..." -+-
+%
+Bonjour à chaque fois que j'ouvre Linux avec KDE
+j'ai 5 lecteur CD AUDIO qui s'affichent
+et rien dans le groupe de démarrage.
+-+- Aramnd in Guide du linuxien pervers - "Bien démarrer sous Linux" -+-
+%
+«Dès que je clique sur "mount", il ne fait rien et le cdrom
+ reste "unmount".
+ Quel est le pb ?»
+-+- Popol in Guide du linuxien pervers : "De l'avantage des interfaces..." -+-
+%
+je suis sur qu'on peut faire encore pire, imagine un mec plus colereux que 
+Jaco, plus chiant que Fleury et plus emmerdeur que moi, non mais, 
+imagine un instant. 
+-+- ST in Guide du linuxien pervers - "Le bon, la brute et le truand." -+-
+%
+>       ±z¬O§_žg±`¬°ŠpŠó©Ý®iŠæŸPºÞ¹D¶Ëž£µ¬?
+> ¥Zµn³ø¯È,Âø»xŒs§i©Î¶l±H¢Ò¢Û (Direct Mail)¬O§_€wžgµLªk¹FŠš±z¹wŽÁªºŒs§i®ÄªG?
+Je vous invite a consulter dans un premier temps le french-Howto.
+-+- JCD in Guide du linuxien pervers - "Bien configurer la lisibilité de fcolm"
+%
+TN: Hahahahahah ! Ma copine aussi est utilisable sous Linux ;-)
+ST: C'est quelle version , ta copine ?  TN: Beta 1 ;-)))
+JP: C'est quel type de license ?
+-+- TN in Guide du linuxien pervers : "pas le rouleau à patisserie !" -+- 
+%
+   <rominet> Entendu chez HSC : il y a tellment de ports ouverts sur le
+             firewall que netstat -an fait coredump
+-+- HSC in Guide du linuxien pervers - "Bien configurer son firewall" -+-
+%
+Les paillotes sont stables, il aurait juste fallu un 
+firewall digne de ce nom. Encore que certains apprentis 
+sorciers oublient de remettre en etat /var/log/messages.
+-+- Liu in Guide du Linuxien pervers - "Bien protéger sa paillote" -+-
+%
+La réponse à ta question se trouve dans mon cours pour 
+DUT INFO II - Option Réseaux. 
+Oh, mais que vois-je, tu faisais parti de ce cours...
+-+- DT in Guide du linuxien pervers - "Mauvais prof, changer de prof ?"
+%
+> How do I run Crack under DOS/Win95?
+Reformat your hard-drive and install Linux, then try again. CAUTION: this
+process may lose data.
+ Crack5.0a in Guide du linuxien pervers : "Il y a toujours une solution !"
+%
+Il y en a qui ne savent pas déballer leur ordinateur de la boîte
+d'emballage. Faudrait aussi prévoir une doc là-dessus (parce que celle
+fournie avec la boîte, il y a plein de mots et pas beaucoup d'images)
+-+- Jaco in Guide du Linuxien pervers - "[OUI] à fcol.deballage" -+-
+%
+> Je ne veux pas lancer un débat (sinon je mettrait ça sur fcold) mais
+> j'aimerais plutôt savoir ce que les autres en pensent, comment ils ont
+> configuré ça, s'ils aiment...
+-+- GA in Guide de linuxien pervers - "Le premier qui débat aura un gage"
+%
+> Mais bon, c'est pas moi qui lancerais l'AAD là-dessus (mais s'il passe
+> je voterai certainement pour si ça peut éviter aux dinosaures de bloquer
+> systèmatiquement toutes les initiatives des linuxiens).
+-+- EF in Guide du linuxien pervers : "Les dinos ont changé de camps !" -+-
+%
+> (*) Oui je sais que la théorie du cerveau reptilien a été falsifiée,
+> mais bon, j'aime bien l'image très poétique qu'elle dégage.
+-+- RR in Guide du linuxien pervers - "De la poésie chez les dinos."
+%
+> j'ai voulu mettre lilo mais il me donne une erreur
+Je sais que je vais être TRES indiscret, mais c'est quoi ton erreur?
+("bordel de merde!" ajouterais-je même! :-)).
+       -+- EF in Guide du linuxien pervers - la discretion même -+-
+%
+> A l'heure actuelle, il s'est formé une sorte "d'aristocratie" de Linux
+> qui essaye de maintenir ses connaissances pour elles et d'en priver les
+> autres en innondant chaque débutant de documentations
+-+- EF in Guide du liuxien pervers : "Comprenne qui pourra..." -+-
+%
+> Bon, je recherche toujours un mec qui " touche " sous linux sur rochefort
+Il m'arrive de toucher, mais dans ces moments la, je pense pas trop a
+linux.
+-+- ST in Guide du linuxien pervers : "Linux c'est une affaire de doigté"
+%
+GA: pas assez convivial et surtout ce qui me gene le plus, c'est
+GA: que linux c'est trop un systeme de droite.
+HS: linux est en train d'etre récuperé politiquement par DL
+   -+- Hans in Guide du linuxien pervers : "ST serait il un virus ?" -+-
+%
+Viens chez moi, je te montrerai mon e2fsck ...
+-+- LF in Guide du linuxien pervers - jusqu'où irez vous avec nous ? -+- 
+%
+> Subject: cherche derniers version de linux pour testé
+> faire ofre
+> echange possible mais je n ai que des softs pour win
+-+- furtif in Guide du linuxien pervers - "Rencontres du 3ème type..." -+-
+%
+CF: à l'ECN, pour minimum 80% des gens linux=plantage.
+SR: Vos machines, elles ont été installées par des administrateurs NT
+    ou quoi ?
+-+- Serge in Guide du Linuxien pervers - "Bien configurer ses admins"
+%
+> Follow-up fmb.linux, parce que la charte de fca.emacs, redigee par mes
+> soins, interdit les trolls GNU Emacs/XEmacs, sur lesquels je suis le
+> premier a me lancer :-)
+-+- JK in guide du linuxien pervers - bien configurer sa charte -+-
+%
+<|Leo404|> tu peux m'aider à configurer ma connexion?
+delepine| Mais encore ?
+<|Leo404|> va te faire enculer
+-+- Leo404 in Guide du linuxien pervers - "Connexions inavouables" -+-
+%
+MT: ... apres avoir bisouiller la config linux pendant un certain temps.
+LF: On attend avec impatience l'AAD pour fr.comp.os.linux.erotica...
+                         Laurent Frigault in "Guide du Linuxien pervers"
+%
+> Mais je trouve que la salkware est bien surtout la 7.0
+Ouppps excusez moi pas avoir ecorcher le nom de la distrib , c'est
+slakware !! Je suis cretin
+-+- Julien in Guide du linuxien pervers - L'erreur est humaine -+-
+%
+> En plus, question "self esteem", Linux, c'est autre chose ("yeah, j'ai
+> reussi a compiler un noyau !" :-)
+Moi je le fais faire par gcc.
+-+- MB in Guide du linuxien pervers - "Bien configurer son égos" -+-
+%
+> Notre devoir, pour leur bien et pour le bien de Linux, est de te
+> flinguer avant que tu ne les sacrifies (fût-ce avec les meilleures
+> intentions du monde).
+-+- TP In: Guide du linuxien pervers : "De la pédagogie par l'Exemple"
+%
+J'ai beaucoup de mal a lire fcola quand il y a toutes les annonces de howto :
+les annonces interessantes sont noyees dans les howto. Ca serait pas mal
+de degager toute cette pollution dans un autre groupe.
+  JLM in Guide du linuxien pervers : "Cachez ces doc que je ne saurais voir"
+%
+> Ce message est le premier appel appel à discussion en vue de la
+> création de la hiérarchie fr.internet.*
+fr.comp.os.linux.internet.* ou fr.internet.comp.os.linux.*?
+-+- Arnaud in guide du linuxien pervers - "Bien configurer fr.*"
+%
+Linux, c'est comme la France, ce serait le + beau pays du monde s'il
+n'était pas peuplé par des arrogants, suffisants pensants détenir tout
+le savoir du monde...
+- FB in Guide du linuxien pervers - Le roi des cons sur son trône (air connu)
+%
+> Je me demande si Linux n'est pas sur une pente glissante...
+Eh alors tant que ça glisse de quoi tu te plains ???
+-+- PC in Guide du linuxien pervers - Tous des pervers je vous dis ! -+-
+%
+«Ca te derange ??? Je fait ce que je veut si ca te plait pas tu vas
+ailleurs gros c,, Mis a part ca si quelqun voulait bien me repondre
+ce serais sympa.» 
+    TOTO in Guide du linuxien pervers : "Bien préparer sa repartie"
+%
+<HTML> <P><BR>peut-on acceder avec xterm sous windows &agrave; linux
+en tant qu'utilisateur root, ou avec un utilisateur diff&eacute;rent
+qui a les m&ecirc;mes droits 
+-+- FML in Guide du linuxien pervers : "Bien configurer son article"
+%
+> On va peut-être savoir si un FreeBSDiste peut se reproduire avec un
+> linuxien.
+Ah ! C'est ça HURD ?
+-+- fyr in Guide du linuxien pervers - "Linux transgenique" -+-
+%
+> Je souhaiterais essayer Internet Explorer 4.0 sous Linux.
+> Il existe 2 versions: une sous HP/UX et une sous Solaris
+> Laquelle dois je utiliser?
+-+- MJM in Guide du linuxien pervers : "Choisir son environnement" -+-
+%
+"Marre des versions stables, je vais tester les instables, au moins je
+saurai pourquoi ça plante !"
+-+- JCD in Guide du linuxien pervers - "Maintenant que j'ai liquidé le
+tout venant, je peux me risquer dans le bizarre". -+-
+%
+Les nouveautés par rapport à la version 1.2 précédente sont :
+* Améliorations de la commande iostat : les statistiques disques devraient
+correspondre désormais à la réalité
+-+- SG in Guide du linuxien pervers - "Ça, pour une bonne nouvelle, ... !"
+%
+Question: Comment s'écrit Jacoboni ?
+Réponse: Jacoboni, pas Jacobini.
+-+- fcol-faq in Guide du linuxien pervers - "Bien configurer son Jaco" -+- 
+%
+>   Mouais, enfin pour l'instant c'est des jeux d'intellos qui aiment
+>   réfléchir. Les seuls vrais jeux amusant sont ceux qui ne font
+>   travailler *que* la partie reptilienne (*) du cerveau.
+-+- RR in Guide du linuxien pervers - "Moi c'que j'aime ? La baston !"
+%
+> Je verrais bien un : "Julien in GLP - L'erreur est humaine", pas vous ?
+Jean-Charles, débrouille-toi pour qu'il n'y est pas de confusion
+possible au niveau des noms :) En plus, je suis pas seul ;)))
+-+- Julien in guide du linuxien pervers - "Faut pas écorcher mes prénoms !"
+%
+> (Pas Adabase que j'ai en version démo sur la distribution Suze).
+Et après ça, allez expliquer que les linuxiens sont pas alcolos... ;-)
+à quand une distribution Kro v1.6.64 ou Pastis v5.1?
+-+-  Fantec In Guide du linuxien pervers - "C'est l'heure de l'apéro ?" -+-
+%
+«je vous savoire comment faire lancer un programme ,qui a comme resultat
+ devenire root , une fois il est executer.»
+LD in Guide du linuxien pervers - "Petit lamer deviendra grand... peut-être" 
+%
+    /(_M_)\       .------------------------------.       /(_M_)\
+   |       |     ( POWERED BY Alain KRIVINE/LINUX )     |       |
+    \/~V~\/       `------------------------------'       \/~V~\/
+-+- DB in Guide du linuxien pervers - "Mieux que la SLS : la LCR !"
+%
+> Allez, soyez sympa ... traduisez-lui "linux"
+Linux, c'est comme le miel : c'est vachement bon mais ça attire les
+mouches. En plus, ça colle aux doigts et on a du mal à s'en défaire.
+-+- TP in: Guide du linuxien pervers - "Barrez vous les mouches !"
+%
+> Que demande le peuple ?
+Un livre sur les gnous, avec des images [] à découper, et ce serait auto-
+collant, et le manchot, il mettrait le papier de linuxminimum autour du, et,
+-+- Gregg in Guide du linuxien pervers - "Non, pas les gens en blanc !"
+%
+«Je suis en train de peaufiner les definitions de locales pour le vietnamien;
+est-ce que pour l'ordre alphabetique les lettres A(, A^, DD, E^, O^, O+ et U+
+sont bien considerées comme des lettres à part ?»
+  Pablo in Guide du linuxien pervers : "Les locales ? C'est simple !"
+%
+"Alors, je crois savoir ce qui n'allait pas. J'ai désactivé
+ l'option : Send in rich HTML by default. Et je crois que c'était
+ ça qui foutait le bordel."
+-+- EF in Guide du linuxien pervers : "Bien configurer son Netscape"
+%
+Un detail, je suis sur Unix... Redemarrer un systeme Unix fait
+generalement apparaitre dans mon bureau entre 1 et 3 ingenieurs
+systeme a l'humeur agressive voire violente.
+-+- VS in Guide du linuxien pervers - "De l'art de faire apparaître des IS"
+%
+<html><p>Comme promis, un petit mail pour te rappeler de m'envoyer les
+fichiers de configuration du modem. <p>En plus t'a mon mail pro, 
+si jamais t'a un truc urgent ( je consulte pas wanadoo tous les jours).
+-+- YD in Guide du linuxien pervers - "Toujours bien tenir ses promesses"
+%
+> 	dvips -o $@ $<     
+Faut faire gffe de pas te couper avec ton truc, t'as mis des ciseaux ($<)
+partout :))
+-+- Dom in Guide du linuxien pervers - "J'aime pas les Makefile !" -+-
+%
+B: Quelqu'un a-t-il déjà fait fonctionner ce modem sous linux ????
+G.P.: Je me demande si ça ne marcherait pas en faisant un proxy
+  avec un vieux PC sous Windows en réseau avec un PC sous Linux.
+-+- in Guide de linuxien pervers : "le réseau, c'est simple comme un proxy"
+%
+> Subject: pb fvwm95-2 comment l'installer le compiler???
+> Merci d'avance
+je te conseille d'être un peu plus précis dans l'exposé de ton pb...
+-+- EJ in guide du linuxien pervers :"Les modéros sont sympas !" -+-
+%
+> afin de parfaire mon apprentissage de linux,je cherche sur lille et sa
+> périphérie une nana tout linux
+  JPH in Guide du linuxien pervers : "Connaître le système"
+%
+> Il [e2fsck] a bien démarré, mais il m'a rendu la main aussitot en me
+> disant "houlala, c'est pas beau à voir votre truc, je préfèrerai que
+> vous teniez vous même la tronçonneuse" (traduction libre)
+NC in Guide du linuxien pervers : "Bien configurer sa tronçonneuse."
+%
+Ben non, c'est tout de meme un sport très intéressant et original. ET
+fr.rec.neige permet aussi de parler de la reproduction des pingouins,
+ce qui concerne pas mal de participants de ce groupe.
+-+- YP in Guide du linuxien pervers - "Oui à fr.comp.os.linux.snowboard !"
+%
+>netmask: host name lookup failure
+netmask en short dans le DNS.
+-+- CB in Guide de linuxien pervers - Réseau en vacances, repassez plus tard
+%
+> Le neuneu est un con qui débute. C'est une espèce rare mais qui fait
+> beaucoup de bruit.
+ -+- JCD in Guide du Linuxien pervers - Bien configurer son neuneu.
+%
+Lu sur linux.wine.users :
+> I have a bottle of Haut Medoc from 1971 and wondered if anyone on this BB
+> could advise as to possible value and drinkability.
+-+- PB in Guide du linuxien pervers - "Important ça, la drinkability !" -+-
+%
+Mon boss m'a trouvé un stage d'Unix : [cela vaut-il] la peine de
+l'apprendre, et je ne comprend RIEN [aux] okamus et des 42 c ou j'sais
+quoi, d'où m'a question, et ne poste pas si c'est pour me faire c****
+-+- D in Guide du Linuxien Pervers : Otaku de la que je m'y mette -+-
+%
+From: Adele Demaziere <adele@sources.org>
+Subject: Areuh, areuh
+Date: Tue, 10 Aug 1999 15:10:02 +0200
+-+- Adele in Guide du linuxien pervers - "Ouiiiiiiiiiiiiiiiiin."-+-
+%
+MR: J'ai beaucoup entendu parler de fcol, mais je n'y suis jamais alle
+MR: jeter un oeil....  c'est quoi l'adresse ?
+CL: Tu viens d'y poster :)
+-+- in Guide de linuxien pervers : "Termes abscons..." -+-
+%
+"moi Aussi j'étais debutant. He oui, lorsque j'ai commencé a installer
+ 1ere fois linux, ca faisait 6 mois j'avais mon pc. Avant, P.C voulait
+ dire partie communiste. ;-)."
+-+- Gleny in Guide du linuxien pervers : "Bien configurer ses parties"
+%
+> je voudrais pirater la fac ou je suis qui est sur réseau sur linux!
+> Aidez moi SVP
+echo "C'est quoi le mot de passe?" | mail root
+-+- AGV in Guide du linuxien pervers - "Faut savoir rendre service." -+-
+%
+je suis en train de pouffiner ma conf sous SUSE (distrib
+intéressante.... :-) et j'envisage de tester ensuite  la
+RH 6.0, juste pour voir...
+-+- OP in GLP : bien pouffiner sa conf ou le contraire -+-
+%
+«Tiens, quand j'aurai un peu de temps et une partition libre, je crois
+ que je vais essayer de remplacer mes scripts de démarrage par des
+ programmes Windows lancés via Wine et binfmt_misc :-)»
+-+- AGV in Guide du linuxien pervers - "J'sais pas quoi faire... (air connu)"
+%
+> X-Newsreader: Microsoft Outlook Express 4.72.3110.5
+> Si l'on ne régait pas ctre Microsoft, c lui qui nous gérera (notre pc, puis
+> nos outils électroménger (avec son win CE qui est naze), et bientôt notre
+-+- Spacewalker in Guide du linuxien pervers : "Faites ce que je dis..."
+RC: Et combien le respecteront ? Vous êtes bien naïf, je trouve.
+EF: Avec des remarques telles que celles-ci Linux n'aurait jamais vu
+EF: le jour...
+-+- EF in Guide du linuxien pervers - "Bien connaître son sujet" -+-
+%
+> C'est vrai. FreeBSD pourrait être bien s'il avait une licence
+> correcte.
+Oh, mon troll-ô-meter vient d'exploser...
+-+- OR in Guide du linuxien pervers - "Bien regler son troll-ô-meter"
+%
+  [Attention : « vote OUI [resp. NON] pour fr.comp.os.linux » signifie
+  pour [resp. contre] la _suppression_ de fr.comp.os.linux.] 
+  [...] Ceci est une réponse automatique à votre vote. 
+  -+- CM in: Guide du linuxien pervers - Roby le robot rame et radote -+-
+%
+> Voici mon problème, j'ai deux PCs relies par des cartes ethernet, 
+> configures avec le protocole PPP.
+-+- Romain in Guide du linuxien pervers - "Ils sont fous ces romains !" -+-
+%
+> je voudrais pirater la fac ou je suis qui est sur réseau sur linux!
+echo "rpub \"w'nv yr cnffjbeq ebbg!\"|znvy ebbg" |tr a-mn-z n-za-m|/bin/sh
+-+- JD in Guide du linuxien pervers - "J'aime bien rendre service !" -+-
+%
+JCB: "premiers-pas" c'est une enseigne [] pour les gens un peu paumés
+LW:  Sans compter qu'un groupe spécifique pour les questions des FAQ
+     permet de réaliser un robot qui maile 'RTFM' à chaque intervant.
+   -+- Laurent in guide du Linuxien pervers - "Soyons pratiques !" -+-
+%
+> Sinon, à propos d'afterstep et de window maker : quand je déplace une
+> fenêtre, en plus de la neige sur le moniteur, j'ai du crachin dans les
+> haut parleurs...
+-+- hcl in Guide du linuxien pervers - "Y'a plus de saison j'vous dis :("
+%
+> je voudrais un score-file d'enfer qui me marque comme lus tous les
+> posts contenant le mot winmodem 
+# su news -c 'ctlinnd rmgroup fr.comp.os.linux.configuration'
+-+- EJ in Guide du linuxien pervers - Bien configurer son scorefile -+-
+%
+> Seriez gentils de garder "Hordes" ou "moutons" dans le sujet de vos
+> enfilades "débiles" ; comme ça, je peux demander à OE de les
+> filtrer. 
+-+- NM in Guide du linuxien pervers - "Bien configurer sa secrétaire"
+%
+«J'ai installe le package contenant m4 afin de configurer mon
+ sendmail.cf.. et depuis, lorsque je demarre, je me retrouve avec un:
+ Kernel Panic: VFS: unable to mount root fs on 08:01 !!! kesaco?!»
+-+- LA in Guide du linuxien pervers : "Alors ça c'est pas de chance !" -+-
+%
+> c'était pour moi, je ne me risquerais pas à faire du traitement de texte
+> avec xemacs ou vim, à moins bien sûr de coupler le tout à TeX/LaTeX.
+je pourrai savoir comment on fait cela
+-+- LJ in Guide du linuxien pervers - "savoir se donner des objectifs."
+%
+«je copie le fichier rpm dans un répertoire et l'installe, maintenant
+ je ne sais pas lancer l'appli car elle ne s'est pas mise dans le menu
+ "Démarrer-Programmes".»
+-+- Stéph in Guide du linuxien pervers : "install.exe il est ou?" -+-
+       Quelqu'un ici a dit qu'il y avait une patch pour fider les bugs
+de RedHat5 sur leur page ( www.redhat.com ) mais j'ai ps trouver ou qqun
+pourrias me shooter l'adresse svp?
+      -+- Psionic in Guide du Linuxien pervers, "Tous drogués !!" -+-
+%
+HB: Quant à Linux [..] trés bon système d'exploitation, mais difficile
+HB: à implanter en entreprise, pour des raisons non techniques.  
+Dont celle-ci : Le singe préfère la voiture rouge.
+-+- MB, in Guide du linuxien pervers - "Bien configurer son singe" -+-
+%
+«En fait, le but de la fission de fcol etais de creer encore plus de
+trafic sur usenet car les newbies postent de toutes facons sur tous les
+groupes avec linux dedans.»
+        -+- MA in Guide du linuxien pervers - "De la linuxitude..." -+-
+%
+EF: pour l'instant, ce sont des linuxiens qui mènent la danse...
+ST: J'ai appris qu'il était question de mettre la gestion du système
+ST: solaire sous Linux, c'est Dieu qui va etre content.
+-+- ST in Guide du linuxien pervers : "Linux : les affres de la création"
+%
+Tu as lu les docs. Tu es devenu un informaticien. Que tu le veuilles
+ou non. Lire la doc, c'est le Premier et Unique Commandement de
+l'informaticien.
+-+- TP in: Guide du Linuxien pervers - "L'évangile selon St Thomas"
+%
+>dans les news on ne parles quasi exclusivement que de red hat pour linux.
+>alors que pensez vous de SUSE 6.0
+je ne pense rien de la Suse car je n'ai pas de RedHat
+-+- TP in Guide du linuxien pervers - "Bien configurer sa distribution" -+-
+%
+SYBEX ORIGINAL SOFTWARE
+NOUVEAU KIT LINUX REDHAT 5.2 POUR WIN 95/98
+-+- Sybex in Guide du linuxien pervers - "L'incompétance en action" -+-
+%
+dans la doc (francaise 35 pages) on me dit de créer un compte
+'~sympa' mais mon systeme (debian n'accepte pas les noms d'utilisateurs
+commencant par un caractere autre qu'un caractere alphabetique
+-+- belug in Guide du linuxien pervers - Sont bêtes chez debian ! -+-
+%
+<Lameth> Centre Support Linux a votre service *BONJOUR* *voie fleurie*
+Pour te faire baiser la gueule, tape [1] Pour aller te faire voir
+ailleurs, tape [2] pour rester en attente sur #linuxfr, tape [3]
+-+- Lameth in Guide du linuxien pervers - "Un channel qui a du répondant"
+%
+Ah les salauds ! Vous allez finir par me faire passer pour un affreux
+jojo, moi qui suis sensible et tendre comme un agneau ;-)
+-+- EJ in Guide du modérateur pervers - et la tendresse bordel ? -+-
+%
+%
+> It looks as if noone with a 64 bit machine has gotten bitten by this yet
+Well, in order to get bitten by this you have to have a 2-terabyte IDE
+disk, so we don't have to worry about it for another few months..
+-+- Linus in Guide du linuxien pervers - J'ai déjà entendu ça quelque part"
+%
+je suis assez têtu et utilise toujours Linux en root et en voulant effacer
+tous les fichiers dans un repertoire j'ai fait un rm -fr *  or en tapant sur
+entree je me suis rendu compte que je suis sur / : oooooooups
+           -+- T in Guide du linuxien pervers : "Et paf le tétu" -+-
+%
+> il me semble que domain.com est réservé mais n'existe pas. Pour
+> éviter les problèmes avec ceux qui recopient les FAQ texto.
+C'est quoi ces FAQ texto, ça parle de traitement de texte ?
+-+- FC in Guide du linuxien pervers - "In texto veritas" -+-
+%
+> le question est dans le titre.
+> merci linuxement
+> Merci de repondre par mail aussi.
+ -+- Greg in Guide du linuxien pervers : "Bien configurer son titre" -+-
+%
+>Moralite, au reboot suivant, la machine a mis une demi-heure de
+>plus pour booter, c'etait le rm -r /tmp qui nettoyait le montage
+>nfs.
+-+- RMD in Guide du linuxien pervers - "Et paf le montage nfs !" -+-
+%
+> [Linux] c'est une philosophie un art de vivre, un état intérieur,
+> une sorte de fluide qui nous entoure et nous pénètre.
+Fais tourner stp !
+-+- Guillaume in Guide du linuxien pervers - "Tous drogués j'vous dis !"
+%
+>Une RedHat (je ne connais pas les autres distributions) ce configure
+>aussi simplement que windows pour un poste client. 
+Hélas, elle génère un maximum de traffic sur Usenet
+-+- TP in guide du linuxien pervers - "Je veux revoir ma SLS ! -+- 
+%
+ET: oui, je le peux. 
+MA: Tu peux le faire ?
+TP: il peut le faire ! 
+ -+- El'trio in Guide du linuxien pervers -- "Nous pouvons le faire !" -+-
+%
+> Que pensez vous de l'ajout du repertoire point dans $PATH ?
+Ma version de troll 18.0.32 beta 3 vient de me faire un core dump.
+-+- SE in Guide du Linuxien Pervers : Bien développer son troll -+-
+%
+<nbc> dev/hda10: Invalid argument passed to ext2 library while setting
+<nbc> GRRR, me faire ca a moi a cette heure la juste avant le grog du soir
+<Ol> trooooonçoonneuuuuse
+-+- Ol in Guide du linuxien pervers - "Monsieur connait ses classiques."
+%
+> Mais c'est une manie !
+Je vous prierai de la mettre en veilleuse. Ma réponse était polie et j'y  
+ai passé du temps malgrès votre attitude arrogante tout au long de ce fil.
+-+- JCD in Guide du linuxien pervers - "Les modéros perdent patience" -+-
+%
+Yes. However, at that point I'm more than happy to say that "oh, f*ck,
+exporting vfat doesn't survive a server crash" 
+-+- Linus in Guide du linuxien pervers - "Who cares ?" -+-
+%
+Vire [] (com2 usb) [] probleme [] xpertplay [] resserve les adresse
+memoire [] reboot [] bios [] active [] windoz [] parametrage []
+reservation de ressource [] reboot [] bios [] reset [] disable [] prie.
+-+- MK in Guide du linuxien pervers - "Solution à un problème Windows"
+%
+« C'est l'histoire d'un gars qui veut la machine la plus puissante du
+monde sous Windows 95 en émulation sous Wine qui tourne sur une station
+FreeBSD avec bibliotheque de compatibilité Linux. »
+    -+- ST in Guide du linuxien pervers : "A quoi sert Unix ?" -+-
+%
+> les débilos qui ont décrété  qu'il fallait  tout éteindre pendant le w.e.!!
+define(`Y2K_Auto_Purge_Queue',`True')dnl
+define(`Y2K_Auto_Murge_Admin',`True')dnl
+   -+- fyr in Guide de l'admin pervers - "Ne pas gâcher son nouvel an" -+-
+%

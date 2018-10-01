@@ -1,0 +1,101 @@
+Debian Tipp #1: Sie können mit »reportbug« einen Fehler (eng. Bug) in einem
+Paket melden. Dazu muss das Paket reportbug installiert sein.
+%
+Debian Tipp #2: Mit »dpkg-reconfigure <Paketname>« können sie die Antworten
+ändern, die sie bei der ersten Installation eines Paketes gegeben haben.
+%
+Debian Tipp #3: »apt-cache search <Begriffe>« sucht nach den Begriffen in den
+Beschreibungen aller verfügbaren Pakete.
+%
+Debian Tipp #4: Sie können die verfügbaren und die installierte Version eines
+oder mehrerer Pakete mit dem Kommando »apt-cache policy <Pakete>« abfragen.
+%
+Debian Tipp #5: Wenn Sie einen eigenen Kernel compilieren möchten, benutzen Sie
+doch das Skript »make-kpkg« aus dem Paket kernel-package.
+%
+Debian Tipp #6: Es gibt keinen Tipp #6.
+%
+Debian Tipp #7: Sie können das cron-apt Paket benutzen, um nachts automatisch
+Updates für installierte Pakete downloaden zu lassen.
+%
+Debian Tipp #8: Wenn Sie mit Debian Probleme haben, die sie nicht durch lesen
+der Handbuchseiten und Dokumentation lösen können, versuchen sie es doch mit
+der Debian User Mailingliste (debian-user-german@lists.debian.org).
+%
+Debian Tipp #9: Wenn Sie wissen wollen, welche Version von Debian sie gerade
+benutzen, schauen sie /etc/debian_version nach; wenn Sie den Codenamen dieser
+Version (3.0 heisst zum Beispiel »Woody«) hat, rufen sie diese URL auf:
+
+http://www.debian.org/doc/FAQ/ch-ftparchives.html#s-codenames
+%
+Debian Tipp #10: Es gibt Debian Mailinglisten für alles, von Fragen der
+Benutzer bis zu Debatten, was man den Debians Richtlinien-Dokumenten hinzufügen
+sollte. Schauen sie doch mal die Auflistung unter
+http://www.debian.org/MailingLists/ an, und abonieren Sie die Listen, die sie
+interessieren.
+%
+Debian Tipp #11: Bleiben Sie auf dem laufenden - lesen sie die wöchentlichen
+Debian-Nachrichten! Lesen Sie sie im Web unter
+http://www.debian.org/News/weekly/, oder abonieren Sie
+debian-news-german@lists.debian.org.
+%
+Debian Tipp #12: Das Paket grep-dctrl enthält einige nützliche Skripts, um
+verschiedene Kontroll-Dateien für Pakete (wie zum Beispiel die Datei der
+verfügbaren Pakete) zu durchsuche.
+%
+Debian Tipp #13: Wenn Sie default Optionen, die Debian in einem Paket benutzt,
+nicht mögen, können sie den Quellcode herunterladen, und ein Paket mit den
+Optionen bauen, die sie bevorzugen. Nähere Informationen hierzu finden Sie
+unter http://www.debian.org/doc/FAQ/ch-pkg_basics.html (Kapitel 6.13 und 6.14).
+%
+Debian Tipp #14: Wenn Sie mitverfolgen möchten, was mit einem Paket passiert
+(zum Beispiel bugreports, Notizen zum Release, und ähnliche Dinge), können Sie
+dies mit dem Paket Beobachtungssystem (Package Tracking System) abonieren. Mehr
+Informationen zum PTS finden sie hier:
+
+http://www.debian.org/doc/manuals/developers-reference/ch-resources.en.html
+(Kapitel 4.11)
+%
+Debian Tipp #15: Die Dokumentation für ein Paket finden sie normalerweise im
+Verzeichnis /usr/share/doc/<Paket>. Insbesondere die Datei README.Debian
+enthält oft nützliche Informationen über Debian spezifische Eigenheiten oder
+Tipps.
+%
+Debian Tipp #16: Wenn Sie eine bestimmte Datei suche, aber nicht wissen, zu
+welchem Paket sie gehört, installieren Sie »apt-file«. Dieses unterhält eine
+kleine Datenbank mit solchen Informationen.
+%
+Debian Tipp #17: Brauchen Sie jemanden um über Debian zu reden? Installieren
+Sie einen der vielen IRC-Klienten (»grep-available --field=Provides irc | grep
+^Package« zeigt ihnen eine Liste aller Pakete an, die einen IRC-Klienten
+enthalten). Verbinden Sie sich mit irc.debian.org und betreten Sie den Kanal
+#debian.de
+%
+Debian Tipp #18: Sie können die Fehler eines bestimmten Paketes unter
+http://bugs.debian.org/<Paket> ansehen.
+%
+Debian Tipp #19: Wenn Sie daran Interesse haben, Pakete aus den Quellen heraus
+zu bauen, sollten Sie sich überlegen, das Paket apt-src zu installieren.
+%
+Debian Tipp #20: Wollen Sie den Überblick behalten, welche Version einen
+Paketes Sie installiert haben (insbesondere auf gemischten stable / testing /
+unstable Systemen)? Schauen Sie sich doch mal apt-show-versions an.
+%
+Debian Tipp #21: Wenn Ihre Debian Maschine an einer langsamen Netzwerk
+Verbindung hängt, Sie aber auch Zugang zu einer Schnellen haben, schauen Sie
+sich doch mal das Paket apt-zip an.
+%
+Debian Tipp #22: Fragen Sie sich, welcher Debian Spiegel für Sie am besten ist?
+Schauen Sie sich doch mal die Pakete apt-spy und netselect-apt an, welche
+Informationen über die Performance verschiedener Spiegel-Server ermitteln
+können.
+%
+Debian Tipp #23: Wenn Sie die Einstellung in /etc/modules.conf ändern möchten,
+editoeren Sie /etc/modutils und rufen anschliessend »uptade-modules« auf.
+(Beachten Sie bitte, dass auf der s390 Architektur /etc/modules.conf durch
+/etc/chandev.conf ersetzt wurde.)
+%
+Debian Tipp #24: Wenn Ihr System zu viel Plattenplatz belegt, probieren Sie
+doch mal die Pakete deborhpan und debfoster aus. Sie können ungenutzte Pakete
+ermitteln, und Vorschläge machen, was man entfernen kann.
+%
