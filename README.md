@@ -1,34 +1,37 @@
 # DOS fortune
-This is a fortune clone for DOS. It also includes almost 1MB of textfiles 
+This is a fortune clone for DOS. It also includes 11MB of textfiles 
 bringing thousands of cookies with it. 
+Configuration of selected categories is very easy, just edit FORTUNE.CFG. 
 
 # Screenshot
 ![ScreenShot](https://raw.githubusercontent.com/spacerace/dos-fortune/master/screenshot.png)
  
-# Installing and Running it
-FORTUNE.COM must be called together with the path to the folder with all 
-cookies and FORTUNE.CFG. Example: 
+# Installing and Running it  
+If no arguments are given to FORTUNE.COM it will look into folder  
+C:\GAMES\FORTUNE\ for FORTUNE.CFG. If you give an argument, it has to be a  
+folder with a valid FORTUNE.CFG and cookie files in it.  
 ```
-C:\GAMES\FORTUNE\FORTUNE.COM C:\GAMES\FORTUNE\
-```
-The folder C:\GAMES\FORTUNE needs this content: 
-* FORTUNE.COM
-* FORTUNE.CFG
-* all the files listed in FORTUNE.CFG (cookie-files) 
-
-These files can be found in subfolder "files". 
-Here in source's root folder I also supply "fortune.zip", which is a complete 
-package of FORTUNE and all COOKIE-FILES. 
-Simply unpack to a folder and call it. 
- 
+FORTUNE.COM C:\GAMES\FORTUNE\  
+```  
+The folder C:\GAMES\FORTUNE needs this content:  
+* FORTUNE.COM  
+* FORTUNE.CFG  
+* all the files listed in FORTUNE.CFG (cookie-files)  
+  
+Here in source's root folder I also supply "fortune.zip", which is a complete  
+package of FORTUNE and all COOKIE-FILES. Simply unpack to a folder and call it.  
+An unpacked folder called 'dist' also exists.  
+  
 # FORTUNE.CFG and COOKIE-FILES
-Fortune files are standard unix-fortune files. Every cookie can be more than 
-one line. They are seperated by '%' character. 
-The config file only holds filenames of cookie files. Every line is one cookie- 
-file. 
+Fortune files are standard unix-fortune files. They may be in subfolders.
+Every cookie can be more than one line. They are seperated by '%' character. 
+The config file only holds filenames of cookie files. Lines can also be
+comments, these start with a '#' character.
+No empty lines are allowed.
+
 
 # Emulating it (dosbox)
-On linux-systems you can use my makefile for starting dosbox, it does autostart
+On linux-systems you can use my makefile for starting dosbox, it does autostart 
 fortune.
 ```
 $ make dosbox
